@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/elife-terms-prototype/',
+  base: '/ux-prototypes/elife-terms-prototype/',
 })
