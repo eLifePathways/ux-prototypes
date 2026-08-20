@@ -1,0 +1,2520 @@
+[
+  {
+    "id": "112378",
+    "doi": "10.7554/eLife.112378",
+    "url": "https://doi.org/10.7554/eLife.112378",
+    "date": "2026-07-28",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cancer Research",
+    "primaryTopic": "Cancer, Hypoxia, and Metabolism",
+    "topics": [
+      {
+        "name": "Cancer, Hypoxia, and Metabolism",
+        "subfield": "Cancer Research",
+        "score": 90
+      },
+      {
+        "name": "Amino Acid Enzymes and Metabolism",
+        "subfield": "Biochemistry",
+        "score": 8
+      },
+      {
+        "name": "Cancer Research and Treatments",
+        "subfield": "Biotechnology",
+        "score": 1
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Cancer cell",
+        "score": 74
+      },
+      {
+        "name": "Glutaminolysis",
+        "score": 66
+      },
+      {
+        "name": "Metabolic pathway",
+        "score": 49
+      },
+      {
+        "name": "Downregulation and upregulation",
+        "score": 49
+      },
+      {
+        "name": "Mitochondrion",
+        "score": 48
+      },
+      {
+        "name": "Adaptation (eye)",
+        "score": 47
+      },
+      {
+        "name": "Cancer",
+        "score": 43
+      },
+      {
+        "name": "Metabolic adaptation",
+        "score": 43
+      },
+      {
+        "name": "Oxidative phosphorylation",
+        "score": 41
+      },
+      {
+        "name": "Glycolysis",
+        "score": 40
+      }
+    ],
+    "authors": "David Sokolov, Eric Zheng, Serwah Danquah, Madeleine L. Hart, Lucas B. Sullivan",
+    "title": "Adaptive plasticity of aspartate metabolism in succinate dehydrogenase-deficient cancer cells"
+  },
+  {
+    "id": "110305",
+    "doi": "10.7554/eLife.110305",
+    "url": "https://doi.org/10.7554/eLife.110305",
+    "date": "2026-07-06",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cancer Research",
+    "primaryTopic": "Cancer, Hypoxia, and Metabolism",
+    "topics": [
+      {
+        "name": "Cancer, Hypoxia, and Metabolism",
+        "subfield": "Cancer Research",
+        "score": 15
+      },
+      {
+        "name": "Renal cell carcinoma treatment",
+        "subfield": "Pulmonary and Respiratory Medicine",
+        "score": 14
+      },
+      {
+        "name": "Microbial metabolism and enzyme function",
+        "subfield": "Molecular Biology",
+        "score": 8
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Small molecule",
+        "score": 74
+      },
+      {
+        "name": "Suppressor",
+        "score": 67
+      },
+      {
+        "name": "Mutant",
+        "score": 65
+      },
+      {
+        "name": "Mutation",
+        "score": 57
+      },
+      {
+        "name": "Somatic cell",
+        "score": 57
+      },
+      {
+        "name": "HEK 293 cells",
+        "score": 54
+      },
+      {
+        "name": "Function (biology)",
+        "score": 53
+      },
+      {
+        "name": "Loss function",
+        "score": 51
+      },
+      {
+        "name": "Phenotype",
+        "score": 44
+      }
+    ],
+    "authors": "Mariam A. Fouad, Christopher S Parry, Sven A. Miller, Shipra Malhotra, Glenn A. Doyle, Ezra Shimabenga, Mashhura Nurilloeva, Elena Bondarenko, Grigorii Andrianov, Wayne Childers, Benjamin E. Blass, Petr Makhov, Johnathan R. Whetstine, Margie L. Clapper, Erica A. Golemis, John Karanicolas",
+    "title": "Rescuing the Function of Missense-Mutated Tumor Suppressor VHL using Stabilizing Small Molecules"
+  },
+  {
+    "id": "108128",
+    "doi": "10.7554/eLife.108128",
+    "url": "https://doi.org/10.7554/eLife.108128",
+    "date": "2026-06-25",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cancer Research",
+    "primaryTopic": "Cancer, Hypoxia, and Metabolism",
+    "topics": [
+      {
+        "name": "Cancer, Hypoxia, and Metabolism",
+        "subfield": "Cancer Research",
+        "score": 55
+      },
+      {
+        "name": "Metal-Catalyzed Oxygenation Mechanisms",
+        "subfield": "Inorganic Chemistry",
+        "score": 17
+      },
+      {
+        "name": "Redox biology and oxidative stress",
+        "subfield": "Molecular Biology",
+        "score": 4
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Hydroxylation",
+        "score": 82
+      },
+      {
+        "name": "Proline",
+        "score": 66
+      },
+      {
+        "name": "Hydroxyproline",
+        "score": 58
+      },
+      {
+        "name": "Mass spectrometry",
+        "score": 57
+      },
+      {
+        "name": "Hydrophilic interaction chromatography",
+        "score": 53
+      },
+      {
+        "name": "Amino acid",
+        "score": 52
+      },
+      {
+        "name": "Peptide",
+        "score": 35
+      }
+    ],
+    "authors": "Hao Jiang, Jimena Druker, James W. Wilson, Dalila Bensaddek, Jason R. Swedlow, Sónia Rocha, Angus I. Lamond",
+    "title": "Systematic characterisation of site-specific proline hydroxylation using hydrophilic interaction chromatography and mass spectrometry"
+  },
+  {
+    "id": "108076",
+    "doi": "10.7554/eLife.108076",
+    "url": "https://doi.org/10.7554/eLife.108076",
+    "date": "2026-06-22",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cancer Research",
+    "primaryTopic": "Cancer Genomics and Diagnostics",
+    "topics": [
+      {
+        "name": "Cancer Genomics and Diagnostics",
+        "subfield": "Cancer Research",
+        "score": 36
+      },
+      {
+        "name": "Genetic factors in colorectal cancer",
+        "subfield": "Pathology and Forensic Medicine",
+        "score": 15
+      },
+      {
+        "name": "BRCA gene mutations in cancer",
+        "subfield": "Genetics",
+        "score": 8
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Gene",
+        "score": 61
+      },
+      {
+        "name": "Breast cancer",
+        "score": 57
+      },
+      {
+        "name": "Missense mutation",
+        "score": 49
+      },
+      {
+        "name": "Genome",
+        "score": 44
+      },
+      {
+        "name": "Zinc finger",
+        "score": 41
+      },
+      {
+        "name": "Single-nucleotide polymorphism",
+        "score": 40
+      },
+      {
+        "name": "Coding region",
+        "score": 39
+      },
+      {
+        "name": "Gene expression",
+        "score": 39
+      }
+    ],
+    "authors": "Michael Kitoi, John Gitau, Godfrey Wagutu, Kennedy Mwangi, Florence Ngonga, Francis Makokha",
+    "title": "Mutational and Expression Profile of ZNF217, ZNF750, ZNF703 Zinc Finger Genes in Kenyan Women Diagnosed with Breast Cancer"
+  },
+  {
+    "id": "111394",
+    "doi": "10.7554/eLife.111394",
+    "url": "https://doi.org/10.7554/eLife.111394",
+    "date": "2026-06-02",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cancer Research",
+    "primaryTopic": "Cancer-related molecular mechanisms research",
+    "topics": [
+      {
+        "name": "Cancer-related molecular mechanisms research",
+        "subfield": "Cancer Research",
+        "score": 49
+      },
+      {
+        "name": "RNA Research and Splicing",
+        "subfield": "Molecular Biology",
+        "score": 47
+      },
+      {
+        "name": "RNA regulation and disease",
+        "subfield": "Molecular Biology",
+        "score": 1
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Intron",
+        "score": 87
+      },
+      {
+        "name": "MALAT1",
+        "score": 85
+      },
+      {
+        "name": "RNA splicing",
+        "score": 70
+      },
+      {
+        "name": "Long non-coding RNA",
+        "score": 55
+      },
+      {
+        "name": "Function (biology)",
+        "score": 47
+      },
+      {
+        "name": "Cell growth",
+        "score": 38
+      },
+      {
+        "name": "Loss function",
+        "score": 38
+      },
+      {
+        "name": "RNA",
+        "score": 36
+      }
+    ],
+    "authors": "Ioannis Grammatikakis, Chosita Norkaew, You Jin Song, Amit K. Behera, Erica C. Pehrsson, Corrine Corrina R Hartford, Shreya Kordale, Rishabh Prasanth, Yongmei Zhao, Biraj Shrethsa, Xiao Ling Li, R Kumar, Ragini Singh, Tayvia Brownmiller, Xinyu Wen, Natasha J. Caplen, Pablo Pérez‐Piñera, Kannanganattu V. Prasanth, Thomas Gonatopoulos-Pournatzis, Ashish Lal",
+    "title": "Intron Retention Controls Localization of lncRNAs PURPL and MALAT1 to Promote Cell Proliferation and Migration"
+  },
+  {
+    "id": "108708",
+    "doi": "10.7554/eLife.108708",
+    "url": "https://doi.org/10.7554/eLife.108708",
+    "date": "2026-05-01",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cancer Research",
+    "primaryTopic": "Cancer Genomics and Diagnostics",
+    "topics": [
+      {
+        "name": "Cancer Genomics and Diagnostics",
+        "subfield": "Cancer Research",
+        "score": 100
+      },
+      {
+        "name": "Epigenetics and DNA Methylation",
+        "subfield": "Molecular Biology",
+        "score": 0
+      },
+      {
+        "name": "Molecular Biology Techniques and Applications",
+        "subfield": "Molecular Biology",
+        "score": 0
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Plasma chemistry",
+        "score": 57
+      },
+      {
+        "name": "Plasma",
+        "score": 53
+      },
+      {
+        "name": "Chemistry",
+        "score": 45
+      },
+      {
+        "name": "Liquid biopsy",
+        "score": 42
+      },
+      {
+        "name": "Nanotechnology",
+        "score": 32
+      },
+      {
+        "name": "Medicine",
+        "score": 22
+      },
+      {
+        "name": "Materials science",
+        "score": 21
+      },
+      {
+        "name": "Physics",
+        "score": 19
+      },
+      {
+        "name": "Internal medicine",
+        "score": 17
+      },
+      {
+        "name": "Nuclear physics",
+        "score": 10
+      }
+    ],
+    "authors": "Spencer C Ding, Jingru Yu, Tiepeng Liao, Lauren S. Ahmann, Yvette Y. Yao, Chandler Ho, Linlin Wang, Benjamin A. Pinsky, Wei Gu",
+    "title": "Adapting clinical chemistry plasma as a source for liquid biopsies"
+  },
+  {
+    "id": "108940",
+    "doi": "10.7554/eLife.108940",
+    "url": "https://doi.org/10.7554/eLife.108940",
+    "date": "2026-03-26",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cancer Research",
+    "primaryTopic": "NF-κB Signaling Pathways",
+    "topics": [
+      {
+        "name": "NF-κB Signaling Pathways",
+        "subfield": "Cancer Research",
+        "score": 59
+      },
+      {
+        "name": "T-cell and B-cell Immunology",
+        "subfield": "Immunology",
+        "score": 22
+      },
+      {
+        "name": "Immune Cell Function and Interaction",
+        "subfield": "Immunology",
+        "score": 14
+      }
+    ],
+    "keywords": [
+      {
+        "name": "IκB kinase",
+        "score": 82
+      },
+      {
+        "name": "Effector",
+        "score": 60
+      },
+      {
+        "name": "Kinase",
+        "score": 54
+      },
+      {
+        "name": "T cell",
+        "score": 46
+      },
+      {
+        "name": "Immune system",
+        "score": 45
+      },
+      {
+        "name": "Signal transduction",
+        "score": 45
+      },
+      {
+        "name": "Transcription factor",
+        "score": 42
+      },
+      {
+        "name": "Phosphorylation",
+        "score": 41
+      },
+      {
+        "name": "Acquired immune system",
+        "score": 41
+      }
+    ],
+    "authors": "Farjana Islam, Cayman Williams, Thea Hogan, Louise V. Webb, Inês Boal‐Carvalho, Benedict Seddon",
+    "title": "Contrasting roles for IKK-regulated inflammatory signalling pathways for development and maintenance of type 1 and adaptive γδ T cells"
+  },
+  {
+    "id": "107538",
+    "doi": "10.7554/eLife.107538",
+    "url": "https://doi.org/10.7554/eLife.107538",
+    "date": "2026-03-17",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cancer Research",
+    "primaryTopic": "Cancer, Hypoxia, and Metabolism",
+    "topics": [
+      {
+        "name": "Cancer, Hypoxia, and Metabolism",
+        "subfield": "Cancer Research",
+        "score": 66
+      },
+      {
+        "name": "RNA Research and Splicing",
+        "subfield": "Molecular Biology",
+        "score": 14
+      },
+      {
+        "name": "RNA modifications and cancer",
+        "subfield": "Molecular Biology",
+        "score": 8
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Transcription factor",
+        "score": 63
+      },
+      {
+        "name": "Transcription (linguistics)",
+        "score": 50
+      },
+      {
+        "name": "Effector",
+        "score": 50
+      },
+      {
+        "name": "Interactome",
+        "score": 49
+      },
+      {
+        "name": "General transcription factor",
+        "score": 39
+      },
+      {
+        "name": "RNA splicing",
+        "score": 39
+      },
+      {
+        "name": "Transcriptome",
+        "score": 39
+      },
+      {
+        "name": "NRF1",
+        "score": 36
+      },
+      {
+        "name": "RNA-binding protein",
+        "score": 33
+      }
+    ],
+    "authors": "Ravi Kumar, Simon Couly, Bruna Rodrigues Muys, Xiao Ling Li, Ioannis Grammatikakis, Ragini Singh, Mary Guest, Xinyu Wen, Wei Tang, Stefan Ambs, Lisa M. Jenkins, Erica C. Pehrsson, Raj Chari, Tsung-Ping Su, Ashish Lal",
+    "title": "p53-induced RNA-binding protein ZMAT3 inhibits transcription of a hexokinase to suppress mitochondrial respiration in human cancer cells"
+  },
+  {
+    "id": "89001",
+    "doi": "10.7554/eLife.89001",
+    "url": "https://doi.org/10.7554/eLife.89001",
+    "date": "2026-03-13",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cancer Research",
+    "primaryTopic": "Cancer-related molecular mechanisms research",
+    "topics": [
+      {
+        "name": "Cancer-related molecular mechanisms research",
+        "subfield": "Cancer Research",
+        "score": 91
+      },
+      {
+        "name": "RNA regulation and disease",
+        "subfield": "Molecular Biology",
+        "score": 1
+      },
+      {
+        "name": "Genomics and Phylogenetic Studies",
+        "subfield": "Molecular Biology",
+        "score": 1
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Gene",
+        "score": 69
+      },
+      {
+        "name": "Regulation of gene expression",
+        "score": 58
+      },
+      {
+        "name": "Genome",
+        "score": 56
+      },
+      {
+        "name": "Gene expression",
+        "score": 53
+      },
+      {
+        "name": "Gene regulatory network",
+        "score": 51
+      },
+      {
+        "name": "Human genome",
+        "score": 48
+      },
+      {
+        "name": "Transcriptional regulation",
+        "score": 40
+      },
+      {
+        "name": "Transcription factor",
+        "score": 39
+      }
+    ],
+    "authors": "Jie Lin, Yujian Wen, Ji Tang, Xuecong Zhang, Huanlin Zhang, Hao Zhu",
+    "title": "Human-specific lncRNAs contributed critically to human evolution by distinctly regulating gene expression"
+  },
+  {
+    "id": "104079",
+    "doi": "10.7554/eLife.104079",
+    "url": "https://doi.org/10.7554/eLife.104079",
+    "date": "2026-03-13",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cancer Research",
+    "primaryTopic": "Cancer, Hypoxia, and Metabolism",
+    "topics": [
+      {
+        "name": "Cancer, Hypoxia, and Metabolism",
+        "subfield": "Cancer Research",
+        "score": 43
+      },
+      {
+        "name": "Mitochondrial Function and Pathology",
+        "subfield": "Molecular Biology",
+        "score": 27
+      },
+      {
+        "name": "GDF15 and Related Biomarkers",
+        "subfield": "Rheumatology",
+        "score": 3
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Mitochondrion",
+        "score": 72
+      },
+      {
+        "name": "Bioenergetics",
+        "score": 72
+      },
+      {
+        "name": "Downregulation and upregulation",
+        "score": 60
+      },
+      {
+        "name": "Oxidative phosphorylation",
+        "score": 58
+      },
+      {
+        "name": "Carcinogenesis",
+        "score": 57
+      },
+      {
+        "name": "Transcriptome",
+        "score": 48
+      },
+      {
+        "name": "Mitochondrial DNA",
+        "score": 41
+      },
+      {
+        "name": "Cellular respiration",
+        "score": 40
+      },
+      {
+        "name": "Mitochondrial ROS",
+        "score": 35
+      }
+    ],
+    "authors": "Sara M. Frangos, Henver S. Brunetta, Dongdong Wang, Maria Joy Therese Jabile, Leslie A. Jeffries, Grace Mencfeld, David WL Ma, William J Muller, Cezar M. Khursigara, Kelsey H. Fisher-Wellman, Jim Petrik, Gregory R Steinberg, Graham P. Holloway",
+    "title": "HER2-driven mammary tumorigenesis enhances bioenergetics despite reductions in mitochondrial content"
+  },
+  {
+    "id": "99576",
+    "doi": "10.7554/eLife.99576",
+    "url": "https://doi.org/10.7554/eLife.99576",
+    "date": "2026-03-13",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cancer Research",
+    "primaryTopic": "Cancer, Hypoxia, and Metabolism",
+    "topics": [
+      {
+        "name": "Cancer, Hypoxia, and Metabolism",
+        "subfield": "Cancer Research",
+        "score": 97
+      },
+      {
+        "name": "Mitochondrial Function and Pathology",
+        "subfield": "Molecular Biology",
+        "score": 1
+      },
+      {
+        "name": "Microbial Metabolic Engineering and Bioproduction",
+        "subfield": "Molecular Biology",
+        "score": 1
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Citric acid cycle",
+        "score": 87
+      },
+      {
+        "name": "Glycolysis",
+        "score": 79
+      },
+      {
+        "name": "Oxidative phosphorylation",
+        "score": 72
+      },
+      {
+        "name": "Phosphoglycerate mutase",
+        "score": 55
+      },
+      {
+        "name": "Tricarboxylic acid",
+        "score": 54
+      },
+      {
+        "name": "Pyruvate decarboxylation",
+        "score": 48
+      },
+      {
+        "name": "Pyruvate dehydrogenase kinase",
+        "score": 45
+      },
+      {
+        "name": "Metabolic pathway",
+        "score": 40
+      },
+      {
+        "name": "Lactate dehydrogenase",
+        "score": 39
+      },
+      {
+        "name": "Pentose phosphate pathway",
+        "score": 38
+      }
+    ],
+    "authors": "Siying Zeng, Yuqi Wang, Minfeng Ying, Chengmeng Jin, Chang Ying, Di Wang, Hao Wu, Xun Hu",
+    "title": "Elucidating the kinetic and thermodynamic insight into regulation of glycolysis by lactate dehydrogenase and its impact on tricarboxylic acid cycle and oxidative phosphorylation in cancer cells"
+  },
+  {
+    "id": "106846",
+    "doi": "10.7554/eLife.106846",
+    "url": "https://doi.org/10.7554/eLife.106846",
+    "date": "2026-02-23",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cancer Research",
+    "primaryTopic": "Cancer-related molecular mechanisms research",
+    "topics": [
+      {
+        "name": "Cancer-related molecular mechanisms research",
+        "subfield": "Cancer Research",
+        "score": 94
+      },
+      {
+        "name": "RNA modifications and cancer",
+        "subfield": "Molecular Biology",
+        "score": 2
+      },
+      {
+        "name": "RNA and protein synthesis mechanisms",
+        "subfield": "Molecular Biology",
+        "score": 1
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Transcription (linguistics)",
+        "score": 63
+      },
+      {
+        "name": "Gene",
+        "score": 63
+      },
+      {
+        "name": "Gene expression",
+        "score": 56
+      },
+      {
+        "name": "Long non-coding RNA",
+        "score": 55
+      },
+      {
+        "name": "Regulation of gene expression",
+        "score": 55
+      },
+      {
+        "name": "Small nucleolar RNA",
+        "score": 52
+      },
+      {
+        "name": "RNA",
+        "score": 48
+      },
+      {
+        "name": "Transcriptional regulation",
+        "score": 48
+      }
+    ],
+    "authors": "Alan Monziani, Juan P. Unfried, Todor Cvetanovic, Igor Ulitsky",
+    "title": "EPB41L4A-AS1 long noncoding RNA acts in both cis- and trans-acting transcriptional regulation and controls nucleolar biology"
+  },
+  {
+    "id": "109602",
+    "doi": "10.7554/eLife.109602",
+    "url": "https://doi.org/10.7554/eLife.109602",
+    "date": "2026-02-09",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cancer Research",
+    "primaryTopic": "MicroRNA in disease regulation",
+    "topics": [
+      {
+        "name": "MicroRNA in disease regulation",
+        "subfield": "Cancer Research",
+        "score": 95
+      },
+      {
+        "name": "Bioinformatics and Genomic Networks",
+        "subfield": "Molecular Biology",
+        "score": 1
+      },
+      {
+        "name": "Cancer-related molecular mechanisms research",
+        "subfield": "Cancer Research",
+        "score": 1
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Disease",
+        "score": 63
+      },
+      {
+        "name": "Generalizability theory",
+        "score": 60
+      },
+      {
+        "name": "Identification (biology)",
+        "score": 55
+      },
+      {
+        "name": "Association (psychology)",
+        "score": 53
+      },
+      {
+        "name": "microRNA",
+        "score": 42
+      },
+      {
+        "name": "Feature (linguistics)",
+        "score": 41
+      },
+      {
+        "name": "Dimension (graph theory)",
+        "score": 36
+      },
+      {
+        "name": "Task (project management)",
+        "score": 34
+      }
+    ],
+    "authors": "Baiming Chen",
+    "title": "Leveraging Disease Association Degree for High-Accuracy MicroRNA Target Prediction"
+  },
+  {
+    "id": "108131",
+    "doi": "10.7554/eLife.108131",
+    "url": "https://doi.org/10.7554/eLife.108131",
+    "date": "2026-02-09",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cancer Research",
+    "primaryTopic": "Cancer, Hypoxia, and Metabolism",
+    "topics": [
+      {
+        "name": "Cancer, Hypoxia, and Metabolism",
+        "subfield": "Cancer Research",
+        "score": 99
+      },
+      {
+        "name": "Epigenetics and DNA Methylation",
+        "subfield": "Molecular Biology",
+        "score": 0
+      },
+      {
+        "name": "Ubiquitin and proteasome pathways",
+        "subfield": "Molecular Biology",
+        "score": 0
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Hydroxylation",
+        "score": 70
+      },
+      {
+        "name": "Prometaphase",
+        "score": 62
+      },
+      {
+        "name": "Phosphorylation",
+        "score": 60
+      },
+      {
+        "name": "Mitosis",
+        "score": 57
+      },
+      {
+        "name": "Phosphatase",
+        "score": 42
+      },
+      {
+        "name": "Regulator",
+        "score": 41
+      },
+      {
+        "name": "Histone",
+        "score": 40
+      },
+      {
+        "name": "Mutant",
+        "score": 37
+      },
+      {
+        "name": "Wild type",
+        "score": 35
+      }
+    ],
+    "authors": "Jimena Druker, Hao Jiang, Dilem Shakir, Fraser Child, Vanesa Álvarez, Melpomeni Platani, Andrea Corno, Constance Alabert, Adrian T. Saurin, Jason R. Swedlow, Sonia Rocha, Angus I. Lamond",
+    "title": "PHD1-dependent hydroxylation of RepoMan (CDCA2) on P604 modulates the control of mitotic progression"
+  },
+  {
+    "id": "104374",
+    "doi": "10.7554/eLife.104374",
+    "url": "https://doi.org/10.7554/eLife.104374",
+    "date": "2026-01-12",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cancer Research",
+    "primaryTopic": "Cancer, Lipids, and Metabolism",
+    "topics": [
+      {
+        "name": "Cancer, Lipids, and Metabolism",
+        "subfield": "Cancer Research",
+        "score": 27
+      },
+      {
+        "name": "Cancer Cells and Metastasis",
+        "subfield": "Oncology",
+        "score": 17
+      },
+      {
+        "name": "Caveolin-1 and cellular processes",
+        "subfield": "Cell Biology",
+        "score": 11
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Efflux",
+        "score": 69
+      },
+      {
+        "name": "Psychological repression",
+        "score": 59
+      },
+      {
+        "name": "ABCA1",
+        "score": 54
+      },
+      {
+        "name": "Transcription factor",
+        "score": 52
+      },
+      {
+        "name": "Epithelial–mesenchymal transition",
+        "score": 49
+      },
+      {
+        "name": "Ectopic expression",
+        "score": 47
+      },
+      {
+        "name": "Downregulation and upregulation",
+        "score": 46
+      },
+      {
+        "name": "Cancer",
+        "score": 46
+      },
+      {
+        "name": "Cancer cell",
+        "score": 43
+      },
+      {
+        "name": "Transition (genetics)",
+        "score": 42
+      }
+    ],
+    "authors": "Atsushi Matsumoto, Akihito Inoko, Takuya Tanaka, Gen‐ichi Konishi, Waki Hosoda, Takahiro Kojima, Koji Ohnishi, Junichi Ikenouchi",
+    "title": "Chemotherapy resistance due to epithelial-to-mesenchymal transition is caused by abnormal lipid metabolic balance"
+  },
+  {
+    "id": "110231",
+    "doi": "10.7554/eLife.110231",
+    "url": "https://doi.org/10.7554/eLife.110231",
+    "date": "2026-01-12",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cancer Research",
+    "primaryTopic": "Cancer, Lipids, and Metabolism",
+    "topics": [
+      {
+        "name": "Cancer, Lipids, and Metabolism",
+        "subfield": "Cancer Research",
+        "score": 90
+      },
+      {
+        "name": "Sphingolipid Metabolism and Signaling",
+        "subfield": "Molecular Biology",
+        "score": 4
+      },
+      {
+        "name": "Caveolin-1 and cellular processes",
+        "subfield": "Cell Biology",
+        "score": 1
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Sphingomyelin",
+        "score": 67
+      },
+      {
+        "name": "Cancer",
+        "score": 58
+      },
+      {
+        "name": "Cancer cell",
+        "score": 56
+      },
+      {
+        "name": "Balance (ability)",
+        "score": 52
+      },
+      {
+        "name": "Cholesterol",
+        "score": 49
+      },
+      {
+        "name": "Cancer chemotherapy",
+        "score": 48
+      },
+      {
+        "name": "Lipid metabolism",
+        "score": 44
+      },
+      {
+        "name": "Chemotherapy",
+        "score": 41
+      }
+    ],
+    "authors": "Kaori Kanemaru, Yoshikazu Nakamura",
+    "title": "Lipid balance and chemoresistance in cancer cells"
+  },
+  {
+    "id": "107103",
+    "doi": "10.7554/eLife.107103",
+    "url": "https://doi.org/10.7554/eLife.107103",
+    "date": "2025-12-16",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cancer Research",
+    "primaryTopic": "Cancer Genomics and Diagnostics",
+    "topics": [
+      {
+        "name": "Cancer Genomics and Diagnostics",
+        "subfield": "Cancer Research",
+        "score": 87
+      },
+      {
+        "name": "Cancer Cells and Metastasis",
+        "subfield": "Oncology",
+        "score": 4
+      },
+      {
+        "name": "Esophageal Cancer Research and Treatment",
+        "subfield": "Surgery",
+        "score": 2
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Cancer",
+        "score": 73
+      },
+      {
+        "name": "Esophagogastroduodenoscopy",
+        "score": 63
+      },
+      {
+        "name": "Cohort",
+        "score": 55
+      },
+      {
+        "name": "Biomarker",
+        "score": 55
+      },
+      {
+        "name": "Population",
+        "score": 51
+      },
+      {
+        "name": "Stomach",
+        "score": 43
+      },
+      {
+        "name": "Stage (stratigraphy)",
+        "score": 41
+      },
+      {
+        "name": "Disease",
+        "score": 41
+      }
+    ],
+    "authors": "Francine Carla Cadoná, Thais Fernanda Bartelli, Adriane Pelosof, Claudia Z Sztokfisz, Adriana Passos Bueno, Luana Batista do Carmo dos Santos, Gabriela Pereira Branco, Gabriel Oliveira dos Santos, Warley A Nunes, Fernanda Araújo Pintor, Laís Lie Senda de Abrantes, Alexandre Defelicibus, Luiz Gonzaga Vaz Coelho, Mārcis Leja, Haejin In, Sharon Li, Howard S. Höchster, Felipe José Fernández Coimbra, Rodrigo D. Drummond, Israel Tojal da Silva, Ravi J. Chokshi, Renata Pasqualini, Wadih Arap, Diana Noronha Nunes, Emmanuel Dias‐Neto",
+    "title": "Endoscopic liquid biopsies of gastric fluid in a large human patient cohort reveal DNA content as a candidate tumor biomarker in gastric cancer"
+  },
+  {
+    "id": "103705",
+    "doi": "10.7554/eLife.103705",
+    "url": "https://doi.org/10.7554/eLife.103705",
+    "date": "2025-12-16",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cancer Research",
+    "primaryTopic": "Cancer, Hypoxia, and Metabolism",
+    "topics": [
+      {
+        "name": "Cancer, Hypoxia, and Metabolism",
+        "subfield": "Cancer Research",
+        "score": 48
+      },
+      {
+        "name": "Mitochondrial Function and Pathology",
+        "subfield": "Molecular Biology",
+        "score": 25
+      },
+      {
+        "name": "Biochemical Acid Research Studies",
+        "subfield": "Biochemistry",
+        "score": 3
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Glycolysis",
+        "score": 59
+      },
+      {
+        "name": "Cell growth",
+        "score": 59
+      },
+      {
+        "name": "Metabolism",
+        "score": 56
+      },
+      {
+        "name": "Gluconeogenesis",
+        "score": 52
+      },
+      {
+        "name": "PKM2",
+        "score": 48
+      },
+      {
+        "name": "Pyruvate decarboxylation",
+        "score": 46
+      },
+      {
+        "name": "Cell",
+        "score": 46
+      },
+      {
+        "name": "Mitochondrion",
+        "score": 45
+      },
+      {
+        "name": "Carbohydrate metabolism",
+        "score": 40
+      }
+    ],
+    "authors": "Ashish G Toshniwal, Geanette Lam, Alex J. Bott, Ahmad A. Cluntun, Rachel Skabelund, Hyuck-Jin Nam, Dona R Wisidagama, Carl S. Thummel, Jared Rutter",
+    "title": "The fate of pyruvate dictates cell growth by modulating cellular redox potential"
+  },
+  {
+    "id": "104093",
+    "doi": "10.7554/eLife.104093",
+    "url": "https://doi.org/10.7554/eLife.104093",
+    "date": "2025-12-11",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cancer Research",
+    "primaryTopic": "Cancer Genomics and Diagnostics",
+    "topics": [
+      {
+        "name": "Cancer Genomics and Diagnostics",
+        "subfield": "Cancer Research",
+        "score": 63
+      },
+      {
+        "name": "Epigenetics and DNA Methylation",
+        "subfield": "Molecular Biology",
+        "score": 27
+      },
+      {
+        "name": "Colorectal Cancer Screening and Detection",
+        "subfield": "Oncology",
+        "score": 5
+      }
+    ],
+    "keywords": [
+      {
+        "name": "DNA methylation",
+        "score": 77
+      },
+      {
+        "name": "Colorectal cancer",
+        "score": 71
+      },
+      {
+        "name": "Methylation",
+        "score": 71
+      },
+      {
+        "name": "Biomarker",
+        "score": 61
+      },
+      {
+        "name": "Metastasis",
+        "score": 45
+      },
+      {
+        "name": "Cancer",
+        "score": 44
+      },
+      {
+        "name": "CpG site",
+        "score": 42
+      },
+      {
+        "name": "Cohort",
+        "score": 42
+      }
+    ],
+    "authors": "Lingqin Zhu, Lang Yang, Fangli Men, Jianwei Yu, Shuyang Sun, Chenguang Li, Xianzong Ma, Junfeng Xu, Yangjie Li, Ju Tian, Xin Wang, Hui Xie, Qian Kang, Linghui Duan, Xiang Yi, Wei Guo, Xueqing Gong, Ni Guo, Youyong Lu, Joseph Leung, Yuqi He, Jianqiu Sheng",
+    "title": "Early Diagnosis and Prognostic Prediction of Colorectal Cancer through Plasma Methylation Regions"
+  },
+  {
+    "id": "109619",
+    "doi": "10.7554/eLife.109619",
+    "url": "https://doi.org/10.7554/eLife.109619",
+    "date": "2025-11-28",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cancer Research",
+    "primaryTopic": "NF-κB Signaling Pathways",
+    "topics": [
+      {
+        "name": "NF-κB Signaling Pathways",
+        "subfield": "Cancer Research",
+        "score": 49
+      },
+      {
+        "name": "Cell death mechanisms and regulation",
+        "subfield": "Molecular Biology",
+        "score": 18
+      },
+      {
+        "name": "Hippo pathway signaling and YAP/TAZ",
+        "subfield": "Cell Biology",
+        "score": 15
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Adherens junction",
+        "score": 87
+      },
+      {
+        "name": "Signal transducing adaptor protein",
+        "score": 69
+      },
+      {
+        "name": "Signal transduction",
+        "score": 63
+      },
+      {
+        "name": "Scaffold protein",
+        "score": 50
+      },
+      {
+        "name": "Rac GTP-Binding Proteins",
+        "score": 48
+      },
+      {
+        "name": "Receptor",
+        "score": 41
+      },
+      {
+        "name": "Ubiquitin ligase",
+        "score": 34
+      },
+      {
+        "name": "Schneider 2 cells",
+        "score": 32
+      }
+    ],
+    "authors": "Katrin Strobel, Jennifer Falconi, Cédric Leyrat, Rémi Logeay, Sarah J. Bray, Alexandre Djiane",
+    "title": "E(spl)m4 Directly Antagonizes Traf4 to Inhibit JNK Signaling in Drosophila"
+  },
+  {
+    "id": "109482",
+    "doi": "10.7554/eLife.109482",
+    "url": "https://doi.org/10.7554/eLife.109482",
+    "date": "2025-11-19",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cancer Research",
+    "primaryTopic": "Cancer, Hypoxia, and Metabolism",
+    "topics": [
+      {
+        "name": "Cancer, Hypoxia, and Metabolism",
+        "subfield": "Cancer Research",
+        "score": 38
+      },
+      {
+        "name": "Erythrocyte Function and Pathophysiology",
+        "subfield": "Physiology",
+        "score": 9
+      },
+      {
+        "name": "Microbial Metabolic Engineering and Bioproduction",
+        "subfield": "Molecular Biology",
+        "score": 6
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Nutrient",
+        "score": 74
+      },
+      {
+        "name": "Cell size",
+        "score": 66
+      },
+      {
+        "name": "Cell",
+        "score": 38
+      },
+      {
+        "name": "Metabolism",
+        "score": 37
+      },
+      {
+        "name": "Metabolic pathway",
+        "score": 35
+      },
+      {
+        "name": "Metabolic control analysis",
+        "score": 34
+      },
+      {
+        "name": "Glycolysis",
+        "score": 30
+      }
+    ],
+    "authors": "Angela M. Montero, Lydia W.S. Finley",
+    "title": "How one nutrient controls cell size"
+  },
+  {
+    "id": "101584",
+    "doi": "10.7554/eLife.101584",
+    "url": "https://doi.org/10.7554/eLife.101584",
+    "date": "2025-10-21",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cancer Research",
+    "primaryTopic": "Cancer, Lipids, and Metabolism",
+    "topics": [
+      {
+        "name": "Cancer, Lipids, and Metabolism",
+        "subfield": "Cancer Research",
+        "score": 100
+      },
+      {
+        "name": "Prostate Cancer Treatment and Research",
+        "subfield": "Pulmonary and Respiratory Medicine",
+        "score": 99
+      },
+      {
+        "name": "Genetic Associations and Epidemiology",
+        "subfield": "Genetics",
+        "score": 99
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Mendelian randomization",
+        "score": 83
+      },
+      {
+        "name": "Druggability",
+        "score": 66
+      },
+      {
+        "name": "Genome-wide association study",
+        "score": 58
+      },
+      {
+        "name": "Prostate cancer",
+        "score": 57
+      },
+      {
+        "name": "Proteomics",
+        "score": 57
+      },
+      {
+        "name": "Disease",
+        "score": 44
+      },
+      {
+        "name": "Genetic association",
+        "score": 40
+      },
+      {
+        "name": "Biobank",
+        "score": 40
+      }
+    ],
+    "authors": "Lin Chen, Gu Yanlun, Chen Yuke, Yu Wei, Ying Zhou, Rong Zhuona, Xiaocong Pang",
+    "title": "Causal associations between plasma proteins and prostate cancer: a Proteome-Wide Mendelian Randomization"
+  },
+  {
+    "id": "107984",
+    "doi": "10.7554/eLife.107984",
+    "url": "https://doi.org/10.7554/eLife.107984",
+    "date": "2025-10-17",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cancer Research",
+    "primaryTopic": "MicroRNA in disease regulation",
+    "topics": [
+      {
+        "name": "MicroRNA in disease regulation",
+        "subfield": "Cancer Research",
+        "score": 100
+      },
+      {
+        "name": "Cancer Cells and Metastasis",
+        "subfield": "Oncology",
+        "score": 100
+      },
+      {
+        "name": "Cytokine Signaling Pathways and Interactions",
+        "subfield": "Oncology",
+        "score": 100
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Stromal cell",
+        "score": 84
+      },
+      {
+        "name": "Tumor microenvironment",
+        "score": 74
+      },
+      {
+        "name": "Osteoprotegerin",
+        "score": 69
+      },
+      {
+        "name": "Cancer-Associated Fibroblasts",
+        "score": 65
+      },
+      {
+        "name": "Immune system",
+        "score": 63
+      },
+      {
+        "name": "Stroma",
+        "score": 46
+      },
+      {
+        "name": "Immune checkpoint",
+        "score": 42
+      },
+      {
+        "name": "Infiltration (HVAC)",
+        "score": 38
+      }
+    ],
+    "authors": "Yao Wang, Hara Apostolopoulou, Im‐Hong Sun, Arjan Bains, David L. Gibbs, Sui Huang, Tamara Alliston, Ajay V. Maker, Thea D. Tlsty, Vasilis Ntranos, James M. Gardner, Anil Bhushan",
+    "title": "Blocking Osteoprotegerin Reprograms Cancer Associated Fibroblast to Promotes Immune Infiltration into the Tumor Microenvironment"
+  },
+  {
+    "id": "106075",
+    "doi": "10.7554/eLife.106075",
+    "url": "https://doi.org/10.7554/eLife.106075",
+    "date": "2025-10-09",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cancer Research",
+    "primaryTopic": "Cancer-related molecular mechanisms research",
+    "topics": [
+      {
+        "name": "Cancer-related molecular mechanisms research",
+        "subfield": "Cancer Research",
+        "score": 100
+      },
+      {
+        "name": "Genetic Associations and Epidemiology",
+        "subfield": "Genetics",
+        "score": 100
+      },
+      {
+        "name": "RNA modifications and cancer",
+        "subfield": "Molecular Biology",
+        "score": 98
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Mendelian randomization",
+        "score": 94
+      },
+      {
+        "name": "Waist",
+        "score": 80
+      },
+      {
+        "name": "Body mass index",
+        "score": 70
+      },
+      {
+        "name": "Waist–hip ratio",
+        "score": 48
+      },
+      {
+        "name": "Causality (physics)",
+        "score": 46
+      },
+      {
+        "name": "Confidence interval",
+        "score": 36
+      },
+      {
+        "name": "Randomization",
+        "score": 35
+      },
+      {
+        "name": "Circumference",
+        "score": 34
+      },
+      {
+        "name": "Relative risk",
+        "score": 34
+      },
+      {
+        "name": "Case-control study",
+        "score": 33
+      }
+    ],
+    "authors": "Fernanda Morales Berstein, Jasmine Khouja, Mark Gormley, Elmira Ebrahimi, Shama Virani, James McKay, Paul Brennan, Tom G. Richardson, Caroline L. Relton, George Davey Smith, Maria Carolina Borges, Tom Dudding, Rebecca C. Richmond",
+    "title": "Reassessing the link between adiposity and head and neck cancer: a Mendelian randomization study"
+  },
+  {
+    "id": "107121",
+    "doi": "10.7554/eLife.107121",
+    "url": "https://doi.org/10.7554/eLife.107121",
+    "date": "2025-10-08",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cancer Research",
+    "primaryTopic": "Cancer, Hypoxia, and Metabolism",
+    "topics": [
+      {
+        "name": "Cancer, Hypoxia, and Metabolism",
+        "subfield": "Cancer Research",
+        "score": 100
+      },
+      {
+        "name": "Adrenal and Paraganglionic Tumors",
+        "subfield": "Surgery",
+        "score": 100
+      },
+      {
+        "name": "Mitochondrial Function and Pathology",
+        "subfield": "Molecular Biology",
+        "score": 100
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Ubiquitin ligase",
+        "score": 86
+      },
+      {
+        "name": "Ubiquitin",
+        "score": 70
+      },
+      {
+        "name": "Mutant",
+        "score": 55
+      },
+      {
+        "name": "Suppressor",
+        "score": 48
+      },
+      {
+        "name": "Mutation",
+        "score": 48
+      },
+      {
+        "name": "Ubiquitin-Protein Ligases",
+        "score": 42
+      },
+      {
+        "name": "HEK 293 cells",
+        "score": 42
+      },
+      {
+        "name": "Degradation (telecommunications)",
+        "score": 37
+      }
+    ],
+    "authors": "Cassandra C Taber, Wenguang He, Geneviève M. C. Gasmi-Seabrook, Mia Hubert, Fraser G. Ferens, Mitsuhiko Ikura, Jeffrey E. Lee, Michael Ohh",
+    "title": "Erythrocytosis-inducing PHD2 mutations implicate biological role for N-terminal prolyl-hydroxylation in HIF1α oxygen-dependent degradation domain"
+  },
+  {
+    "id": "101912",
+    "doi": "10.7554/eLife.101912",
+    "url": "https://doi.org/10.7554/eLife.101912",
+    "date": "2025-10-06",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cancer Research",
+    "primaryTopic": "Cancer, Hypoxia, and Metabolism",
+    "topics": [
+      {
+        "name": "Cancer, Hypoxia, and Metabolism",
+        "subfield": "Cancer Research",
+        "score": 100
+      },
+      {
+        "name": "Epigenetics and DNA Methylation",
+        "subfield": "Molecular Biology",
+        "score": 100
+      },
+      {
+        "name": "RNA modifications and cancer",
+        "subfield": "Molecular Biology",
+        "score": 99
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Embryo",
+        "score": 76
+      },
+      {
+        "name": "Aneuploidy",
+        "score": 75
+      },
+      {
+        "name": "Ploidy",
+        "score": 69
+      },
+      {
+        "name": "Chromosome",
+        "score": 45
+      },
+      {
+        "name": "Embryonic stem cell",
+        "score": 41
+      },
+      {
+        "name": "Cell division",
+        "score": 39
+      },
+      {
+        "name": "Hypoxia (environmental)",
+        "score": 38
+      },
+      {
+        "name": "Chromosome segregation",
+        "score": 37
+      },
+      {
+        "name": "Cell",
+        "score": 36
+      },
+      {
+        "name": "Zygote",
+        "score": 36
+      }
+    ],
+    "authors": "Estefanía Sánchez-Vásquez, Marianne Bronner‐Fraser, Magdalena Zernicka‐Goetz",
+    "title": "HIF1A-mediated pathways promote euploid cell survival in chromosomally mosaic embryos"
+  },
+  {
+    "id": "108058",
+    "doi": "10.7554/eLife.108058",
+    "url": "https://doi.org/10.7554/eLife.108058",
+    "date": "2025-10-02",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cancer Research",
+    "primaryTopic": "Cancer Genomics and Diagnostics",
+    "topics": [
+      {
+        "name": "Cancer Genomics and Diagnostics",
+        "subfield": "Cancer Research",
+        "score": 100
+      },
+      {
+        "name": "Evolution and Genetic Dynamics",
+        "subfield": "Genetics",
+        "score": 100
+      },
+      {
+        "name": "Epigenetics and DNA Methylation",
+        "subfield": "Molecular Biology",
+        "score": 100
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Punctuated equilibrium",
+        "score": 76
+      },
+      {
+        "name": "Adaptation (eye)",
+        "score": 72
+      },
+      {
+        "name": "Fitness landscape",
+        "score": 71
+      },
+      {
+        "name": "APOBEC",
+        "score": 66
+      },
+      {
+        "name": "Mutagenesis",
+        "score": 62
+      },
+      {
+        "name": "Genetic Fitness",
+        "score": 61
+      },
+      {
+        "name": "Adaptability",
+        "score": 55
+      },
+      {
+        "name": "Mutation Accumulation",
+        "score": 51
+      }
+    ],
+    "authors": "Christopher Graser, Wenbo Wu, Cole Christini, Mia Petljak, Franziska Michor",
+    "title": "Punctuated mutagenesis promotes multi-step evolutionary adaptation in human cancers"
+  },
+  {
+    "id": "103697",
+    "doi": "10.7554/eLife.103697",
+    "url": "https://doi.org/10.7554/eLife.103697",
+    "date": "2025-09-29",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cancer Research",
+    "primaryTopic": "Cancer Genomics and Diagnostics",
+    "topics": [
+      {
+        "name": "Cancer Genomics and Diagnostics",
+        "subfield": "Cancer Research",
+        "score": 100
+      },
+      {
+        "name": "Epigenetics and DNA Methylation",
+        "subfield": "Molecular Biology",
+        "score": 100
+      },
+      {
+        "name": "RNA modifications and cancer",
+        "subfield": "Molecular Biology",
+        "score": 100
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Genome",
+        "score": 61
+      },
+      {
+        "name": "Epithelial–mesenchymal transition",
+        "score": 60
+      },
+      {
+        "name": "Metastasis",
+        "score": 59
+      },
+      {
+        "name": "Breast cancer",
+        "score": 51
+      },
+      {
+        "name": "Compartment (ship)",
+        "score": 45
+      },
+      {
+        "name": "Metastatic breast cancer",
+        "score": 44
+      },
+      {
+        "name": "Gene",
+        "score": 42
+      },
+      {
+        "name": "Lung cancer",
+        "score": 37
+      },
+      {
+        "name": "Homing (biology)",
+        "score": 37
+      }
+    ],
+    "authors": "Priyojit Das, Rebeca San Martin, Tian Hong, Rachel Patton McCord",
+    "title": "Rearrangement of 3D genome organization in breast cancer epithelial - mesenchymal transition and metastasis organotropism"
+  },
+  {
+    "id": "106901",
+    "doi": "10.7554/eLife.106901",
+    "url": "https://doi.org/10.7554/eLife.106901",
+    "date": "2025-09-24",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cancer Research",
+    "primaryTopic": "NF-κB Signaling Pathways",
+    "topics": [
+      {
+        "name": "NF-κB Signaling Pathways",
+        "subfield": "Cancer Research",
+        "score": 100
+      },
+      {
+        "name": "interferon and immune responses",
+        "subfield": "Immunology",
+        "score": 100
+      },
+      {
+        "name": "Cytomegalovirus and herpesvirus research",
+        "subfield": "Epidemiology",
+        "score": 99
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Autophagy",
+        "score": 72
+      },
+      {
+        "name": "Signal transduction",
+        "score": 68
+      },
+      {
+        "name": "Lysosome",
+        "score": 58
+      },
+      {
+        "name": "Gene expression",
+        "score": 57
+      },
+      {
+        "name": "Transcriptome",
+        "score": 55
+      },
+      {
+        "name": "Crosstalk",
+        "score": 50
+      },
+      {
+        "name": "Ubiquitin",
+        "score": 49
+      },
+      {
+        "name": "Intracellular",
+        "score": 47
+      },
+      {
+        "name": "Transcription factor",
+        "score": 47
+      }
+    ],
+    "authors": "Akinori Endo, C. Takahashi, Naoko Ishibashi, Yasumasa Nishito, Koji Yamano, Keiji Tanaka, Yukiko Yoshida",
+    "title": "Ubiquitination-activated TAB–TAK1–IKK–NF-κB axis modulates gene expression for cell survival in the lysosomal damage response"
+  },
+  {
+    "id": "101887",
+    "doi": "10.7554/eLife.101887",
+    "url": "https://doi.org/10.7554/eLife.101887",
+    "date": "2025-09-17",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cancer Research",
+    "primaryTopic": "Cancer Genomics and Diagnostics",
+    "topics": [
+      {
+        "name": "Cancer Genomics and Diagnostics",
+        "subfield": "Cancer Research",
+        "score": 100
+      },
+      {
+        "name": "Cervical Cancer and HPV Research",
+        "subfield": "Epidemiology",
+        "score": 100
+      },
+      {
+        "name": "AI in cancer detection",
+        "subfield": "Artificial Intelligence",
+        "score": 99
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Concordance",
+        "score": 72
+      },
+      {
+        "name": "Clinical significance",
+        "score": 67
+      },
+      {
+        "name": "Cervical cancer",
+        "score": 54
+      },
+      {
+        "name": "Prospective cohort study",
+        "score": 43
+      },
+      {
+        "name": "Circulating tumor cell",
+        "score": 42
+      },
+      {
+        "name": "Digital polymerase chain reaction",
+        "score": 38
+      },
+      {
+        "name": "Confidence interval",
+        "score": 36
+      },
+      {
+        "name": "Biomarker",
+        "score": 35
+      },
+      {
+        "name": "Cancer",
+        "score": 34
+      }
+    ],
+    "authors": "Zhuomin Yin, Tao Feng, Qing Xu, Wumin Dai, Maowei Ni, Juan Ni, Hanmei Lou",
+    "title": "Monitoring circulating cell-free HPV DNA in metastatic or recurrent cervical cancer: clinical significance and treatment implications"
+  },
+  {
+    "id": "106934",
+    "doi": "10.7554/eLife.106934",
+    "url": "https://doi.org/10.7554/eLife.106934",
+    "date": "2025-09-03",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cancer Research",
+    "primaryTopic": "Cancer Genomics and Diagnostics",
+    "topics": [
+      {
+        "name": "Cancer Genomics and Diagnostics",
+        "subfield": "Cancer Research",
+        "score": 100
+      },
+      {
+        "name": "RNA modifications and cancer",
+        "subfield": "Molecular Biology",
+        "score": 99
+      },
+      {
+        "name": "DNA Repair Mechanisms",
+        "subfield": "Molecular Biology",
+        "score": 99
+      }
+    ],
+    "keywords": [
+      {
+        "name": "DNA polymerase",
+        "score": 65
+      },
+      {
+        "name": "Genetics",
+        "score": 50
+      },
+      {
+        "name": "DNA damage",
+        "score": 49
+      },
+      {
+        "name": "DNA",
+        "score": 49
+      },
+      {
+        "name": "Cell biology",
+        "score": 47
+      },
+      {
+        "name": "Biology",
+        "score": 47
+      },
+      {
+        "name": "ATPase",
+        "score": 45
+      },
+      {
+        "name": "DNA synthesis",
+        "score": 44
+      },
+      {
+        "name": "Polymerase",
+        "score": 44
+      },
+      {
+        "name": "Chemistry",
+        "score": 37
+      }
+    ],
+    "authors": "Jung Hoon Yoon, Sellamuthu Karthi, Louise Prakash, Satya Prakash",
+    "title": "WRN and WRNIP1 ATPases impose high fidelity on translesion synthesis by Y-family DNA polymerases"
+  },
+  {
+    "id": "106601",
+    "doi": "10.7554/eLife.106601",
+    "url": "https://doi.org/10.7554/eLife.106601",
+    "date": "2025-09-02",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cancer Research",
+    "primaryTopic": "Cancer, Hypoxia, and Metabolism",
+    "topics": [
+      {
+        "name": "Cancer, Hypoxia, and Metabolism",
+        "subfield": "Cancer Research",
+        "score": 100
+      },
+      {
+        "name": "Muscle metabolism and nutrition",
+        "subfield": "Cell Biology",
+        "score": 100
+      },
+      {
+        "name": "Mitochondrial Function and Pathology",
+        "subfield": "Molecular Biology",
+        "score": 100
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Reprogramming",
+        "score": 73
+      },
+      {
+        "name": "Cardiology",
+        "score": 34
+      },
+      {
+        "name": "Chemistry",
+        "score": 34
+      },
+      {
+        "name": "Medicine",
+        "score": 33
+      },
+      {
+        "name": "Internal medicine",
+        "score": 33
+      },
+      {
+        "name": "Biochemistry",
+        "score": 15
+      }
+    ],
+    "authors": "Zachary W. Grimmett, Rongli Zhang, Hua-Lin Zhou, Qiuying Chen, Dawson Miller, Zhaoxia Qian, Justin Lin, Riti Kalra, Steven S. Gross, Walter J. Koch, Richard T. Premont, Jonathan S. Stamler",
+    "title": "The denitrosylase SCoR2 controls cardioprotective metabolic reprogramming"
+  },
+  {
+    "id": "107132",
+    "doi": "10.7554/eLife.107132",
+    "url": "https://doi.org/10.7554/eLife.107132",
+    "date": "2025-09-01",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cancer Research",
+    "primaryTopic": "Cancer-related molecular mechanisms research",
+    "topics": [
+      {
+        "name": "Cancer-related molecular mechanisms research",
+        "subfield": "Cancer Research",
+        "score": 100
+      },
+      {
+        "name": "RNA modifications and cancer",
+        "subfield": "Molecular Biology",
+        "score": 100
+      },
+      {
+        "name": "Mycobacterium research and diagnosis",
+        "subfield": "Epidemiology",
+        "score": 100
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Epithelial–mesenchymal transition",
+        "score": 81
+      },
+      {
+        "name": "Regulator",
+        "score": 76
+      },
+      {
+        "name": "Mycobacterium bovis",
+        "score": 62
+      },
+      {
+        "name": "Lung cancer",
+        "score": 62
+      },
+      {
+        "name": "Transition (genetics)",
+        "score": 51
+      },
+      {
+        "name": "Cancer research",
+        "score": 46
+      },
+      {
+        "name": "Lung",
+        "score": 45
+      },
+      {
+        "name": "Master regulator",
+        "score": 44
+      },
+      {
+        "name": "Microbiology",
+        "score": 44
+      },
+      {
+        "name": "Biology",
+        "score": 41
+      }
+    ],
+    "authors": "Chao Wang, Yongchong Peng, Hongxin Yang, Yanzhu Jiang, Abdul Karim Khalid, Kailun Zhang, Shengsong Xie, Luiz E. Bermudez, Yongzhen Yang, Lei Zhang, Huanchun Chen, Aizhen Guo, Yingyu Chen",
+    "title": "RBMX2: A Pivotal Regulator Linking Mycobacterium bovis Infection to Epithelial-Mesenchymal Transition and Lung Cancer Progression"
+  },
+  {
+    "id": "102681",
+    "doi": "10.7554/eLife.102681",
+    "url": "https://doi.org/10.7554/eLife.102681",
+    "date": "2025-08-29",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cancer Research",
+    "primaryTopic": "Cancer-related molecular mechanisms research",
+    "topics": [
+      {
+        "name": "Cancer-related molecular mechanisms research",
+        "subfield": "Cancer Research",
+        "score": 100
+      },
+      {
+        "name": "Cervical Cancer and HPV Research",
+        "subfield": "Epidemiology",
+        "score": 99
+      },
+      {
+        "name": "Molecular Biology Techniques and Applications",
+        "subfield": "Molecular Biology",
+        "score": 97
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Long non-coding RNA",
+        "score": 70
+      },
+      {
+        "name": "Human papillomavirus",
+        "score": 67
+      },
+      {
+        "name": "Biology",
+        "score": 60
+      },
+      {
+        "name": "Cervical cancer",
+        "score": 57
+      },
+      {
+        "name": "RNA",
+        "score": 47
+      },
+      {
+        "name": "Cancer",
+        "score": 47
+      },
+      {
+        "name": "Cell biology",
+        "score": 47
+      },
+      {
+        "name": "Cancer research",
+        "score": 38
+      },
+      {
+        "name": "Genetics",
+        "score": 27
+      },
+      {
+        "name": "Gene",
+        "score": 21
+      }
+    ],
+    "authors": "Haibin Liu, Lulu Yu, Vladimır Majerčiak, Thomas J. Meyer, Ming Yi, Peter F. Johnson, Maggie Cam, Douglas R. Lowy, Zhi‐Ming Zheng",
+    "title": "The long noncoding RNA lnc-FANCI-2 intrinsically restricts RAS signaling in human papillomavirus type 16-infected cervical cancer cells"
+  },
+  {
+    "id": "104191",
+    "doi": "10.7554/eLife.104191",
+    "url": "https://doi.org/10.7554/eLife.104191",
+    "date": "2025-07-21",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cancer Research",
+    "primaryTopic": "Cancer-related molecular mechanisms research",
+    "topics": [
+      {
+        "name": "Cancer-related molecular mechanisms research",
+        "subfield": "Cancer Research",
+        "score": 100
+      },
+      {
+        "name": "MicroRNA in disease regulation",
+        "subfield": "Cancer Research",
+        "score": 100
+      },
+      {
+        "name": "RNA modifications and cancer",
+        "subfield": "Molecular Biology",
+        "score": 100
+      }
+    ],
+    "keywords": [
+      {
+        "name": "XIST",
+        "score": 90
+      },
+      {
+        "name": "Vimentin",
+        "score": 74
+      },
+      {
+        "name": "Epithelial–mesenchymal transition",
+        "score": 70
+      },
+      {
+        "name": "Long non-coding RNA",
+        "score": 61
+      },
+      {
+        "name": "Cysteine",
+        "score": 53
+      },
+      {
+        "name": "Breast cancer",
+        "score": 51
+      },
+      {
+        "name": "RNA",
+        "score": 50
+      },
+      {
+        "name": "Cell biology",
+        "score": 44
+      },
+      {
+        "name": "Cancer research",
+        "score": 44
+      },
+      {
+        "name": "Chemistry",
+        "score": 42
+      }
+    ],
+    "authors": "Saima Usman, W. Andrew Yeudall, Muy‐Teck Teh, Fatemah Ghloum, Hemanth Tummala, Ahmad Waseem",
+    "title": "A single cysteine residue in vimentin regulates long non-coding RNA XIST to suppress epithelial–mesenchymal transition and stemness in breast cancer"
+  },
+  {
+    "id": "101731",
+    "doi": "10.7554/eLife.101731",
+    "url": "https://doi.org/10.7554/eLife.101731",
+    "date": "2025-07-14",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cancer Research",
+    "primaryTopic": "Cancer, Hypoxia, and Metabolism",
+    "topics": [
+      {
+        "name": "Cancer, Hypoxia, and Metabolism",
+        "subfield": "Cancer Research",
+        "score": 100
+      },
+      {
+        "name": "Immune cells in cancer",
+        "subfield": "Immunology",
+        "score": 100
+      },
+      {
+        "name": "S100 Proteins and Annexins",
+        "subfield": "Molecular Biology",
+        "score": 100
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Function (biology)",
+        "score": 57
+      },
+      {
+        "name": "Metabolism",
+        "score": 51
+      },
+      {
+        "name": "Cancer research",
+        "score": 50
+      },
+      {
+        "name": "Atypical adenomatous hyperplasia",
+        "score": 47
+      },
+      {
+        "name": "Fatty acid metabolism",
+        "score": 45
+      },
+      {
+        "name": "Cell biology",
+        "score": 43
+      },
+      {
+        "name": "Chemistry",
+        "score": 39
+      },
+      {
+        "name": "Pathology",
+        "score": 39
+      },
+      {
+        "name": "Biology",
+        "score": 32
+      },
+      {
+        "name": "Medicine",
+        "score": 30
+      }
+    ],
+    "authors": "Hong Huang, Ying Yang, Qiuju Zhang, Yongfeng Yang, Zhenqi Xiong, Shengqiang Mao, Tingting Song, Yilong Wang, Zhiqiang Liu, Hong Bu, Li Zhang, Le Zhang",
+    "title": "S100a4+ alveolar macrophages accelerate the progression of precancerous atypical adenomatous hyperplasia by promoting the angiogenic function regulated by fatty acid metabolism"
+  },
+  {
+    "id": "99849",
+    "doi": "10.7554/eLife.99849",
+    "url": "https://doi.org/10.7554/eLife.99849",
+    "date": "2025-06-18",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cancer Research",
+    "primaryTopic": "Cancer-related molecular mechanisms research",
+    "topics": [
+      {
+        "name": "Cancer-related molecular mechanisms research",
+        "subfield": "Cancer Research",
+        "score": 100
+      },
+      {
+        "name": "Head and Neck Cancer Studies",
+        "subfield": "Otorhinolaryngology",
+        "score": 100
+      },
+      {
+        "name": "MicroRNA in disease regulation",
+        "subfield": "Cancer Research",
+        "score": 100
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Nasopharyngeal carcinoma",
+        "score": 96
+      },
+      {
+        "name": "Radiation therapy",
+        "score": 73
+      },
+      {
+        "name": "RSS",
+        "score": 51
+      },
+      {
+        "name": "Oncology",
+        "score": 48
+      },
+      {
+        "name": "Cancer research",
+        "score": 45
+      },
+      {
+        "name": "Medicine",
+        "score": 44
+      },
+      {
+        "name": "Wnt signaling pathway",
+        "score": 42
+      },
+      {
+        "name": "Radiation sensitivity",
+        "score": 41
+      },
+      {
+        "name": "Internal medicine",
+        "score": 39
+      },
+      {
+        "name": "Bioinformatics",
+        "score": 34
+      }
+    ],
+    "authors": "Kailai Li, Junyi Liang, Nan Li, Jianbo Fang, Xinyi Zhou, Jian Zhang, Anqi Lin, Peng Luo, Hui Meng",
+    "title": "A multi-gene predictive model for the radiation sensitivity of nasopharyngeal carcinoma based on machine learning"
+  },
+  {
+    "id": "101197",
+    "doi": "10.7554/eLife.101197",
+    "url": "https://doi.org/10.7554/eLife.101197",
+    "date": "2025-06-09",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cancer Research",
+    "primaryTopic": "Cancer-related molecular mechanisms research",
+    "topics": [
+      {
+        "name": "Cancer-related molecular mechanisms research",
+        "subfield": "Cancer Research",
+        "score": 100
+      },
+      {
+        "name": "RNA modifications and cancer",
+        "subfield": "Molecular Biology",
+        "score": 100
+      },
+      {
+        "name": "RNA Research and Splicing",
+        "subfield": "Molecular Biology",
+        "score": 100
+      }
+    ],
+    "keywords": [
+      {
+        "name": "XIST",
+        "score": 94
+      },
+      {
+        "name": "Genetics",
+        "score": 63
+      },
+      {
+        "name": "Biology",
+        "score": 59
+      },
+      {
+        "name": "Gene",
+        "score": 58
+      },
+      {
+        "name": "RNA",
+        "score": 57
+      },
+      {
+        "name": "X-inactivation",
+        "score": 53
+      },
+      {
+        "name": "Computational biology",
+        "score": 50
+      },
+      {
+        "name": "Gene expression",
+        "score": 49
+      },
+      {
+        "name": "RNA-binding protein",
+        "score": 47
+      },
+      {
+        "name": "Cell biology",
+        "score": 34
+      }
+    ],
+    "authors": "Shengze Yao, Yesu Jeon, Barry Kesner, Jeannie T. Lee",
+    "title": "Xist RNA binds select autosomal genes and depends on Repeat B to regulate their expression"
+  }
+]
