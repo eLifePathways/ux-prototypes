@@ -21,10 +21,22 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Build elife-terms-prototype
+        working-directory: elife-terms-prototype
+        run: |
+          npm ci
+          npm run build
+
       - name: Assemble site
         run: |
           mkdir -p _site
           cp index.html _site/index.html
+          cp -r elife-terms-prototype/dist _site/elife-terms-prototype
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

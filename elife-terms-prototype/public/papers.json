@@ -1,0 +1,4123 @@
+[
+  {
+    "id": "99874",
+    "doi": "10.7554/elife.99874.4",
+    "url": "https://doi.org/10.7554/elife.99874.4",
+    "date": "2026-08-14T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Molecular Biology",
+    "primaryTopic": "Receptor Mechanisms and Signaling",
+    "topics": [
+      {
+        "name": "Receptor Mechanisms and Signaling",
+        "subfield": "Molecular Biology",
+        "score": 1
+      },
+      {
+        "name": "Ion Transport and Channel Regulation",
+        "subfield": "Molecular Biology",
+        "score": 0
+      },
+      {
+        "name": "Molecular Sensors and Ion Detection",
+        "subfield": "Spectroscopy",
+        "score": 0
+      }
+    ],
+    "keywords": [
+      {
+        "name": "GPER",
+        "score": 83
+      },
+      {
+        "name": "Receptor",
+        "score": 62
+      },
+      {
+        "name": "G protein-coupled receptor",
+        "score": 52
+      },
+      {
+        "name": "Extracellular",
+        "score": 52
+      },
+      {
+        "name": "Bicarbonate",
+        "score": 52
+      },
+      {
+        "name": "Drug discovery",
+        "score": 46
+      },
+      {
+        "name": "Plasma protein binding",
+        "score": 30
+      },
+      {
+        "name": "Drug",
+        "score": 30
+      },
+      {
+        "name": "Protein structure",
+        "score": 28
+      },
+      {
+        "name": "Signal transduction",
+        "score": 27
+      }
+    ],
+    "authors": "Shota Kaneda, Airi Jo\u2010Watanabe, Hiroaki Akasaka, Hidetaka S. Oshima, Takehiko Yokomizo, Wataru Shihoya, Osamu Nureki",
+    "title": "Cryo-EM structure of the bicarbonate receptor GPR30",
+    "version": "v1",
+    "versionNumber": 1,
+    "elifeStatus": "reviewed-preprint",
+    "totalVersions": 1,
+    "assessmentSignificance": "Important",
+    "assessmentStrength": "Solid",
+    "assessmentSummary": "This study resolves a cryo-EM structure of the GPCR, human GPR30, which responds to bicarbonate and regulates cellular responses to pH and ion homeostasis. Understanding the ligand and the mechanism of activation is &lt;b&gt;important&lt;/b&gt; to the field of receptor signaling and potentially facilitates drug development targeting this receptor. Structures and functional assays provide &lt;b&gt;solid&lt;/b&gt; evidence for a potential bicarbonate binding site.",
+    "seniorEditor": "Kenton J Swartz",
+    "seniorEditorInstitution": "National Institute of Neurological Disorders and Stroke, United States",
+    "reviewingEditor": "Randy B Stockbridge",
+    "reviewingEditorInstitution": "University of Michigan, United States"
+  },
+  {
+    "id": "108371",
+    "doi": "10.7554/elife.108371.3",
+    "url": "https://doi.org/10.7554/elife.108371.3",
+    "date": "2026-08-13T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Molecular Biology",
+    "primaryTopic": "Genomics and Chromatin Dynamics",
+    "topics": [
+      {
+        "name": "Genomics and Chromatin Dynamics",
+        "subfield": "Molecular Biology",
+        "score": 1
+      },
+      {
+        "name": "Epigenetics and DNA Methylation",
+        "subfield": "Molecular Biology",
+        "score": 0
+      },
+      {
+        "name": "Chromosomal and Genetic Variations",
+        "subfield": "Plant Science",
+        "score": 0
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Chromatin",
+        "score": 75
+      },
+      {
+        "name": "Polycomb-group proteins",
+        "score": 71
+      },
+      {
+        "name": "Maternal to zygotic transition",
+        "score": 62
+      },
+      {
+        "name": "Histone",
+        "score": 52
+      },
+      {
+        "name": "Genome",
+        "score": 41
+      },
+      {
+        "name": "Drosophila melanogaster",
+        "score": 40
+      },
+      {
+        "name": "Epigenetics",
+        "score": 36
+      },
+      {
+        "name": "Zygote",
+        "score": 35
+      },
+      {
+        "name": "Drosophila (subgenus)",
+        "score": 35
+      },
+      {
+        "name": "Heterochromatin",
+        "score": 34
+      }
+    ],
+    "authors": "Natalie Gonzaga-Saavedra, Eleanor A Degen, Isabella V Soluri, Corinne Croslyn, Shelby A. Blythe",
+    "title": "Nucleation-dependent propagation of Polycomb modifications emerges during the Drosophila maternal to zygotic transition",
+    "version": "v2",
+    "versionNumber": 2,
+    "elifeStatus": "reviewed-preprint",
+    "totalVersions": 1,
+    "assessmentSignificance": "Fundamental",
+    "assessmentStrength": "Compelling",
+    "assessmentSummary": "This study employs state-of-the-art quantitative imaging and genomics approaches to address a &lt;b&gt;fundamental&lt;/b&gt; question regarding the establishment of Polycomb domains during Drosophila embryogenesis. The authors identify the maternal-to-zygotic transition, rather than earlier developmental stages, as the critical window for Polycomb domain establishment, providing significant clarification of the timing of this process and they further investigate the roles of Zelda and GAGA factor, demonstrating that Zelda, but not GAGA factor, contributes to Polycomb domain establishment. Overall, the conclusions are well supported by the experimental evidence presented. These &lt;b&gt;compelling&lt;/b&gt; findings advance our understanding of how Polycomb domains are established during early embryogenesis and have broad implications for chromatin regulation and developmental biology.",
+    "seniorEditor": "Ad\u00e8le L Marston",
+    "seniorEditorInstitution": "University of Edinburgh, United Kingdom",
+    "reviewingEditor": "Xin Chen",
+    "reviewingEditorInstitution": "Johns Hopkins University, United States"
+  },
+  {
+    "id": "109083",
+    "doi": "10.7554/elife.109083.4",
+    "url": "https://doi.org/10.7554/elife.109083.4",
+    "date": "2026-08-11T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Molecular Biology",
+    "primaryTopic": "Cancer-related gene regulation",
+    "topics": [
+      {
+        "name": "Cancer-related gene regulation",
+        "subfield": "Molecular Biology",
+        "score": 1
+      },
+      {
+        "name": "Phosphodiesterase function and regulation",
+        "subfield": "Molecular Biology",
+        "score": 0
+      },
+      {
+        "name": "Nuclear Receptors and Signaling",
+        "subfield": "Cellular and Molecular Neuroscience",
+        "score": 0
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Dendritic spine",
+        "score": 89
+      },
+      {
+        "name": "SPINE (molecular biology)",
+        "score": 86
+      },
+      {
+        "name": "Phenotype",
+        "score": 64
+      },
+      {
+        "name": "Population",
+        "score": 52
+      },
+      {
+        "name": "Autism spectrum disorder",
+        "score": 38
+      },
+      {
+        "name": "Gene",
+        "score": 38
+      },
+      {
+        "name": "Loss function",
+        "score": 36
+      },
+      {
+        "name": "Gene expression profiling",
+        "score": 32
+      },
+      {
+        "name": "Autism",
+        "score": 27
+      },
+      {
+        "name": "Etiology",
+        "score": 27
+      }
+    ],
+    "authors": "Yutaro Kashiwagi, Qingrui Liu, Yasuhiro Go, Ryo Saito, Atsu Aiba, Takanobu Nakazawa, Shigeo Okabe",
+    "title": "Spine nanostructure profiling of cultured neurons from mouse models reveals a schizophrenia-linked role for Ecrg4",
+    "version": "Version of Record",
+    "versionNumber": 3,
+    "elifeStatus": "vor",
+    "totalVersions": 1,
+    "assessmentSignificance": "Important",
+    "assessmentStrength": "Convincing",
+    "assessmentSummary": "By investigating spine nanostructure and dynamics across multiple genetic mouse models for neurodevelopmental disorders, this &lt;b&gt;important&lt;/b&gt; study has the potential to uncover convergent or divergent synaptic phenotypes that may be specifically associated with autism versus schizophrenia risk. The imaging and overall breadth of the methods are &lt;b&gt;convincing&lt;/b&gt;. The purely in vitro nature of the study slightly limits the generalisability of the findings, though these limitations are acknowledged and discussed in the manuscript.",
+    "seniorEditor": "Lu Chen",
+    "seniorEditorInstitution": "Stanford Medicine, United States",
+    "reviewingEditor": "Jason P Lerch",
+    "reviewingEditorInstitution": "University of Oxford, United Kingdom"
+  },
+  {
+    "id": "104331",
+    "doi": "10.7554/elife.104331.3",
+    "url": "https://doi.org/10.7554/elife.104331.3",
+    "date": "2026-08-04T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Molecular Biology",
+    "primaryTopic": "Muscle Physiology and Disorders",
+    "topics": [
+      {
+        "name": "Muscle Physiology and Disorders",
+        "subfield": "Molecular Biology",
+        "score": 1
+      },
+      {
+        "name": "Cardiomyopathy and Myosin Studies",
+        "subfield": "Cardiology and Cardiovascular Medicine",
+        "score": 1
+      },
+      {
+        "name": "Genetic Neurodegenerative Diseases",
+        "subfield": "Cellular and Molecular Neuroscience",
+        "score": 1
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Regulator",
+        "score": 84
+      },
+      {
+        "name": "Key (lock)",
+        "score": 65
+      },
+      {
+        "name": "Dynamics (music)",
+        "score": 53
+      },
+      {
+        "name": "Proteome",
+        "score": 52
+      },
+      {
+        "name": "Gene",
+        "score": 9
+      }
+    ],
+    "authors": "Ellen Sp\u00e4th, Svenja C. Sch\u00fcler, Ivonne Heinze, Therese Dau, Alberto E. Minetti, Maleen Hofmann, Katja H\u00f6nzke, Julia von Maltzahn, Alessandro Ori\u202c\u202c",
+    "title": "Proteome dynamics reveal Leiomodin 1 as a key regulator of myogenic differentiation",
+    "version": "v1",
+    "versionNumber": 1,
+    "elifeStatus": "reviewed-preprint",
+    "totalVersions": 1,
+    "assessmentSignificance": "Valuable",
+    "assessmentStrength": "Solid",
+    "assessmentSummary": "This study provides &lt;b&gt;valuable&lt;/b&gt; insights into the regulation of myogenic differentiation by identifying Leiomodin 1 as a modulator of proteome dynamics during myogenic differentiation. The combination of quantitative proteomics with functional perturbation experiments offers &lt;b&gt;solid&lt;/b&gt; evidence supporting the idea that SIRT1 influences perturbations of myogenic differentiation upon LMOD1 inactivation. These findings advance our understanding of muscle differentiation and will be of interest to researchers studying muscle development and related pathologies",
+    "seniorEditor": "Kathryn Song Eng Cheah",
+    "seniorEditorInstitution": "University of Hong Kong, Hong Kong",
+    "reviewingEditor": "Johnny Kim",
+    "reviewingEditorInstitution": "TRON, Germany"
+  },
+  {
+    "id": "108812",
+    "doi": "10.7554/elife.108812.3",
+    "url": "https://doi.org/10.7554/elife.108812.3",
+    "date": "2026-08-04T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Molecular Biology",
+    "primaryTopic": "Developmental Biology and Gene Regulation",
+    "topics": [
+      {
+        "name": "Developmental Biology and Gene Regulation",
+        "subfield": "Molecular Biology",
+        "score": 1
+      },
+      {
+        "name": "Invertebrate Immune Response Mechanisms",
+        "subfield": "Immunology",
+        "score": 0
+      },
+      {
+        "name": "Angiogenesis and VEGF in Cancer",
+        "subfield": "Molecular Biology",
+        "score": 0
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Drosophila melanogaster",
+        "score": 84
+      },
+      {
+        "name": "Notch signaling pathway",
+        "score": 62
+      },
+      {
+        "name": "Mutant",
+        "score": 55
+      },
+      {
+        "name": "Mutation",
+        "score": 54
+      },
+      {
+        "name": "Endocytic cycle",
+        "score": 53
+      },
+      {
+        "name": "Drosophilidae",
+        "score": 45
+      },
+      {
+        "name": "Intracellular",
+        "score": 44
+      },
+      {
+        "name": "Drosophila (subgenus)",
+        "score": 37
+      },
+      {
+        "name": "Cleavage (geology)",
+        "score": 34
+      },
+      {
+        "name": "Suppressor",
+        "score": 33
+      }
+    ],
+    "authors": "Hideyuki Shimizu, Mart\u00edn Baron",
+    "title": "Analysis of cancer mutations introduced into the Drosophila melanogaster Notch negative regulatory region uncovers a diversity of regulatory outcomes",
+    "version": "v2",
+    "versionNumber": 2,
+    "elifeStatus": "reviewed-preprint",
+    "totalVersions": 1,
+    "assessmentSignificance": "Important",
+    "assessmentStrength": "Convincing",
+    "assessmentSummary": "This &lt;b&gt;important&lt;/b&gt; study presents a technically rigorous and carefully controlled analysis of the signalling potential of cancer-associated gain-of-function Notch alleles. The work is clearly presented, and the experiments are robust, comprehensive, and well-controlled. While some data primarily establish the system or report negative findings, the comparative approach in a well-characterized model provides &lt;b&gt;convincing&lt;/b&gt; mechanistic evidence for how these Notch variants function. This study will be of interest to researchers in both developmental and cancer biology.",
+    "seniorEditor": "Richard M White",
+    "seniorEditorInstitution": "University of Oxford, United Kingdom",
+    "reviewingEditor": "Apurva Sarin",
+    "reviewingEditorInstitution": "Institute for Stem Cell Science and Regenerative Medicine, India"
+  },
+  {
+    "id": "109709",
+    "doi": "10.7554/elife.109709.3",
+    "url": "https://doi.org/10.7554/elife.109709.3",
+    "date": "2026-07-31T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Molecular Biology",
+    "primaryTopic": "Microbial Metabolic Engineering and Bioproduction",
+    "topics": [
+      {
+        "name": "Microbial Metabolic Engineering and Bioproduction",
+        "subfield": "Molecular Biology",
+        "score": 1
+      },
+      {
+        "name": "Machine Learning in Bioinformatics",
+        "subfield": "Molecular Biology",
+        "score": 0
+      },
+      {
+        "name": "Gene Regulatory Network Analysis",
+        "subfield": "Molecular Biology",
+        "score": 0
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Context (archaeology)",
+        "score": 65
+      },
+      {
+        "name": "Pipeline (software)",
+        "score": 60
+      },
+      {
+        "name": "Benchmarking",
+        "score": 56
+      },
+      {
+        "name": "Metabolic network",
+        "score": 52
+      },
+      {
+        "name": "Computational model",
+        "score": 49
+      },
+      {
+        "name": "Network model",
+        "score": 44
+      },
+      {
+        "name": "Language model",
+        "score": 39
+      },
+      {
+        "name": "Systems biology",
+        "score": 37
+      },
+      {
+        "name": "Predictive modelling",
+        "score": 37
+      },
+      {
+        "name": "Gene regulatory network",
+        "score": 33
+      }
+    ],
+    "authors": "Jeevan Tewari, Benjamin W Dahl, B Adam Bates, Jason A. Papin, Jeffrey J. Saucerman",
+    "title": "Benchmarking biochemical networks generated by large language models",
+    "version": "Version of Record",
+    "versionNumber": 3,
+    "elifeStatus": "vor",
+    "totalVersions": 1,
+    "assessmentSignificance": "Important",
+    "assessmentStrength": "Convincing",
+    "assessmentSummary": "The authors propose a pipeline using large language models (LLMs) to benchmark experimentally well validated computational models of signaling networks. The findings are &lt;b&gt;important&lt;/b&gt;, with available methods that guide testing future models and find new molecular interactions. Furthermore, the work shows how general-purpose LLMs can generate up to 91% of reactions of a bacterial metabolic network. The support is &lt;b&gt;convincing&lt;/b&gt; and offers a number of performance metrics.",
+    "seniorEditor": "Aleksandra M Walczak",
+    "seniorEditorInstitution": "CNRS, France",
+    "reviewingEditor": "Martin Gra\u00f1a",
+    "reviewingEditorInstitution": "Institut Pasteur de Montevideo, Uruguay"
+  },
+  {
+    "id": "103046",
+    "doi": "10.7554/elife.103046.3",
+    "url": "https://doi.org/10.7554/elife.103046.3",
+    "date": "2026-07-30T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Molecular Biology",
+    "primaryTopic": "Connexins and lens biology",
+    "topics": [
+      {
+        "name": "Connexins and lens biology",
+        "subfield": "Molecular Biology",
+        "score": 1
+      },
+      {
+        "name": "bioluminescence and chemiluminescence research",
+        "subfield": "Molecular Biology",
+        "score": 1
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Extracellular",
+        "score": 72
+      },
+      {
+        "name": "Gap junction",
+        "score": 67
+      },
+      {
+        "name": "Intracellular",
+        "score": 20
+      }
+    ],
+    "authors": "Richa Sirmaur, Rishikesh Narayanan",
+    "title": "Dichotomy between extracellular signatures of active dendritic chemical synapses and gap junctions",
+    "version": "v1",
+    "versionNumber": 1,
+    "elifeStatus": "reviewed-preprint",
+    "totalVersions": 1,
+    "assessmentSignificance": "Valuable",
+    "assessmentStrength": "Compelling",
+    "assessmentSummary": "This study presents a &lt;b&gt;valuable&lt;/b&gt; theoretical exploration on the electrophysiological mechanisms of ionic currents via gap junctions in hippocampal CA1 pyramidal-cell models, and their potentially unique contribution to local field potentials (LFPs). The biophysical foundations of transmembrane electric dipoles, and the associated argument points, are generally &lt;b&gt;compelling&lt;/b&gt;. Experimental constraints on gap junctions and strictly quantitative matching between chemical vs. junctional inputs have been hard to achieve. This computational investigation thus offers a specific way to enhance conceptual understanding and provides interesting testable predictions, which would be of great interest to experimental neurophysiologists who interpret relevant recordings.",
+    "seniorEditor": "Panayiota Poirazi",
+    "seniorEditorInstitution": "FORTH Institute of Molecular Biology and Biotechnology, Greece",
+    "reviewingEditor": "Ching-Lung Hsu",
+    "reviewingEditorInstitution": "National Taiwan University, Taiwan"
+  },
+  {
+    "id": "107597",
+    "doi": "10.7554/elife.107597.3",
+    "url": "https://doi.org/10.7554/elife.107597.3",
+    "date": "2026-07-30T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Molecular Biology",
+    "primaryTopic": "Muscle Physiology and Disorders",
+    "topics": [
+      {
+        "name": "Muscle Physiology and Disorders",
+        "subfield": "Molecular Biology",
+        "score": 1
+      },
+      {
+        "name": "Cardiomyopathy and Myosin Studies",
+        "subfield": "Cardiology and Cardiovascular Medicine",
+        "score": 1
+      },
+      {
+        "name": "Muscle activation and electromyography studies",
+        "subfield": "Biomedical Engineering",
+        "score": 1
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Titin",
+        "score": 88
+      },
+      {
+        "name": "Muscle hypertrophy",
+        "score": 55
+      },
+      {
+        "name": "Compensatory hypertrophy",
+        "score": 50
+      },
+      {
+        "name": "Myocyte",
+        "score": 20
+      },
+      {
+        "name": "Sarcomere",
+        "score": 14
+      }
+    ],
+    "authors": "Robbert van der Pijl, Jochen Gohlke, Joshua Strom, Eva L. Peters, Shengyi Shen, Stefan Conijn, Zaynab Hourani, Stephan Lange, Ju Chen, Paul R. Langlais, Siegfried Labeit, Henk Granzier, Coen A. C. Ottenheijm",
+    "title": "The titin N2A-MARP signalosome constrains muscle longitudinal hypertrophy in response to stretch",
+    "version": "v2",
+    "versionNumber": 2,
+    "elifeStatus": "reviewed-preprint",
+    "totalVersions": 1,
+    "assessmentSignificance": "Important",
+    "assessmentStrength": "Solid",
+    "assessmentSummary": "The work by van der Pijl presents &lt;b&gt;important&lt;/b&gt; findings on the role of titin-associated muscle ankyrin repeat proteins (MARPs) on hypertrophy via mTOR signalling. The study presents rigourous data using in vivo loss-of-function and pharmacological approaches to investigate effects on hypertrophy. While the evidence supporting the role of MARPs on hypertrophy is &lt;b&gt;solid&lt;/b&gt;, there are limitations. For example, the use of Rapamycin only inhibits some aspects of mTORC1 signalling and the study is limited to analysis of the diaphragm and thus it is not clear if the mechanisms are conserved across other muscle types.",
+    "seniorEditor": "Felix Campelo",
+    "seniorEditorInstitution": "Universitat Pompeu Fabra, Spain",
+    "reviewingEditor": "Benjamin L Parker",
+    "reviewingEditorInstitution": "The University of Melbourne, Australia"
+  },
+  {
+    "id": "108845",
+    "doi": "10.7554/elife.108845.3",
+    "url": "https://doi.org/10.7554/elife.108845.3",
+    "date": "2026-07-29T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Molecular Biology",
+    "primaryTopic": "Fibroblast Growth Factor Research",
+    "topics": [
+      {
+        "name": "Fibroblast Growth Factor Research",
+        "subfield": "Molecular Biology",
+        "score": 0
+      },
+      {
+        "name": "Neurotransmitter Receptor Influence on Behavior",
+        "subfield": "Cellular and Molecular Neuroscience",
+        "score": 0
+      },
+      {
+        "name": "Pain Mechanisms and Treatments",
+        "subfield": "Physiology",
+        "score": 0
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Haplotype",
+        "score": 54
+      },
+      {
+        "name": "Opioid",
+        "score": 51
+      },
+      {
+        "name": "Locus (genetics)",
+        "score": 50
+      },
+      {
+        "name": "Opioid receptor",
+        "score": 48
+      },
+      {
+        "name": "Morphine",
+        "score": 46
+      },
+      {
+        "name": "Gene",
+        "score": 42
+      },
+      {
+        "name": "Phenotype",
+        "score": 38
+      },
+      {
+        "name": "Allele",
+        "score": 38
+      },
+      {
+        "name": "Receptor",
+        "score": 34
+      },
+      {
+        "name": "Enkephalin",
+        "score": 32
+      }
+    ],
+    "authors": "Paige M. Lemen, Yanning Zuo, Alexander S. Hatoum, Price E. Dickson, Guy Mittleman, Arpana Agrawal, Benjamin C. Reiner, Wade H. Berrettini, David G. Ashbrook, Mustafa Hakan Gunturkun, Xusheng Wang, Megan K. Mulligan, Caleb J. Browne, Eric J. Nestler, Francesca Telese, Robert W. Williams, Hao Chen",
+    "title": "Acute opioid responses are modulated by dynamic interactions of Oprm1 and Fgf12",
+    "version": "Version of Record",
+    "versionNumber": 3,
+    "elifeStatus": "vor",
+    "totalVersions": 1,
+    "assessmentSignificance": "Fundamental",
+    "assessmentStrength": "Compelling",
+    "assessmentSummary": "This study integrates large-scale behavioral, genetic, and molecular analyses in animal models to investigate morphine response. Utilizing high-quality, time-series Quantitative Trait Loci (QTL) mapping, the work provides &lt;b&gt;compelling&lt;/b&gt; evidential support for novel, time-dependent genetic interactions (epistasis). A &lt;b&gt;fundamental&lt;/b&gt; result of this rigorous analysis is the discovery of a novel Oprm1-Fgf12-MAPK signaling pathway, which offers new insights into the mechanisms of opioid sensitivity.",
+    "seniorEditor": "Kate M Wassum",
+    "seniorEditorInstitution": "University of California, Los Angeles, United States",
+    "reviewingEditor": "Jonathan Flint",
+    "reviewingEditorInstitution": "University of California, Los Angeles, United States"
+  },
+  {
+    "id": "103956",
+    "doi": "10.7554/elife.103956.4",
+    "url": "https://doi.org/10.7554/elife.103956.4",
+    "date": "2026-08-12T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Neuroscience",
+    "subfield": "Cognitive Neuroscience",
+    "primaryTopic": "Sleep and Wakefulness Research",
+    "topics": [
+      {
+        "name": "Sleep and Wakefulness Research",
+        "subfield": "Cognitive Neuroscience",
+        "score": 1
+      },
+      {
+        "name": "Sleep and Work-Related Fatigue",
+        "subfield": "Experimental and Cognitive Psychology",
+        "score": 0
+      },
+      {
+        "name": "Sleep and related disorders",
+        "subfield": "Experimental and Cognitive Psychology",
+        "score": 0
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Thalamus",
+        "score": 84
+      },
+      {
+        "name": "Sleep spindle",
+        "score": 71
+      },
+      {
+        "name": "Functional magnetic resonance imaging",
+        "score": 70
+      },
+      {
+        "name": "Sleep (system call)",
+        "score": 60
+      },
+      {
+        "name": "Neuroscience of sleep",
+        "score": 60
+      },
+      {
+        "name": "Hippocampus",
+        "score": 55
+      },
+      {
+        "name": "Prefrontal cortex",
+        "score": 50
+      },
+      {
+        "name": "Electroencephalography",
+        "score": 42
+      },
+      {
+        "name": "Functional imaging",
+        "score": 38
+      },
+      {
+        "name": "Rhythm",
+        "score": 37
+      }
+    ],
+    "authors": "Haiteng Wang, Qihong Zou, Jinbo Zhang, Jia\u2010Hong Gao, Yunzhe Liu",
+    "title": "Human brain-wide activation of sleep rhythms",
+    "version": "v1",
+    "versionNumber": 1,
+    "elifeStatus": "reviewed-preprint",
+    "totalVersions": 1,
+    "assessmentSignificance": "Important",
+    "assessmentStrength": "Solid",
+    "assessmentSummary": "The study presents &lt;b&gt;important&lt;/b&gt; findings from a very rich EEG-fMRI dataset including 107 participants, which was collected during nocturnal naps. Using overall &lt;b&gt;solid&lt;/b&gt; methods, the authors link activity in memory related brain regions (e.g., hippocampus, thalamus, and medial prefrontal cortex), as well as their functional connectivity, to the occurrence of canonical sleep rhythms (spindles and slow oscillations) during non-rapid eye movement (NREM) sleep. This work will be of broad interest to researchers studying sleep, memory, and related domains.",
+    "seniorEditor": "Laura L Colgin",
+    "seniorEditorInstitution": "University of Texas at Austin, United States",
+    "reviewingEditor": "Simon van Gaal",
+    "reviewingEditorInstitution": "University of Amsterdam, Netherlands"
+  },
+  {
+    "id": "109640",
+    "doi": "10.7554/elife.109640.3",
+    "url": "https://doi.org/10.7554/elife.109640.3",
+    "date": "2026-08-04T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Neuroscience",
+    "subfield": "Cognitive Neuroscience",
+    "primaryTopic": "Face Recognition and Perception",
+    "topics": [
+      {
+        "name": "Face Recognition and Perception",
+        "subfield": "Cognitive Neuroscience",
+        "score": 1
+      },
+      {
+        "name": "Neural dynamics and brain function",
+        "subfield": "Cognitive Neuroscience",
+        "score": 1
+      },
+      {
+        "name": "Visual perception and processing mechanisms",
+        "subfield": "Cognitive Neuroscience",
+        "score": 1
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Visual cortex",
+        "score": 65
+      },
+      {
+        "name": "Neural activity",
+        "score": 64
+      },
+      {
+        "name": "Temporal cortex",
+        "score": 60
+      },
+      {
+        "name": "Pattern recognition (psychology)",
+        "score": 42
+      },
+      {
+        "name": "Cortex (anatomy)",
+        "score": 42
+      }
+    ],
+    "authors": "Corentin Jacques, Jacques Jonas, Sophie Colnat\u2010Coulbois, Bruno Rossion",
+    "title": "Concurrent category-selective neural activity across the ventral occipito-temporal cortex supports a non-hierarchical view of human visual recognition",
+    "version": "v2",
+    "versionNumber": 2,
+    "elifeStatus": "reviewed-preprint",
+    "totalVersions": 1,
+    "assessmentSignificance": "Important",
+    "assessmentStrength": "Compelling",
+    "assessmentSummary": "This &lt;b&gt;important&lt;/b&gt; study addresses a classic debate in visual processing, using a strong method applied to an impressive dataset obtained from a rare clinical population to evaluate hierarchical models of visual object perception. The paper provides &lt;b&gt;compelling&lt;/b&gt; evidence that the hierarchical model is only partly supported: as expected, neural responses in ventral visual cortex show increased representational selectivity for faces along the posterior-anterior axes, but the onsets of the signals do not show a temporal hierarchy, indicating more parallel processing.",
+    "seniorEditor": "Michael J Frank",
+    "seniorEditorInstitution": "Brown University, United States",
+    "reviewingEditor": "Iris IA Groen",
+    "reviewingEditorInstitution": "University of Amsterdam, Netherlands"
+  },
+  {
+    "id": "106081",
+    "doi": "10.7554/elife.106081.3",
+    "url": "https://doi.org/10.7554/elife.106081.3",
+    "date": "2026-08-04T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Neuroscience",
+    "subfield": "Cognitive Neuroscience",
+    "primaryTopic": "Functional Brain Connectivity Studies",
+    "topics": [
+      {
+        "name": "Functional Brain Connectivity Studies",
+        "subfield": "Cognitive Neuroscience",
+        "score": 1
+      },
+      {
+        "name": "Neural dynamics and brain function",
+        "subfield": "Cognitive Neuroscience",
+        "score": 1
+      },
+      {
+        "name": "Neural and Behavioral Psychology Studies",
+        "subfield": "Cognitive Neuroscience",
+        "score": 1
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Heritability",
+        "score": 94
+      },
+      {
+        "name": "Sensory system",
+        "score": 69
+      },
+      {
+        "name": "Brain activity and meditation",
+        "score": 66
+      },
+      {
+        "name": "Stimulus (psychology)",
+        "score": 57
+      },
+      {
+        "name": "Brain function",
+        "score": 50
+      },
+      {
+        "name": "Twin study",
+        "score": 42
+      },
+      {
+        "name": "Electroencephalography",
+        "score": 18
+      }
+    ],
+    "authors": "David C. Gruskin, Daniel J Vieira, Jessica K. Lee, Gaurav H. Patel",
+    "title": "Heritability of movie-evoked brain activity and connectivity",
+    "version": "Version of Record",
+    "versionNumber": 3,
+    "elifeStatus": "vor",
+    "totalVersions": 1,
+    "assessmentSignificance": "Valuable",
+    "assessmentStrength": "Convincing",
+    "assessmentSummary": "This paper addresses a &lt;b&gt;valuable&lt;/b&gt; research question on the modest heritability of the brain&#x27;s response to movie watching, and how heritability varies under different parameters such as regional spatial hyperalignment and BOLD frequency bands. The topic of this paper is of interest to fMRI methodological experts, and potentially to a broader cognitive neuroscience audience, and those with an interest in understanding the heritable sources of individual differences in brain function. Although some of the conclusions could be strengthened by future cross validation studies in independent and larger family-based samples, and through complementary twin/family and SNP-based models, taken altogether, the analyses and results provide &lt;b&gt;convincing&lt;/b&gt; evidence for the overall conclusions.",
+    "seniorEditor": "Andre F Marquand",
+    "seniorEditorInstitution": "Radboud University Nijmegen, Netherlands",
+    "reviewingEditor": "Emma Sprooten",
+    "reviewingEditorInstitution": "Donders Institute for Brain, Cognition and Behaviour, Netherlands"
+  },
+  {
+    "id": "110729",
+    "doi": "10.7554/elife.110729.3",
+    "url": "https://doi.org/10.7554/elife.110729.3",
+    "date": "2026-07-28T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Neuroscience",
+    "subfield": "Cognitive Neuroscience",
+    "primaryTopic": "Neural and Behavioral Psychology Studies",
+    "topics": [
+      {
+        "name": "Neural and Behavioral Psychology Studies",
+        "subfield": "Cognitive Neuroscience",
+        "score": 1
+      },
+      {
+        "name": "Decision-Making and Behavioral Economics",
+        "subfield": "General Decision Sciences",
+        "score": 0
+      },
+      {
+        "name": "Behavioral Health and Interventions",
+        "subfield": "Applied Psychology",
+        "score": 0
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Cognition",
+        "score": 50
+      },
+      {
+        "name": "Value (mathematics)",
+        "score": 47
+      },
+      {
+        "name": "Fixation (population genetics)",
+        "score": 41
+      },
+      {
+        "name": "Multiplicative function",
+        "score": 39
+      },
+      {
+        "name": "Key (lock)",
+        "score": 37
+      },
+      {
+        "name": "Causal model",
+        "score": 35
+      },
+      {
+        "name": "Gaze",
+        "score": 35
+      },
+      {
+        "name": "Association (psychology)",
+        "score": 30
+      },
+      {
+        "name": "Decision theory",
+        "score": 30
+      },
+      {
+        "name": "Cognitive bias",
+        "score": 29
+      }
+    ],
+    "authors": "Ariel Zylberberg, Ian Krajbich, Michael N. Shadlen",
+    "title": "Behavioral signatures of post-decisional attention in preferential choice",
+    "version": "v1",
+    "versionNumber": 1,
+    "elifeStatus": "reviewed-preprint",
+    "totalVersions": 1,
+    "assessmentSignificance": "Important",
+    "assessmentStrength": "Convincing",
+    "assessmentSummary": "This study uses &lt;b&gt;convincing&lt;/b&gt; modeling methods and analyses of rich behavioral datasets to investigate the role of attention in value-based decision-making; for instance, as when choosing between two snacks. The results are &lt;b&gt;important&lt;/b&gt;, as they challenge existing theories that assume that paying attention to an available option biases the eventual choice toward that option. The results suggest that the correlation between attention and decision-making is formed largely after rather than before the (internal) choice process has terminated, a finding that offers an intuitively appealing rethinking of how attention and decision-making processes interact during value-based choices.",
+    "seniorEditor": "Tirin Moore",
+    "seniorEditorInstitution": "Stanford University, Howard Hughes Medical Institute, United States",
+    "reviewingEditor": "Emilio Salinas",
+    "reviewingEditorInstitution": "Wake Forest University School of Medicine, United States"
+  },
+  {
+    "id": "110685",
+    "doi": "10.7554/elife.110685.3",
+    "url": "https://doi.org/10.7554/elife.110685.3",
+    "date": "2026-07-27T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Neuroscience",
+    "subfield": "Cognitive Neuroscience",
+    "primaryTopic": "Neural and Behavioral Psychology Studies",
+    "topics": [
+      {
+        "name": "Neural and Behavioral Psychology Studies",
+        "subfield": "Cognitive Neuroscience",
+        "score": 0
+      },
+      {
+        "name": "Visual perception and processing mechanisms",
+        "subfield": "Cognitive Neuroscience",
+        "score": 0
+      },
+      {
+        "name": "Memory and Neural Mechanisms",
+        "subfield": "Cognitive Neuroscience",
+        "score": 0
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Sensory system",
+        "score": 69
+      },
+      {
+        "name": "Arousal",
+        "score": 68
+      },
+      {
+        "name": "Stimulus (psychology)",
+        "score": 65
+      },
+      {
+        "name": "Perception",
+        "score": 60
+      },
+      {
+        "name": "Adaptation (eye)",
+        "score": 54
+      },
+      {
+        "name": "Sensory Adaptation",
+        "score": 48
+      },
+      {
+        "name": "Flexibility (engineering)",
+        "score": 46
+      },
+      {
+        "name": "Cognition",
+        "score": 42
+      },
+      {
+        "name": "Affect (linguistics)",
+        "score": 41
+      },
+      {
+        "name": "Pupillary response",
+        "score": 35
+      }
+    ],
+    "authors": "Kara D. McGaughey, Joshua I. Gold",
+    "title": "Sensory adaptation and pupil-linked arousal support flexible evidence accumulation during perceptual decision making",
+    "version": "v2",
+    "versionNumber": 2,
+    "elifeStatus": "reviewed-preprint",
+    "totalVersions": 1,
+    "assessmentSignificance": "Important",
+    "assessmentStrength": "Compelling",
+    "assessmentSummary": "This &lt;b&gt;important&lt;/b&gt; study measures single-unit activity in area MT of awake-behaving monkeys to test the idea that sensory adaptation contributes to flexible evidence accumulation during decision making. The authors provide &lt;b&gt;compelling&lt;/b&gt; evidence that adaptation to different temporal contexts shapes both perceptual judgements and neural responses. Although the precise computational mechanisms underlying these effects remain uncertain, the results support the conclusion that recent sensory history influences the temporal dynamics of decision formation. This work will be of interest to researchers studying visual perception, sensory adaptation, and decision making.",
+    "seniorEditor": "Michael J Frank",
+    "seniorEditorInstitution": "Brown University, United States",
+    "reviewingEditor": "Redmond G O'Connell",
+    "reviewingEditorInstitution": "Trinity College Dublin, Ireland"
+  },
+  {
+    "id": "108495",
+    "doi": "10.7554/elife.108495.4",
+    "url": "https://doi.org/10.7554/elife.108495.4",
+    "date": "2026-07-20T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Neuroscience",
+    "subfield": "Cognitive Neuroscience",
+    "primaryTopic": "Face Recognition and Perception",
+    "topics": [
+      {
+        "name": "Face Recognition and Perception",
+        "subfield": "Cognitive Neuroscience",
+        "score": 1
+      },
+      {
+        "name": "Evolutionary Psychology and Human Behavior",
+        "subfield": "Experimental and Cognitive Psychology",
+        "score": 0
+      },
+      {
+        "name": "Face recognition and analysis",
+        "subfield": "Computer Vision and Pattern Recognition",
+        "score": 0
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Identity (music)",
+        "score": 76
+      },
+      {
+        "name": "Face (sociological concept)",
+        "score": 61
+      },
+      {
+        "name": "Horizontal and vertical",
+        "score": 59
+      },
+      {
+        "name": "Orientation (vector space)",
+        "score": 54
+      },
+      {
+        "name": "Facial recognition system",
+        "score": 50
+      },
+      {
+        "name": "Face perception",
+        "score": 50
+      },
+      {
+        "name": "Task (project management)",
+        "score": 46
+      },
+      {
+        "name": "Range (aeronautics)",
+        "score": 42
+      },
+      {
+        "name": "Pattern recognition (psychology)",
+        "score": 38
+      },
+      {
+        "name": "Sensory cue",
+        "score": 36
+      }
+    ],
+    "authors": "Alexia Roux-Sibilon, H\u00e9l\u00e8ne Dumont, Vincent Bremhorst, Christianne Jacobs, Val\u00e9rie Goffaux",
+    "title": "The view tolerance of human identity recognition depends on horizontal face information",
+    "version": "Version of Record",
+    "versionNumber": 3,
+    "elifeStatus": "vor",
+    "totalVersions": 1,
+    "assessmentSignificance": "Important",
+    "assessmentStrength": "Convincing",
+    "assessmentSummary": "This &lt;b&gt;important&lt;/b&gt; study combines behavioural psychophysics with image-based observer modelling to investigate which visual information can support view-tolerant face identity recognition. It offers &lt;b&gt;convincing&lt;/b&gt; evidence that although diagnostic orientation content about identity varies with viewpoint - more horizontal for frontal views and more vertical for profiles - human recognition remains mainly tuned to horizontal information, identified by a view-tolerant model as carrying the most stable identity cues across viewpoints. Questions remain about how this generalises to ecological scenes and is biologically implemented.",
+    "seniorEditor": "Joshua I Gold",
+    "seniorEditorInstitution": "University of Pennsylvania, United States",
+    "reviewingEditor": "Tessa Dekker",
+    "reviewingEditorInstitution": "University College London, United Kingdom"
+  },
+  {
+    "id": "109830",
+    "doi": "10.7554/elife.109830.3",
+    "url": "https://doi.org/10.7554/elife.109830.3",
+    "date": "2026-07-20T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Neuroscience",
+    "subfield": "Cognitive Neuroscience",
+    "primaryTopic": "Visual perception and processing mechanisms",
+    "topics": [
+      {
+        "name": "Visual perception and processing mechanisms",
+        "subfield": "Cognitive Neuroscience",
+        "score": 1
+      },
+      {
+        "name": "Neural dynamics and brain function",
+        "subfield": "Cognitive Neuroscience",
+        "score": 1
+      },
+      {
+        "name": "Neural Networks and Applications",
+        "subfield": "Artificial Intelligence",
+        "score": 1
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Generalization",
+        "score": 85
+      },
+      {
+        "name": "Perception",
+        "score": 67
+      },
+      {
+        "name": "Perceptual learning",
+        "score": 50
+      }
+    ],
+    "authors": "Noga Pinchuk-Yacobi, Dov Sagi, Yoram Bonneh",
+    "title": "Serial dependence predicts generalization in perceptual learning",
+    "version": "v1",
+    "versionNumber": 1,
+    "elifeStatus": "reviewed-preprint",
+    "totalVersions": 1,
+    "assessmentSignificance": "Fundamental",
+    "assessmentStrength": "Compelling",
+    "assessmentSummary": "This &lt;b&gt;fundamental&lt;/b&gt; study describes long-range serial dependence of performance on a visual texture discrimination training task that manipulated conditions to induce differing degrees of location transfer of learning. The authors re-analyzed previously-published, behavioral data, generating &lt;b&gt;compelling&lt;/b&gt; evidence from converging approaches that the serial dependence effects persist over multiple days of training, and may share a common causal mechanism with training-induced location transfer. By informing our understanding of the importance of temporal integration to long-term perceptual learning and its propensity towards specificity or generalizability, these results should interest neuroscientists who seek to uncover underlying neural mechanisms for these processes.",
+    "seniorEditor": "Huan Luo",
+    "seniorEditorInstitution": "Peking University, China",
+    "reviewingEditor": "Krystel R Huxlin",
+    "reviewingEditorInstitution": "University of Rochester, United States"
+  },
+  {
+    "id": "110320",
+    "doi": "10.7554/elife.110320.3",
+    "url": "https://doi.org/10.7554/elife.110320.3",
+    "date": "2026-07-20T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Neuroscience",
+    "subfield": "Cognitive Neuroscience",
+    "primaryTopic": "Neurobiology of Language and Bilingualism",
+    "topics": [
+      {
+        "name": "Neurobiology of Language and Bilingualism",
+        "subfield": "Cognitive Neuroscience",
+        "score": 0
+      },
+      {
+        "name": "Action Observation and Synchronization",
+        "subfield": "Social Psychology",
+        "score": 0
+      },
+      {
+        "name": "Categorization, perception, and language",
+        "subfield": "Experimental and Cognitive Psychology",
+        "score": 0
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Categorization",
+        "score": 91
+      },
+      {
+        "name": "Similarity (geometry)",
+        "score": 47
+      },
+      {
+        "name": "Function (biology)",
+        "score": 46
+      },
+      {
+        "name": "sort",
+        "score": 45
+      },
+      {
+        "name": "Visual language",
+        "score": 42
+      },
+      {
+        "name": "Visual Objects",
+        "score": 38
+      },
+      {
+        "name": "Repetition (rhetorical device)",
+        "score": 35
+      },
+      {
+        "name": "Semantic memory",
+        "score": 32
+      },
+      {
+        "name": "Artificial neural network",
+        "score": 32
+      },
+      {
+        "name": "Semantics (computer science)",
+        "score": 31
+      }
+    ],
+    "authors": "Guo Zheng, Shihui Han",
+    "title": "Neural categorization of visual words of alphabetic and non-alphabetic languages",
+    "version": "v2",
+    "versionNumber": 2,
+    "elifeStatus": "reviewed-preprint",
+    "totalVersions": 1,
+    "assessmentSignificance": "Important",
+    "assessmentStrength": "Solid",
+    "assessmentSummary": "This &lt;b&gt;important&lt;/b&gt; study investigates how the brain categorizes written words from different writing systems (e.g., alphabetic vs. non-alphabetic). The evidence supporting the authors&#x27; claims is &lt;b&gt;solid&lt;/b&gt; and sheds light on the neural basis of language&#x27;s social\u2011categorization function.",
+    "seniorEditor": "Joshua I Gold",
+    "seniorEditorInstitution": "University of Pennsylvania, United States",
+    "reviewingEditor": "Nai Ding",
+    "reviewingEditorInstitution": "Zhejiang University, China"
+  },
+  {
+    "id": "105399",
+    "doi": "10.7554/elife.105399.3",
+    "url": "https://doi.org/10.7554/elife.105399.3",
+    "date": "2026-07-13T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Neuroscience",
+    "subfield": "Cognitive Neuroscience",
+    "primaryTopic": "Memory and Neural Mechanisms",
+    "topics": [
+      {
+        "name": "Memory and Neural Mechanisms",
+        "subfield": "Cognitive Neuroscience",
+        "score": 1
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Ventral tegmental area",
+        "score": 82
+      },
+      {
+        "name": "Extinction (optical mineralogy)",
+        "score": 71
+      },
+      {
+        "name": "Cerebellum",
+        "score": 56
+      },
+      {
+        "name": "Dopamine",
+        "score": 0
+      },
+      {
+        "name": "Dopaminergic",
+        "score": 0
+      }
+    ],
+    "authors": "Enzo Nio, Patrick Pais Pereira, Nicolas Diekmann, Mykola Petrenko, Alice Doubliez, Thomas Ernst, Giorgi Batsikadze, Stefan Maderwald, Cornelius Deuschl, Metin Uengoer, Sen Cheng, Christian J. Merz, Harald H. Quick, Dagmar Timmann",
+    "title": "Human cerebellum and ventral tegmental area interact during extinction of learned fear",
+    "version": "Version of Record",
+    "versionNumber": 3,
+    "elifeStatus": "vor",
+    "totalVersions": 1,
+    "assessmentSignificance": "Important",
+    "assessmentStrength": "Solid",
+    "assessmentSummary": "This &lt;b&gt;important&lt;/b&gt; study provides insights into the role of the cerebellum in fear conditioning, addressing a key gap in the literature. The evidence presented in support of the conclusions is &lt;b&gt;solid&lt;/b&gt;. This work will be of interest to both the extinction learning and cerebellar research communities.",
+    "seniorEditor": null,
+    "seniorEditorInstitution": null,
+    "reviewingEditor": null,
+    "reviewingEditorInstitution": null
+  },
+  {
+    "id": "105774",
+    "doi": "10.7554/elife.105774.4",
+    "url": "https://doi.org/10.7554/elife.105774.4",
+    "date": "2026-07-10T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Neuroscience",
+    "subfield": "Cognitive Neuroscience",
+    "primaryTopic": "Memory and Neural Mechanisms",
+    "topics": [
+      {
+        "name": "Memory and Neural Mechanisms",
+        "subfield": "Cognitive Neuroscience",
+        "score": 1
+      },
+      {
+        "name": "Neural and Behavioral Psychology Studies",
+        "subfield": "Cognitive Neuroscience",
+        "score": 0
+      },
+      {
+        "name": "Zebrafish Biomedical Research Applications",
+        "subfield": "Cell Biology",
+        "score": 0
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Anterior cingulate cortex",
+        "score": 71
+      },
+      {
+        "name": "Associative property",
+        "score": 63
+      },
+      {
+        "name": "Action (physics)",
+        "score": 59
+      },
+      {
+        "name": "Associative learning",
+        "score": 53
+      },
+      {
+        "name": "Cognition",
+        "score": 44
+      },
+      {
+        "name": "Cingulate cortex",
+        "score": 41
+      },
+      {
+        "name": "Task (project management)",
+        "score": 40
+      },
+      {
+        "name": "Encoding (memory)",
+        "score": 40
+      },
+      {
+        "name": "Error-related negativity",
+        "score": 39
+      },
+      {
+        "name": "ENCODE",
+        "score": 35
+      }
+    ],
+    "authors": "Wenqiang Huang, Arron F Hall, Natalia Kawalec, Ashley Nicole Opalka, Jun Liu, Dong V. Wang",
+    "title": "Anterior cingulate cortex monitors action state and action content in complex associative learning",
+    "version": "v1",
+    "versionNumber": 1,
+    "elifeStatus": "reviewed-preprint",
+    "totalVersions": 1,
+    "assessmentSignificance": "Valuable",
+    "assessmentStrength": "Solid",
+    "assessmentSummary": "Huang and colleagues examined neural responses in mouse anterior cingulate cortex (ACC) during a discrimination-avoidance task. The authors present &lt;b&gt;valuable&lt;/b&gt; findings that ACC neurons encode primarily &quot;action content&quot; over extended periods. The methodological approach is sound and the evidence in support of action state encoding is &lt;b&gt;solid&lt;/b&gt;, though it is not conclusive to what extent ACC primarily encodes post-action events.",
+    "seniorEditor": "Joshua I Gold",
+    "seniorEditorInstitution": "University of Pennsylvania, United States",
+    "reviewingEditor": "Alicia Izquierdo",
+    "reviewingEditorInstitution": "University of California, Los Angeles, United States"
+  },
+  {
+    "id": "104182",
+    "doi": "10.7554/elife.104182.3",
+    "url": "https://doi.org/10.7554/elife.104182.3",
+    "date": "2026-07-29T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cell Biology",
+    "primaryTopic": "Zebrafish Biomedical Research Applications",
+    "topics": [
+      {
+        "name": "Zebrafish Biomedical Research Applications",
+        "subfield": "Cell Biology",
+        "score": 1
+      },
+      {
+        "name": "CRISPR and Genetic Engineering",
+        "subfield": "Molecular Biology",
+        "score": 1
+      },
+      {
+        "name": "RNA Interference and Gene Delivery",
+        "subfield": "Molecular Biology",
+        "score": 1
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Transgenesis",
+        "score": 86
+      },
+      {
+        "name": "Zebrafish",
+        "score": 80
+      },
+      {
+        "name": "Transgene",
+        "score": 73
+      },
+      {
+        "name": "Software portability",
+        "score": 41
+      },
+      {
+        "name": "Gene",
+        "score": 26
+      },
+      {
+        "name": "Reproductive biology",
+        "score": 0
+      },
+      {
+        "name": "Embryogenesis",
+        "score": 0
+      }
+    ],
+    "authors": "Saskia Hurst, Christiane Dimmler, Mark R. Cronan",
+    "title": "ImPaqT, a Golden Gate-based immunological toolkit for zebrafish transgenesis",
+    "version": "v1",
+    "versionNumber": 1,
+    "elifeStatus": "reviewed-preprint",
+    "totalVersions": 1,
+    "assessmentSignificance": "Valuable",
+    "assessmentStrength": "Convincing",
+    "assessmentSummary": "This study introduces a &lt;b&gt;valuable&lt;/b&gt; toolkit for zebrafish transgenesis, significantly enhancing the flexibility and efficiency of transgene generation for immunological applications. The authors provide &lt;b&gt;convincing&lt;/b&gt; evidence through well-designed experiments, demonstrating the toolkit&#x27;s utility in generating diverse and functional transgenic lines.",
+    "seniorEditor": null,
+    "seniorEditorInstitution": null,
+    "reviewingEditor": null,
+    "reviewingEditorInstitution": null
+  },
+  {
+    "id": "108399",
+    "doi": "10.7554/elife.108399.3",
+    "url": "https://doi.org/10.7554/elife.108399.3",
+    "date": "2026-08-10T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cell Biology",
+    "primaryTopic": "Biotin and Related Studies",
+    "topics": [
+      {
+        "name": "Biotin and Related Studies",
+        "subfield": "Cell Biology",
+        "score": 1
+      },
+      {
+        "name": "Nuclear Structure and Function",
+        "subfield": "Molecular Biology",
+        "score": 1
+      },
+      {
+        "name": "RNA Research and Splicing",
+        "subfield": "Molecular Biology",
+        "score": 1
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Yeast",
+        "score": 69
+      },
+      {
+        "name": "Nuclear pore",
+        "score": 57
+      },
+      {
+        "name": "Pulse (music)",
+        "score": 49
+      },
+      {
+        "name": "Cytoplasm",
+        "score": 0
+      },
+      {
+        "name": "Detector",
+        "score": 0
+      }
+    ],
+    "authors": "Annemiek C. Veldsink, Jonas S. Fischer, Sophie Hell, Karsten Weis, Liesbeth M. Veenhoff",
+    "title": "A tool to pulse-label yeast nuclear pore complexes in imaging and biochemical experiments",
+    "version": "v2",
+    "versionNumber": 2,
+    "elifeStatus": "reviewed-preprint",
+    "totalVersions": 1,
+    "assessmentSignificance": "Important",
+    "assessmentStrength": "Convincing",
+    "assessmentSummary": "This &lt;b&gt;important&lt;/b&gt; study introduces a non-perturbative pulse-labeling strategy for yeast nuclear pore complexes (NPCs), employing a nanobody-based approach in order to selectively capture Nup84-containing complexes for imaging and biochemical analysis. The data &lt;b&gt;convincingly&lt;/b&gt; demonstrate that a short induction period (20 minutes to 1 hour) yields a strong and sustained signal, enabling affinity purification that faithfully recapitulates the endogenous Nup84 interactome. This tool offers a powerful framework for investigating NPC dynamics and associated interactomes through both imaging and biochemical assays.",
+    "seniorEditor": "Ad\u00e8le L Marston",
+    "seniorEditorInstitution": "University of Edinburgh, United Kingdom",
+    "reviewingEditor": "El\u00e7in \u00dcnal",
+    "reviewingEditorInstitution": "University of California, Berkeley, United States"
+  },
+  {
+    "id": "110370",
+    "doi": "10.7554/elife.110370.3",
+    "url": "https://doi.org/10.7554/elife.110370.3",
+    "date": "2026-07-20T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cell Biology",
+    "primaryTopic": "Zebrafish Biomedical Research Applications",
+    "topics": [
+      {
+        "name": "Zebrafish Biomedical Research Applications",
+        "subfield": "Cell Biology",
+        "score": 1
+      },
+      {
+        "name": "Sleep and Wakefulness Research",
+        "subfield": "Cognitive Neuroscience",
+        "score": 0
+      },
+      {
+        "name": "Neurobiology and Insect Physiology Research",
+        "subfield": "Cellular and Molecular Neuroscience",
+        "score": 0
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Serotonergic",
+        "score": 79
+      },
+      {
+        "name": "Optogenetics",
+        "score": 57
+      },
+      {
+        "name": "Population",
+        "score": 54
+      },
+      {
+        "name": "Dorsal raphe nucleus",
+        "score": 43
+      },
+      {
+        "name": "Local field potential",
+        "score": 41
+      },
+      {
+        "name": "Premovement neuronal activity",
+        "score": 38
+      },
+      {
+        "name": "Interneuron",
+        "score": 37
+      },
+      {
+        "name": "Calcium imaging",
+        "score": 36
+      },
+      {
+        "name": "Motor system",
+        "score": 35
+      },
+      {
+        "name": "Raphe nuclei",
+        "score": 31
+      }
+    ],
+    "authors": "Kexin Qi, Yuming Chai, Guodong Tan, Daguang Li, Quan Wen",
+    "title": "Serotonergic modulation of motor subspace dynamics drives a sleep-independent quiescent state",
+    "version": "Version of Record",
+    "versionNumber": 3,
+    "elifeStatus": "vor",
+    "totalVersions": 1,
+    "assessmentSignificance": "Important",
+    "assessmentStrength": "Convincing",
+    "assessmentSummary": "In light of the diverse functions associated with the Dorsal Raphe Nucleus across vertebrate species, this &lt;b&gt;important&lt;/b&gt; study presents findings on the role of serotonin in promoting behavioral quiescence through the regulation of neuromotor populations. Combining optogenetics with brain-wide activity analyses, the study provides &lt;b&gt;convincing&lt;/b&gt; evidence of interest to researchers in neuromodulation and translational medicine fields.",
+    "seniorEditor": "Andrew J King",
+    "seniorEditorInstitution": "University of Oxford, United Kingdom",
+    "reviewingEditor": "Mariano Soiza-Reilly",
+    "reviewingEditorInstitution": "Universidad de Buenos Aires - CONICET, Argentina"
+  },
+  {
+    "id": "108837",
+    "doi": "10.7554/elife.108837.4",
+    "url": "https://doi.org/10.7554/elife.108837.4",
+    "date": "2026-07-20T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cell Biology",
+    "primaryTopic": "Microtubule and mitosis dynamics",
+    "topics": [
+      {
+        "name": "Microtubule and mitosis dynamics",
+        "subfield": "Cell Biology",
+        "score": 1
+      },
+      {
+        "name": "Photosynthetic Processes and Mechanisms",
+        "subfield": "Molecular Biology",
+        "score": 1
+      },
+      {
+        "name": "ATP Synthase and ATPases Research",
+        "subfield": "Molecular Biology",
+        "score": 1
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Tensiometer (surface tension)",
+        "score": 81
+      },
+      {
+        "name": "Kinesin",
+        "score": 69
+      },
+      {
+        "name": "Kinetics",
+        "score": 60
+      },
+      {
+        "name": "DNA",
+        "score": 54
+      },
+      {
+        "name": "Microtubule",
+        "score": 7
+      },
+      {
+        "name": "Surface tension",
+        "score": 0
+      }
+    ],
+    "authors": "Crystal R. Noell, Tzu-Chen Ma, Rui Jiang, Scott A. McKinley, William O. Hancock",
+    "title": "DNA tensiometer reveals catch-bond detachment kinetics of kinesin-1, -2, and -3",
+    "version": "v1",
+    "versionNumber": 1,
+    "elifeStatus": "reviewed-preprint",
+    "totalVersions": 1,
+    "assessmentSignificance": "Valuable",
+    "assessmentStrength": "Convincing",
+    "assessmentSummary": "The authors use &lt;b&gt;convincing&lt;/b&gt; methodology to investigate the detachment and reattachment kinetics of kinesin-1, 2 and 3 motors against loads oriented parallel to the microtubule. The conclusions drawn from the &lt;b&gt;valuable&lt;/b&gt; experiments as well as the overall interpretation of the results are fully supported by the presented data.",
+    "seniorEditor": "Yamini Dalal",
+    "seniorEditorInstitution": "National Cancer Institute, United States",
+    "reviewingEditor": "Kerry Bloom",
+    "reviewingEditorInstitution": "The University of North Carolina at Chapel Hill, United States"
+  },
+  {
+    "id": "108369",
+    "doi": "10.7554/elife.108369.3",
+    "url": "https://doi.org/10.7554/elife.108369.3",
+    "date": "2026-07-06T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cell Biology",
+    "primaryTopic": "Caveolin-1 and cellular processes",
+    "topics": [
+      {
+        "name": "Caveolin-1 and cellular processes",
+        "subfield": "Cell Biology",
+        "score": 1
+      },
+      {
+        "name": "Lipid metabolism and disorders",
+        "subfield": "Cardiology and Cardiovascular Medicine",
+        "score": 1
+      },
+      {
+        "name": "Cholesterol and Lipid Metabolism",
+        "subfield": "Surgery",
+        "score": 1
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Caveolae",
+        "score": 95
+      },
+      {
+        "name": "Lipid bilayer",
+        "score": 66
+      },
+      {
+        "name": "Membrane",
+        "score": 65
+      },
+      {
+        "name": "Lipid raft",
+        "score": 54
+      },
+      {
+        "name": "Membrane curvature",
+        "score": 46
+      },
+      {
+        "name": "Endocytosis",
+        "score": 44
+      },
+      {
+        "name": "Bilayer",
+        "score": 43
+      },
+      {
+        "name": "Cholesterol",
+        "score": 39
+      },
+      {
+        "name": "Cell membrane",
+        "score": 37
+      },
+      {
+        "name": "Internalization",
+        "score": 32
+      }
+    ],
+    "authors": "Elin Larsson, Aleksei Kabedev, Hudson Pace, Jakob Lindwall, Fouzia Bano, James Rae, Robert G. Parton, Christel AS Bergstr\u00f6m, Ingela Parmryd, Marta Bally, Richard Lundmark",
+    "title": "Lipid packing contributes to the confinement of caveolae to the plasma membrane",
+    "version": "v2",
+    "versionNumber": 2,
+    "elifeStatus": "reviewed-preprint",
+    "totalVersions": 1,
+    "assessmentSignificance": "Important",
+    "assessmentStrength": "Convincing",
+    "assessmentSummary": "On the basis of &lt;b&gt;convincing&lt;/b&gt; computational, biophysical, and cell-based evidence, this study reports the &lt;b&gt;important&lt;/b&gt; finding that the dynamin inhibitor Dyngo-4a broadly affects lipid packing and plasma membrane dynamics, independently of its action on dynamin. The evidence, obtained by a wide range of methods including a newly developed assay visualizing internalized caveolae, provides &lt;b&gt;solid&lt;/b&gt; support for the authors&#x27; main claim on the role of lipid packing in caveolae internalization. This work will be of significant interest to cell biologists, biophysicists, and chemists interested in membrane remodeling and drug-membrane interactions. [Editors&#x27; note: this paper was reviewed by &lt;a href=&quot;https://www.reviewcommons.org/&quot;&gt;Review Commons&lt;/a&gt;.]",
+    "seniorEditor": "Felix Campelo",
+    "seniorEditorInstitution": "Universitat Pompeu Fabra, Spain",
+    "reviewingEditor": "Yuichi Wakana",
+    "reviewingEditorInstitution": "Tokyo University of Pharmacy and Life Sciences, Japan"
+  },
+  {
+    "id": "109452",
+    "doi": "10.7554/elife.109452.3",
+    "url": "https://doi.org/10.7554/elife.109452.3",
+    "date": "2026-07-03T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cell Biology",
+    "primaryTopic": "Biotin and Related Studies",
+    "topics": [
+      {
+        "name": "Biotin and Related Studies",
+        "subfield": "Cell Biology",
+        "score": 1
+      },
+      {
+        "name": "Myasthenia Gravis and Thymoma",
+        "subfield": "Neurology",
+        "score": 1
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Amino acid",
+        "score": 58
+      },
+      {
+        "name": "Fluorescent labelling",
+        "score": 57
+      },
+      {
+        "name": "Fluorescence",
+        "score": 52
+      },
+      {
+        "name": "Stress granule",
+        "score": 50
+      },
+      {
+        "name": "Granule (geology)",
+        "score": 48
+      },
+      {
+        "name": "Fluorescent protein",
+        "score": 38
+      },
+      {
+        "name": "Fight-or-flight response",
+        "score": 36
+      },
+      {
+        "name": "Live cell imaging",
+        "score": 35
+      },
+      {
+        "name": "Protein biosynthesis",
+        "score": 35
+      },
+      {
+        "name": "Fluorescence microscope",
+        "score": 32
+      }
+    ],
+    "authors": "Hao Chen, Haocheng Wang, Yuning Lu, Peng Chen, Zhongfan Zheng, Tao Zhang, Jiou Wang",
+    "title": "Non-canonical amino acid incorporation enables minimally disruptive labeling of stress granule and TDP-43 proteinopathy",
+    "version": "Version of Record",
+    "versionNumber": 3,
+    "elifeStatus": "vor",
+    "totalVersions": 1,
+    "assessmentSignificance": "Useful",
+    "assessmentStrength": "Solid",
+    "assessmentSummary": "This paper demonstrates that a genetic code expansion to tag two amyotrophic lateral sclerosis (ALS) proteins associated with stress granules is &lt;b&gt;useful&lt;/b&gt; in an experimental context. The data are &lt;b&gt;solid&lt;/b&gt; and demonstrate the feasibility of using ANAP-fluorescence for live cell imaging.",
+    "seniorEditor": "David Ron",
+    "seniorEditorInstitution": "University of Cambridge, United Kingdom",
+    "reviewingEditor": "Hugo J Bellen",
+    "reviewingEditorInstitution": "Baylor College of Medicine, United States"
+  },
+  {
+    "id": "108131",
+    "doi": "10.7554/elife.108131.3",
+    "url": "https://doi.org/10.7554/elife.108131.3",
+    "date": "2026-06-25T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cell Biology",
+    "primaryTopic": "Microtubule and mitosis dynamics",
+    "topics": [
+      {
+        "name": "Microtubule and mitosis dynamics",
+        "subfield": "Cell Biology",
+        "score": 1
+      },
+      {
+        "name": "Epigenetics and DNA Methylation",
+        "subfield": "Molecular Biology",
+        "score": 1
+      },
+      {
+        "name": "DNA Repair Mechanisms",
+        "subfield": "Molecular Biology",
+        "score": 1
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Hydroxylation",
+        "score": 86
+      },
+      {
+        "name": "Mitosis",
+        "score": 62
+      },
+      {
+        "name": "Control (management)",
+        "score": 55
+      },
+      {
+        "name": "Enzyme",
+        "score": 6
+      }
+    ],
+    "authors": "Jimena Druker, Hao Jiang, Dilem Shakir, Fraser Child, Vanesa \u00c1lvarez, Melpomeni Platani, Andrea Corno, Constance Alabert, Adrian T. Saurin, Jason R. Swedlow, S\u00f3nia Rocha, Angus I. Lamond",
+    "title": "PHD1-dependent hydroxylation of RepoMan (CDCA2) on P604 modulates the control of mitotic progression",
+    "version": "v1",
+    "versionNumber": 1,
+    "elifeStatus": "reviewed-preprint",
+    "totalVersions": 1,
+    "assessmentSignificance": "Important",
+    "assessmentStrength": "Compelling",
+    "assessmentSummary": "This &lt;b&gt;compelling&lt;/b&gt; work describes how the cell cycle-regulating phosphatase subunit, RepoMan, is regulated by the oxygen-dependent, metabolite-sensing hydroxylase PHD1. The characterisation of how proline hydroxylation alters signalling at the molecular and cellular level provides &lt;b&gt;important&lt;/b&gt; evidence to enhance our understanding of how 2-oxoglutarate-dependent dioxygenases influence the cell cycle and mitosis.",
+    "seniorEditor": "Volker D\u00f6tsch",
+    "seniorEditorInstitution": "Goethe University Frankfurt, Germany",
+    "reviewingEditor": "Qing Zhang",
+    "reviewingEditorInstitution": "University of Texas Southwestern Medical Center, United States"
+  },
+  {
+    "id": "107220",
+    "doi": "10.7554/elife.107220.3",
+    "url": "https://doi.org/10.7554/elife.107220.3",
+    "date": "2026-06-17T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Cell Biology",
+    "primaryTopic": "Cellular Mechanics and Interactions",
+    "topics": [
+      {
+        "name": "Cellular Mechanics and Interactions",
+        "subfield": "Cell Biology",
+        "score": 1
+      },
+      {
+        "name": "Erythrocyte Function and Pathophysiology",
+        "subfield": "Physiology",
+        "score": 1
+      },
+      {
+        "name": "Microtubule and mitosis dynamics",
+        "subfield": "Cell Biology",
+        "score": 1
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Mechanosensitive channels",
+        "score": 97
+      },
+      {
+        "name": "Intracellular",
+        "score": 71
+      },
+      {
+        "name": "Fight-or-flight response",
+        "score": 42
+      },
+      {
+        "name": "Ion channel",
+        "score": 0
+      },
+      {
+        "name": "Receptor",
+        "score": 0
+      },
+      {
+        "name": "Gene",
+        "score": 0
+      }
+    ],
+    "authors": "Elaheh Zare\u2010Eelanjegh, Renard TM Lewis, Ines L\u00fcchtefeld, Ulrike Kutay, Tomaso Zambelli",
+    "title": "Quantifying intracellular mechanosensitive response upon spatially defined mechano-chemical triggering",
+    "version": "v2",
+    "versionNumber": 2,
+    "elifeStatus": "reviewed-preprint",
+    "totalVersions": 1,
+    "assessmentSignificance": "Valuable",
+    "assessmentStrength": "Convincing",
+    "assessmentSummary": "This &lt;b&gt;valuable&lt;/b&gt; study provides evidence that the integration of the nuclear envelope into the endoplasmic reticulum provides a mechanism for mechanical integration across this continuous membrane system. This work opens up new avenues for studying organelle membrane tension homeostasis. The evidence was found to be &lt;b&gt;convincing&lt;/b&gt; and carefully quantified, with minor limitations that we expect to be further explored in future work.",
+    "seniorEditor": "Felix Campelo",
+    "seniorEditorInstitution": "Universitat Pompeu Fabra, Spain",
+    "reviewingEditor": "Megan C King",
+    "reviewingEditorInstitution": "Yale School of Medicine, United States"
+  },
+  {
+    "id": "109170",
+    "doi": "10.7554/elife.109170.3",
+    "url": "https://doi.org/10.7554/elife.109170.3",
+    "date": "2026-08-10T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Genetics",
+    "primaryTopic": "Genetics and Neurodevelopmental Disorders",
+    "topics": [
+      {
+        "name": "Genetics and Neurodevelopmental Disorders",
+        "subfield": "Genetics",
+        "score": 1
+      },
+      {
+        "name": "Ubiquitin and proteasome pathways",
+        "subfield": "Molecular Biology",
+        "score": 0
+      },
+      {
+        "name": "Genomics and Rare Diseases",
+        "subfield": "Genetics",
+        "score": 0
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Frameshift mutation",
+        "score": 84
+      },
+      {
+        "name": "MECP2",
+        "score": 83
+      },
+      {
+        "name": "Open reading frame",
+        "score": 72
+      },
+      {
+        "name": "Gene",
+        "score": 53
+      },
+      {
+        "name": "Rett syndrome",
+        "score": 48
+      },
+      {
+        "name": "Motif (music)",
+        "score": 44
+      },
+      {
+        "name": "Reading frame",
+        "score": 44
+      },
+      {
+        "name": "Phenotype",
+        "score": 40
+      },
+      {
+        "name": "Stop codon",
+        "score": 40
+      },
+      {
+        "name": "Peptide sequence",
+        "score": 35
+      }
+    ],
+    "authors": "Jacky Guy, Elena Hein, Beatrice Alexander-Howden, Timur von Bock und Polach, Tricia Mathieson, Benjamin P Kleinstiver, Huda Y Zoghbi, Adrian Bird",
+    "title": "Translational reading frame predicts the pathogenicity of C-terminal frameshift deletions in MeCP2",
+    "version": "v1",
+    "versionNumber": 1,
+    "elifeStatus": "reviewed-preprint",
+    "totalVersions": 1,
+    "assessmentSignificance": "Important",
+    "assessmentStrength": "Convincing",
+    "assessmentSummary": "This study offers &lt;b&gt;important&lt;/b&gt; insight into the pathogenic basis of intragenic frameshift deletions in the carboxy-terminal domain of MECP2, which account for some Rett syndrome cases, yet similar variants also appear in unaffected individuals. Using base editing and mouse models, the authors present &lt;b&gt;convincing&lt;/b&gt; evidence supporting the pathogenicity of select deletion variants, with potential implications for therapeutic development.",
+    "seniorEditor": "Murim Choi",
+    "seniorEditorInstitution": "Seoul National University, Republic of Korea",
+    "reviewingEditor": "Lisa M Monteggia",
+    "reviewingEditorInstitution": "Vanderbilt University, United States"
+  },
+  {
+    "id": "109213",
+    "doi": "10.7554/elife.109213.3",
+    "url": "https://doi.org/10.7554/elife.109213.3",
+    "date": "2026-08-05T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Genetics",
+    "primaryTopic": "Insect and Arachnid Ecology and Behavior",
+    "topics": [
+      {
+        "name": "Insect and Arachnid Ecology and Behavior",
+        "subfield": "Genetics",
+        "score": 0
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Throughput",
+        "score": 72
+      },
+      {
+        "name": "Dynamics (music)",
+        "score": 65
+      },
+      {
+        "name": "Luminescence",
+        "score": 61
+      },
+      {
+        "name": "Population",
+        "score": 50
+      },
+      {
+        "name": "Wireless",
+        "score": 0
+      }
+    ],
+    "authors": "Malte Muetter, Daniel C. Angst, Roland R. Regoes, Sebastian Bonhoeffer",
+    "title": "High-throughput quantification of population dynamics using luminescence",
+    "version": "v2",
+    "versionNumber": 2,
+    "elifeStatus": "reviewed-preprint",
+    "totalVersions": 1,
+    "assessmentSignificance": "Important",
+    "assessmentStrength": "Convincing",
+    "assessmentSummary": "Muetter et al. provide an &lt;b&gt;important&lt;/b&gt; argument that luminescence is a reliable, high-throughput alternative to colony-forming units (CFU) for super-MIC investigations, particularly when the quantity of interest is biomass. By examining 20 antimicrobials spanning 11 classes, the work shows that discrepancies between CFU and luminescence are often biological (filamentation, Viable But Not Culturable). The work provides a &lt;b&gt;convincing&lt;/b&gt; view of how these three common measurements (luminescence, optical density, and CFU) relate to one another across a range of drug treatments, although testing on clinical isolates could be of further benefit.",
+    "seniorEditor": "Aleksandra M Walczak",
+    "seniorEditorInstitution": "CNRS, France",
+    "reviewingEditor": "Wenying Shou",
+    "reviewingEditorInstitution": "University College London, United Kingdom"
+  },
+  {
+    "id": "103774",
+    "doi": "10.7554/elife.103774.3",
+    "url": "https://doi.org/10.7554/elife.103774.3",
+    "date": "2026-07-21T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Genetics",
+    "primaryTopic": "Evolution and Genetic Dynamics",
+    "topics": [
+      {
+        "name": "Evolution and Genetic Dynamics",
+        "subfield": "Genetics",
+        "score": 1
+      },
+      {
+        "name": "Gene Regulatory Network Analysis",
+        "subfield": "Molecular Biology",
+        "score": 1
+      },
+      {
+        "name": "CRISPR and Genetic Engineering",
+        "subfield": "Molecular Biology",
+        "score": 1
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Epistasis",
+        "score": 74
+      },
+      {
+        "name": "Gene",
+        "score": 56
+      },
+      {
+        "name": "Adaptive evolution",
+        "score": 55
+      },
+      {
+        "name": "Transcription (linguistics)",
+        "score": 46
+      },
+      {
+        "name": "Transcription factor",
+        "score": 45
+      },
+      {
+        "name": "Molecular evolution",
+        "score": 43
+      },
+      {
+        "name": "Phylogenetics",
+        "score": 25
+      }
+    ],
+    "authors": "Cau\u00e3 Antunes Westmann, Leander Goldbach, Andreas Wagner",
+    "title": "The adaptive landscapes of three global Escherichia coli transcriptional regulators",
+    "version": "Version of Record",
+    "versionNumber": 3,
+    "elifeStatus": "vor",
+    "totalVersions": 1,
+    "assessmentSignificance": "Important",
+    "assessmentStrength": "Convincing",
+    "assessmentSummary": "This study maps the genotype-phenotype landscapes of three &lt;i&gt;E. coli&lt;/i&gt; transcription factors and the topographical features of these landscapes. It shows that ruggedness and epistasis do not hinder the evolution of strong transcription factor binding sites. These &lt;b&gt;convincing&lt;/b&gt; findings contribute &lt;b&gt;important&lt;/b&gt; insights into fitness landscape theories and highlight the role of chance, contingency, and evolutionary biases in gene regulation. The authors then study the topographical features of these landscapes, especially the number and distribution of local maxima, as well as the statistical properties of evolutionary paths on these landscapes.",
+    "seniorEditor": "Alan M Moses",
+    "seniorEditorInstitution": "University of Toronto, Canada",
+    "reviewingEditor": "Vincent J Lynch",
+    "reviewingEditorInstitution": "University at Buffalo, State University of New York, United States"
+  },
+  {
+    "id": "106692",
+    "doi": "10.7554/elife.106692.3",
+    "url": "https://doi.org/10.7554/elife.106692.3",
+    "date": "2026-07-20T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Genetics",
+    "primaryTopic": "Genetics and Neurodevelopmental Disorders",
+    "topics": [
+      {
+        "name": "Genetics and Neurodevelopmental Disorders",
+        "subfield": "Genetics",
+        "score": 1
+      },
+      {
+        "name": "RNA modifications and cancer",
+        "subfield": "Molecular Biology",
+        "score": 1
+      },
+      {
+        "name": "RNA and protein synthesis mechanisms",
+        "subfield": "Molecular Biology",
+        "score": 1
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Ribosome",
+        "score": 90
+      },
+      {
+        "name": "RNA",
+        "score": 62
+      },
+      {
+        "name": "Protein biosynthesis",
+        "score": 54
+      },
+      {
+        "name": "Ribosome profiling",
+        "score": 42
+      },
+      {
+        "name": "Translation (biology)",
+        "score": 42
+      },
+      {
+        "name": "Messenger RNA",
+        "score": 42
+      },
+      {
+        "name": "Gene",
+        "score": 12
+      }
+    ],
+    "authors": "Jewel T-Y Li, Mehdi Amiri, Senthilkumar Kailasam, Lily Drever, Jingyu Sun, Laura Bohorquez, Nahum Sonenberg, Joaqu\u0131\u0301n Ortega, Wayne S. Sossin",
+    "title": "FMRP regulates neuronal RNA granules containing stalled ribosomes, not where ribosomes stall",
+    "version": "v1",
+    "versionNumber": 1,
+    "elifeStatus": "reviewed-preprint",
+    "totalVersions": 1,
+    "assessmentSignificance": "Valuable",
+    "assessmentStrength": "Solid",
+    "assessmentSummary": "Based on several lines of interesting data, the authors conclude that neuronal FMRP, which is associated with stalled ribosomes and mRNP granules, does not determine the position on the mRNAs at which ribosomes stall. They instead propose a role in subsequent translational activation of arrested mRNAs. Supported by generally &lt;b&gt;solid&lt;/b&gt; experimental data, the paper represents a &lt;b&gt;valuable&lt;/b&gt; contribution to the field. The generality of these conclusions, particularly for neurons of different developmental stages and for different subtypes of mRNP granules, should become clear with future studies that replicate and extend this work.",
+    "seniorEditor": "David Ron",
+    "seniorEditorInstitution": "University of Cambridge, United Kingdom",
+    "reviewingEditor": "Mani Ramaswami",
+    "reviewingEditorInstitution": "Trinity College Dublin, Ireland"
+  },
+  {
+    "id": "110601",
+    "doi": "10.7554/elife.110601.3",
+    "url": "https://doi.org/10.7554/elife.110601.3",
+    "date": "2026-07-08T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Genetics",
+    "primaryTopic": "Genetic and Kidney Cyst Diseases",
+    "topics": [
+      {
+        "name": "Genetic and Kidney Cyst Diseases",
+        "subfield": "Genetics",
+        "score": 1
+      },
+      {
+        "name": "Cystic Fibrosis Research Advances",
+        "subfield": "Pulmonary and Respiratory Medicine",
+        "score": 0
+      },
+      {
+        "name": "Cerebrospinal fluid and hydrocephalus",
+        "subfield": "Cellular and Molecular Neuroscience",
+        "score": 0
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Cilium",
+        "score": 86
+      },
+      {
+        "name": "Vertebrate",
+        "score": 81
+      },
+      {
+        "name": "Proteome",
+        "score": 66
+      },
+      {
+        "name": "Zebrafish",
+        "score": 63
+      },
+      {
+        "name": "Motile cilium",
+        "score": 45
+      },
+      {
+        "name": "Phenotype",
+        "score": 43
+      },
+      {
+        "name": "Chlamydomonas reinhardtii",
+        "score": 42
+      },
+      {
+        "name": "Microtubule",
+        "score": 39
+      },
+      {
+        "name": "Knockout mouse",
+        "score": 38
+      },
+      {
+        "name": "Chlamydomonas",
+        "score": 35
+      }
+    ],
+    "authors": "Qian Lyu, Qingchao Li, Jingrui Li, Jiajun Luo, Chunyu Liu, Shanshan Nai, Hongbin Liu, Xueliang Zhu, Ting Song, Min Liu, Huijie Zhao",
+    "title": "Proteomic composition and mutual assembly of the C2a projection in vertebrate motile cilia",
+    "version": "v2",
+    "versionNumber": 2,
+    "elifeStatus": "reviewed-preprint",
+    "totalVersions": 1,
+    "assessmentSignificance": "Valuable",
+    "assessmentStrength": "Solid",
+    "assessmentSummary": "This study provides &lt;b&gt;valuable&lt;/b&gt; insights into the protein composition of the C2a projection in mouse motile cilia, building upon prior work in Chlamydomonas. The evidence supporting the claims of the authors is &lt;b&gt;solid&lt;/b&gt;. The work will be of interest to biologists and clinicians studying cilia and ciliopathies.",
+    "seniorEditor": "Jonathan A Cooper",
+    "seniorEditorInstitution": "Fred Hutch Cancer Center, United States",
+    "reviewingEditor": "Junmin Pan",
+    "reviewingEditorInstitution": "Tsinghua University, China"
+  },
+  {
+    "id": "109938",
+    "doi": "10.7554/elife.109938.4",
+    "url": "https://doi.org/10.7554/elife.109938.4",
+    "date": "2026-07-08T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Genetics",
+    "primaryTopic": "Genetic Syndromes and Imprinting",
+    "topics": [
+      {
+        "name": "Genetic Syndromes and Imprinting",
+        "subfield": "Genetics",
+        "score": 1
+      },
+      {
+        "name": "Genetics and Neurodevelopmental Disorders",
+        "subfield": "Genetics",
+        "score": 0
+      },
+      {
+        "name": "Epigenetics and DNA Methylation",
+        "subfield": "Molecular Biology",
+        "score": 0
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Replication timing",
+        "score": 77
+      },
+      {
+        "name": "Allele",
+        "score": 69
+      },
+      {
+        "name": "Epigenetics",
+        "score": 66
+      },
+      {
+        "name": "Gene",
+        "score": 63
+      },
+      {
+        "name": "Genomic imprinting",
+        "score": 51
+      },
+      {
+        "name": "Dosage compensation",
+        "score": 48
+      },
+      {
+        "name": "Genome",
+        "score": 40
+      },
+      {
+        "name": "Human genetics",
+        "score": 39
+      },
+      {
+        "name": "Human genome",
+        "score": 35
+      },
+      {
+        "name": "X-inactivation",
+        "score": 34
+      }
+    ],
+    "authors": "Michael B. Heskett, Athanasios E Vouzas, Brian Johnstone, Krister P Freese, Phillip A. Yates, Philip F. Copenhaver, Paul T Spellman, David M. Gilbert, Mathew J. Thayer",
+    "title": "Autosomal allelic inactivation at loci with variable replication timing and dosage sensitivity",
+    "version": "Version of Record",
+    "versionNumber": 3,
+    "elifeStatus": "vor",
+    "totalVersions": 1,
+    "assessmentSignificance": "Important",
+    "assessmentStrength": "Solid",
+    "assessmentSummary": "This &lt;b&gt;important&lt;/b&gt; study links allelic expression imbalance with replication timing, suggesting a stochastic model for haploinsufficiency in dosage-sensitive disease. The integration of allele-specific RNA-seq and replication timing in clonal systems provides &lt;b&gt;solid&lt;/b&gt; evidence for an association between asynchronous replication and allelic imbalance, although the scope and generality should be addressed in future work. This study will interest epigeneticists and genome regulation researchers studying replication timing and monoallelic expression, as well as developmental biologists and human geneticists concerned with clonal heterogeneity, haploinsufficiency, and variable disease penetrance. [Editors&#x27; note: this paper was reviewed by &lt;a href=&quot;https://www.reviewcommons.org/&quot;&gt;Review Commons&lt;/a&gt;.]",
+    "seniorEditor": null,
+    "seniorEditorInstitution": null,
+    "reviewingEditor": null,
+    "reviewingEditorInstitution": null
+  },
+  {
+    "id": "110419",
+    "doi": "10.7554/elife.110419.3",
+    "url": "https://doi.org/10.7554/elife.110419.3",
+    "date": "2026-07-31T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Genetics",
+    "primaryTopic": "Venomous Animal Envenomation and Studies",
+    "topics": [
+      {
+        "name": "Venomous Animal Envenomation and Studies",
+        "subfield": "Genetics",
+        "score": 1
+      },
+      {
+        "name": "Marine Invertebrate Physiology and Ecology",
+        "subfield": "Paleontology",
+        "score": 0
+      },
+      {
+        "name": "Healthcare and Venom Research",
+        "subfield": "Pharmacology",
+        "score": 0
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Bothrops",
+        "score": 78
+      },
+      {
+        "name": "Antivenom",
+        "score": 66
+      },
+      {
+        "name": "Ophidia",
+        "score": 57
+      },
+      {
+        "name": "Protease",
+        "score": 56
+      },
+      {
+        "name": "Snake venom",
+        "score": 54
+      },
+      {
+        "name": "Venom",
+        "score": 47
+      },
+      {
+        "name": "Envenomation",
+        "score": 44
+      },
+      {
+        "name": "Protease inhibitor (pharmacology)",
+        "score": 39
+      },
+      {
+        "name": "Toxin",
+        "score": 38
+      },
+      {
+        "name": "Metalloproteinase",
+        "score": 38
+      }
+    ],
+    "authors": "Rachel H. Clare, Adam Westhorpe, Emma Stars, Taline D. Kazandjian, Laura-Oana Albulescu, Stefanie K. Menzies, Nicholas R. Casewell",
+    "title": "Repurposed small molecule toxin inhibitors neutralise a diversity of venoms from the Neotropical viperid snake genus Bothrops",
+    "version": "v1",
+    "versionNumber": 1,
+    "elifeStatus": "reviewed-preprint",
+    "totalVersions": 1,
+    "assessmentSignificance": "Important",
+    "assessmentStrength": "Solid",
+    "assessmentSummary": "The findings of this study are &lt;b&gt;important&lt;/b&gt; since they cover the repurposing of small molecules as metalloprotease and phospholipase inhibitors for early intervention in the treatment of bothropic envenoming in the Neotropics, and thus provide a strong rationale for the progression of these inhibitors into future preclinical and clinical evaluation for snakebite indications across various ecological zones, albeit the current evidence casts doubts on the viability of repurposing nafamostat. The strength of the evidence is &lt;b&gt;solid&lt;/b&gt;; however, there are some weaknesses, such as a lack of translatability of the in vivo model and insufficient venom characterization. Thus, the strength of the evidence can be enhanced by using a mouse model in future studies. The paper remains of interest to ophiologists, biochemists and medicinal chemists.",
+    "seniorEditor": "Eduardo L Franco",
+    "seniorEditorInstitution": "McGill University, Canada",
+    "reviewingEditor": "Warren Andrew Andayi",
+    "reviewingEditorInstitution": "Murang'a University of Technology, Kenya"
+  },
+  {
+    "id": "104906",
+    "doi": "10.7554/elife.104906.3",
+    "url": "https://doi.org/10.7554/elife.104906.3",
+    "date": "2026-06-23T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Genetics",
+    "primaryTopic": "Genetic and Kidney Cyst Diseases",
+    "topics": [
+      {
+        "name": "Genetic and Kidney Cyst Diseases",
+        "subfield": "Genetics",
+        "score": 1
+      },
+      {
+        "name": "Protist diversity and phylogeny",
+        "subfield": "Molecular Biology",
+        "score": 1
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Intraflagellar transport",
+        "score": 90
+      },
+      {
+        "name": "Cilium",
+        "score": 68
+      },
+      {
+        "name": "Ubiquitin",
+        "score": 66
+      },
+      {
+        "name": "Terminal (telecommunication)",
+        "score": 56
+      },
+      {
+        "name": "Signal transduction",
+        "score": 42
+      },
+      {
+        "name": "Flagellum",
+        "score": 8
+      },
+      {
+        "name": "Gene",
+        "score": 8
+      }
+    ],
+    "authors": "Nevin K Zacharia, Stefanie Kuhns, Niels Boegholm, Anni Christensen, Jiaolong Wang, Narcis-Adrian Petriman, Anna Lorentzen, Jind\u0159i\u0161ka Leischner Fialov\u00e1, Lucie Menguy, Sophie Saunier, Soren T. Christensen, Jens Andersen, Sagar Bhogaraju, Esben Lorentzen",
+    "title": "Intraflagellar transport protein IFT172 contains a C-terminal ubiquitin-binding U-box-like domain involved in ciliary signaling",
+    "version": "v2",
+    "versionNumber": 2,
+    "elifeStatus": "reviewed-preprint",
+    "totalVersions": 1,
+    "assessmentSignificance": "Important",
+    "assessmentStrength": "Convincing",
+    "assessmentSummary": "This &lt;b&gt;important&lt;/b&gt; work advances our understanding of intraflagellar transport, ciliogenesis, and ciliary-based signaling, by identifying the interactions of IFT172 with IFT-A components, ubiquitin-binding, and ubiquitination, mediated by IFT172 C-terminus and its role in ciliogenesis and ciliary signaling. The evidence supporting the findings is &lt;b&gt;convincing&lt;/b&gt;. This paper will be of interest to cell biologists and biochemists, especially those working on cilia and signaling.",
+    "seniorEditor": "Amy H Andreotti",
+    "seniorEditorInstitution": "Iowa State University, United States",
+    "reviewingEditor": "Junmin Pan",
+    "reviewingEditorInstitution": "Tsinghua University, China"
+  },
+  {
+    "id": "107428",
+    "doi": "10.7554/elife.107428.3",
+    "url": "https://doi.org/10.7554/elife.107428.3",
+    "date": "2026-06-16T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Genetics",
+    "primaryTopic": "Forensic and Genetic Research",
+    "topics": [
+      {
+        "name": "Forensic and Genetic Research",
+        "subfield": "Genetics",
+        "score": 1
+      },
+      {
+        "name": "Genetic diversity and population structure",
+        "subfield": "Genetics",
+        "score": 1
+      },
+      {
+        "name": "Evolution and Genetic Dynamics",
+        "subfield": "Genetics",
+        "score": 1
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Selection (genetic algorithm)",
+        "score": 74
+      },
+      {
+        "name": "Genome",
+        "score": 60
+      },
+      {
+        "name": "Gene",
+        "score": 7
+      }
+    ],
+    "authors": "Iman Hamid, \u00d3lavur Mortensen, Alba Refoyo-Mart\u00ednez, Leivur N. Lydersen, Anne\u2010Katrin Emde, Melissa Hendershott, Katrin D. Apol, Gu\u00f0ri\u00f0 Andorsd\u00f3ttir, Jonas Meisner, Kaja A. Wasik, Fernando Racimo, Stephane E. Castel, Noomi O. Gregersen",
+    "title": "Faroese whole genomes provide insight into ancestry and recent selection",
+    "version": "Version of Record",
+    "versionNumber": 3,
+    "elifeStatus": "vor",
+    "totalVersions": 1,
+    "assessmentSignificance": "Useful",
+    "assessmentStrength": "Convincing",
+    "assessmentSummary": "This &lt;b&gt;useful&lt;/b&gt; study analyzes demographic history and selection using whole-genome sequencing data from 40 Faroese individuals, generating results of value beyond the study region. The analyses are &lt;b&gt;convincing&lt;/b&gt;, and revisions have satisfactorily addressed prior concerns, including clarification of selection analyses and expanded discussion of population structure and admixture timing. While a more fine-scale reconstruction of demographic history could still yield more insights, and access restrictions on individual-level data continue to limit broader reuse, the provision of summary statistics partially mitigates this constraint.",
+    "seniorEditor": null,
+    "seniorEditorInstitution": null,
+    "reviewingEditor": null,
+    "reviewingEditorInstitution": null
+  },
+  {
+    "id": "109112",
+    "doi": "10.7554/elife.109112.3",
+    "url": "https://doi.org/10.7554/elife.109112.3",
+    "date": "2026-06-10T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "subfield": "Genetics",
+    "primaryTopic": "Venomous Animal Envenomation and Studies",
+    "topics": [
+      {
+        "name": "Venomous Animal Envenomation and Studies",
+        "subfield": "Genetics",
+        "score": 1
+      },
+      {
+        "name": "Blood Coagulation and Thrombosis Mechanisms",
+        "subfield": "Hematology",
+        "score": 0
+      },
+      {
+        "name": "Marine Invertebrate Physiology and Ecology",
+        "subfield": "Paleontology",
+        "score": 0
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Snake venom",
+        "score": 93
+      },
+      {
+        "name": "Metalloproteinase",
+        "score": 82
+      },
+      {
+        "name": "Viper Venoms",
+        "score": 77
+      },
+      {
+        "name": "Disintegrin",
+        "score": 74
+      },
+      {
+        "name": "Viperidae",
+        "score": 64
+      },
+      {
+        "name": "Recombinant DNA",
+        "score": 63
+      },
+      {
+        "name": "Venom",
+        "score": 51
+      },
+      {
+        "name": "Prothrombinase",
+        "score": 48
+      },
+      {
+        "name": "Cytotoxicity",
+        "score": 46
+      },
+      {
+        "name": "Zymogen",
+        "score": 43
+      }
+    ],
+    "authors": "Sophie Hall, Iara Aim\u00ea Cardoso, Mark C Wilkinson, Maria Molina Carretero, Srikanth Lingappa, B. O. Rand, Dakang Shen, Johara Boldrini-Fran\u00e7a, R.D. Stenner, Stefanie K. Menzies, Georgia Balchin, Konrad K. Hus, Renaud Vincentelli, Andrew Mumford, Alastair W. Poole, Nicholas R. Casewell, Imre Berger, Christiane Schaffitzel",
+    "title": "Purified zymogens reveal mechanisms of snake venom metalloproteinase auto-activation",
+    "version": "v1",
+    "versionNumber": 1,
+    "elifeStatus": "reviewed-preprint",
+    "totalVersions": 1,
+    "assessmentSignificance": "Useful",
+    "assessmentStrength": "Solid",
+    "assessmentSummary": "In this &lt;b&gt;useful&lt;/b&gt; paper, the authors present a comprehensive method for the purification of recombinant Snake Venom Metalloproteinases (SVMPs) using the MultiBac expression system, explain the self-activation of the enzymes by Zn2+ incubation, and establish high-throughput screening (HTS) techniques. The authors addressed a key problem: producing a substantial amount of pure and enzymatically active SVMPs required for structural and functional studies. Altogether, this work builds a &lt;b&gt;solid&lt;/b&gt; foundation for the large-scale production of active SVMPs for future biochemical and structural characterization as well as for drug discovery, albeit leaving certain caveats about the universal applicability of the described methodology for the production of any recombinant SVMPs.",
+    "seniorEditor": "David Ron",
+    "seniorEditorInstitution": "University of Cambridge, United Kingdom",
+    "reviewingEditor": "Koyeli Mapa",
+    "reviewingEditorInstitution": "Department of Life Sciences, School of Natural Sciences, Shiv Nadar University, India"
+  },
+  {
+    "id": "109001",
+    "doi": "10.7554/elife.109001.3",
+    "url": "https://doi.org/10.7554/elife.109001.3",
+    "date": "2026-07-28T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Neuroscience",
+    "subfield": "Cellular and Molecular Neuroscience",
+    "primaryTopic": "Neuropeptides and Animal Physiology",
+    "topics": [
+      {
+        "name": "Neuropeptides and Animal Physiology",
+        "subfield": "Cellular and Molecular Neuroscience",
+        "score": 1
+      },
+      {
+        "name": "Proteoglycans and glycosaminoglycans research",
+        "subfield": "Cell Biology",
+        "score": 1
+      },
+      {
+        "name": "Receptor Mechanisms and Signaling",
+        "subfield": "Molecular Biology",
+        "score": 1
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Excitatory postsynaptic potential",
+        "score": 79
+      },
+      {
+        "name": "Hippocampal formation",
+        "score": 73
+      },
+      {
+        "name": "Hippocampus",
+        "score": 63
+      },
+      {
+        "name": "Neuroplasticity",
+        "score": 57
+      },
+      {
+        "name": "Cholecystokinin",
+        "score": 56
+      },
+      {
+        "name": "Neuropeptide",
+        "score": 54
+      },
+      {
+        "name": "Biological neural network",
+        "score": 51
+      },
+      {
+        "name": "Central nervous system",
+        "score": 49
+      },
+      {
+        "name": "Premovement neuronal activity",
+        "score": 43
+      },
+      {
+        "name": "Inhibitory postsynaptic potential",
+        "score": 41
+      }
+    ],
+    "authors": "Fengwen Huang, Abdul Baset, Stephen Temitayo Bello",
+    "title": "Excitatory cholecystokinin neurons in the CA3 area regulate the navigation learning and neuroplasticity",
+    "version": "v1",
+    "versionNumber": 1,
+    "elifeStatus": "reviewed-preprint",
+    "totalVersions": 1,
+    "assessmentSignificance": "Valuable",
+    "assessmentStrength": "Incomplete",
+    "assessmentSummary": "This study presents data suggesting that excitatory cholecystokinin (CCK)-expressing neurons in hippocampal area CA3 influence hippocampal-dependent memory using multiple methods to manipulate excitatory CCK-expressing CA3 neurons. The study is &lt;b&gt;valuable&lt;/b&gt;, particularly considering that most past studies of CCK-expressing neurons have focused on those neurons that co-express CCK and GABA. Currently, the strength of evidence is &lt;b&gt;incomplete&lt;/b&gt;, but it would improve if evidence of specificity were provided and other concerns were addressed. If this is not possible, the conclusions, particularly those requiring evidence of specific targeting of excitatory neurons, should be modified accordingly.",
+    "seniorEditor": "Laura L Colgin",
+    "seniorEditorInstitution": "The University of Texas at Austin, United States",
+    "reviewingEditor": "Helen E Scharfman",
+    "reviewingEditorInstitution": "Nathan Kline Institute, United States"
+  },
+  {
+    "id": "107635",
+    "doi": "10.7554/elife.107635.3",
+    "url": "https://doi.org/10.7554/elife.107635.3",
+    "date": "2026-07-27T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Neuroscience",
+    "subfield": "Cellular and Molecular Neuroscience",
+    "primaryTopic": "Neuroscience and Neuropharmacology Research",
+    "topics": [
+      {
+        "name": "Neuroscience and Neuropharmacology Research",
+        "subfield": "Cellular and Molecular Neuroscience",
+        "score": 1
+      },
+      {
+        "name": "Neural dynamics and brain function",
+        "subfield": "Cognitive Neuroscience",
+        "score": 0
+      },
+      {
+        "name": "Advanced Memory and Neural Computing",
+        "subfield": "Electrical and Electronic Engineering",
+        "score": 0
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Excitatory postsynaptic potential",
+        "score": 93
+      },
+      {
+        "name": "Inhibitory postsynaptic potential",
+        "score": 86
+      },
+      {
+        "name": "Excitatory synapse",
+        "score": 77
+      },
+      {
+        "name": "Synapse",
+        "score": 71
+      },
+      {
+        "name": "Biological neural network",
+        "score": 42
+      },
+      {
+        "name": "Neurotransmission",
+        "score": 42
+      },
+      {
+        "name": "Cellular neuroscience",
+        "score": 38
+      },
+      {
+        "name": "Synaptic plasticity",
+        "score": 35
+      },
+      {
+        "name": "Synaptic cleft",
+        "score": 33
+      },
+      {
+        "name": "Silent synapse",
+        "score": 31
+      }
+    ],
+    "authors": "Krassimira Garbett, James P. Allen, Jaybree M. Lopez, Cassandra M. Smith, Richard Sando",
+    "title": "Stable excitatory-inhibitory synapse balance despite dynamic turnover",
+    "version": "v2",
+    "versionNumber": 2,
+    "elifeStatus": "reviewed-preprint",
+    "totalVersions": 1,
+    "assessmentSignificance": "Important",
+    "assessmentStrength": "Convincing",
+    "assessmentSummary": "This &lt;b&gt;important&lt;/b&gt; study establishes a robust live-imaging toolkit to characterize excitatory and inhibitory synaptic dynamics during neuronal development, advancing our mechanistic understanding of synaptic homeostasis and neural circuit maturation. The core findings clarify how stable E/I balance is maintained despite persistent synaptic turnover, with broad implications for developmental neurobiology and neurodevelopmental disorders. The methodology and quantitative data are &lt;b&gt;convincing&lt;/b&gt; and well validated, and this work represents a significant advance that will be of significant interest to researchers in synaptic biology, cell imaging and neuroscience.",
+    "seniorEditor": "Lu Chen",
+    "seniorEditorInstitution": "Stanford University, United States",
+    "reviewingEditor": "Hui-Li Wang",
+    "reviewingEditorInstitution": "Hefei University of Technology, China"
+  },
+  {
+    "id": "106716",
+    "doi": "10.7554/elife.106716.3",
+    "url": "https://doi.org/10.7554/elife.106716.3",
+    "date": "2026-07-23T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Neuroscience",
+    "subfield": "Cellular and Molecular Neuroscience",
+    "primaryTopic": "Photoreceptor and optogenetics research",
+    "topics": [
+      {
+        "name": "Photoreceptor and optogenetics research",
+        "subfield": "Cellular and Molecular Neuroscience",
+        "score": 0
+      },
+      {
+        "name": "ATP Synthase and ATPases Research",
+        "subfield": "Molecular Biology",
+        "score": 0
+      },
+      {
+        "name": "Hormonal Regulation and Hypertension",
+        "subfield": "Endocrinology, Diabetes and Metabolism",
+        "score": 0
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Unfolded protein response",
+        "score": 78
+      },
+      {
+        "name": "Molecular dynamics",
+        "score": 58
+      },
+      {
+        "name": "Dynamics (music)",
+        "score": 56
+      },
+      {
+        "name": "Endoplasmic reticulum",
+        "score": 19
+      }
+    ],
+    "authors": "Elena Spinetti, Grzegorz \u015acibisz, G. Elif Karag\u00f6z, Roberto Covino",
+    "title": "Structural dynamics of IRE1 and its interaction with unfolded peptides",
+    "version": "Version of Record",
+    "versionNumber": 3,
+    "elifeStatus": "vor",
+    "totalVersions": 1,
+    "assessmentSignificance": "Important",
+    "assessmentStrength": "Convincing",
+    "assessmentSummary": "In this &lt;b&gt;important&lt;/b&gt; study, the authors conducted atomistic molecular dynamics simulations to probe the interactions between IRE and unfolded peptides. The results help reconcile contradicting experimental findings in the literature and offer mechanistic insights into the activation of the unfolded protein response. The atomistic molecular dynamics simulations performed are &lt;b&gt;solid&lt;/b&gt;, leading to &lt;b&gt;convincing&lt;/b&gt; conclusions that are partly supported by experimental validations. The use of unbiased molecular dynamics simulations, while appropriate for the current system due to its complexity, limits the time scale of events that can be observed and therefore the proposed mechanism of recognition merits further confirmation by future studies.",
+    "seniorEditor": null,
+    "seniorEditorInstitution": null,
+    "reviewingEditor": null,
+    "reviewingEditorInstitution": null
+  },
+  {
+    "id": "96084",
+    "doi": "10.7554/elife.96084.3",
+    "url": "https://doi.org/10.7554/elife.96084.3",
+    "date": "2026-07-20T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Neuroscience",
+    "subfield": "Cellular and Molecular Neuroscience",
+    "primaryTopic": "Neurobiology and Insect Physiology Research",
+    "topics": [
+      {
+        "name": "Neurobiology and Insect Physiology Research",
+        "subfield": "Cellular and Molecular Neuroscience",
+        "score": 1
+      },
+      {
+        "name": "Developmental Biology and Gene Regulation",
+        "subfield": "Molecular Biology",
+        "score": 0
+      },
+      {
+        "name": "Zebrafish Biomedical Research Applications",
+        "subfield": "Cell Biology",
+        "score": 0
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Connectome",
+        "score": 79
+      },
+      {
+        "name": "Ventral nerve cord",
+        "score": 76
+      },
+      {
+        "name": "Biological neural network",
+        "score": 59
+      },
+      {
+        "name": "Spinal cord",
+        "score": 57
+      },
+      {
+        "name": "Nerve net",
+        "score": 55
+      },
+      {
+        "name": "Motor neuron",
+        "score": 52
+      },
+      {
+        "name": "Connectomics",
+        "score": 43
+      },
+      {
+        "name": "Neuronal circuits",
+        "score": 38
+      },
+      {
+        "name": "Wiring diagram",
+        "score": 38
+      },
+      {
+        "name": "Nervous system",
+        "score": 38
+      }
+    ],
+    "authors": "Han SJ Cheong, Katharina Eichler, Tomke St\u00fcrner, Samuel K. Asinof, Andrew S Champion, Elizabeth C. Marin, Tess Oram, Marissa Sumathipala, Lalanti Venkatasubramanian, Shigehiro Namiki, Igor Siwanowicz, Marta Costa, Stuart Berg, Janelia FlyEM Project Team, Gregory S.X.E. Jefferis, Gwyneth M Card",
+    "title": "Organization of circuits linking descending input to motor output in the Drosophila Male Adult Nerve Cord connectome",
+    "version": "v1",
+    "versionNumber": 1,
+    "elifeStatus": "reviewed-preprint",
+    "totalVersions": 1,
+    "assessmentSignificance": "Important",
+    "assessmentStrength": "Solid",
+    "assessmentSummary": "This paper describes the structure and connectivity of brain neurons that send descending connections to motor neurons and muscle in the fruit fly nerve cord, using a synapse-resolution connectome. This &lt;b&gt;important&lt;/b&gt; work provides a wealth of hypotheses and predictions for future experimentation and modelling. Using state-of-the-art methods, the authors provide &lt;b&gt;solid&lt;/b&gt; evidence for their conclusions.",
+    "seniorEditor": "Claude Desplan",
+    "seniorEditorInstitution": "New York University, United States",
+    "reviewingEditor": "Mani Ramaswami",
+    "reviewingEditorInstitution": "Trinity College Dublin, Ireland"
+  },
+  {
+    "id": "110460",
+    "doi": "10.7554/elife.110460.3",
+    "url": "https://doi.org/10.7554/elife.110460.3",
+    "date": "2026-07-08T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Neuroscience",
+    "subfield": "Cellular and Molecular Neuroscience",
+    "primaryTopic": "Cerebrospinal fluid and hydrocephalus",
+    "topics": [
+      {
+        "name": "Cerebrospinal fluid and hydrocephalus",
+        "subfield": "Cellular and Molecular Neuroscience",
+        "score": 0
+      },
+      {
+        "name": "Neuroinflammation and Neurodegeneration Mechanisms",
+        "subfield": "Neurology",
+        "score": 0
+      },
+      {
+        "name": "Multiple Sclerosis Research Studies",
+        "subfield": "Pathology and Forensic Medicine",
+        "score": 0
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Cribriform plate",
+        "score": 79
+      },
+      {
+        "name": "Myeloid",
+        "score": 75
+      },
+      {
+        "name": "CD11c",
+        "score": 57
+      },
+      {
+        "name": "Neuroinflammation",
+        "score": 52
+      },
+      {
+        "name": "Olfactory bulb",
+        "score": 47
+      },
+      {
+        "name": "Meninges",
+        "score": 45
+      },
+      {
+        "name": "Myeloid cells",
+        "score": 42
+      },
+      {
+        "name": "Dendritic cell",
+        "score": 40
+      },
+      {
+        "name": "Lymphatic system",
+        "score": 39
+      },
+      {
+        "name": "Microfold cell",
+        "score": 35
+      }
+    ],
+    "authors": "Collin Laaker, Martin Hsu, Andy Madrid, Jenna Port, Sophia M. Vrba, Melinda Herb\u00e1th, Cameron Baenen, Mohan Kumar, Thanthrige Thiunuwan Priyathilaka, M\u00e1ty\u00e1s S\u00e1ndor, Zsuzsanna F\u00e1bry",
+    "title": "Cribriform plate microenvironment assembles a suppressive myeloid network during EAE-induced neuroinflammation",
+    "version": "v2",
+    "versionNumber": 2,
+    "elifeStatus": "reviewed-preprint",
+    "totalVersions": 1,
+    "assessmentSignificance": "Important",
+    "assessmentStrength": "Convincing",
+    "assessmentSummary": "This &lt;b&gt;important&lt;/b&gt; study identifies the cribriform plate as a key neuroimmune interface that shapes myeloid cell responses during neuroinflammation. Using imaging, flow cytometry, and single-cell approaches in a mouse model of EAE, the authors provide &lt;b&gt;convincing&lt;/b&gt; evidence that dendritic cells and macrophages accumulate in PDPN-rich niches and have transcriptional features consistent with tolerogenic or immunosuppressive states. The work is technically strong and novel, and future studies will be needed to define the functional consequences of these myeloid cell states in autoimmunity.",
+    "seniorEditor": "Satyajit Rath",
+    "seniorEditorInstitution": "National Institute of Immunology, India",
+    "reviewingEditor": "Isaac M Chiu",
+    "reviewingEditorInstitution": "Harvard Medical School, United States"
+  },
+  {
+    "id": "107085",
+    "doi": "10.7554/elife.107085.3",
+    "url": "https://doi.org/10.7554/elife.107085.3",
+    "date": "2026-07-06T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Neuroscience",
+    "subfield": "Cellular and Molecular Neuroscience",
+    "primaryTopic": "Hereditary Neurological Disorders",
+    "topics": [
+      {
+        "name": "Hereditary Neurological Disorders",
+        "subfield": "Cellular and Molecular Neuroscience",
+        "score": 1
+      },
+      {
+        "name": "Nerve injury and regeneration",
+        "subfield": "Cellular and Molecular Neuroscience",
+        "score": 0
+      },
+      {
+        "name": "Botulinum Toxin and Related Neurological Disorders",
+        "subfield": "Neurology",
+        "score": 0
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Schwann cell",
+        "score": 76
+      },
+      {
+        "name": "Action potential",
+        "score": 58
+      },
+      {
+        "name": "Connexin 32",
+        "score": 57
+      },
+      {
+        "name": "Carbonic anhydrase",
+        "score": 51
+      },
+      {
+        "name": "Intracellular",
+        "score": 47
+      },
+      {
+        "name": "Connexin",
+        "score": 44
+      },
+      {
+        "name": "Gating",
+        "score": 41
+      },
+      {
+        "name": "Gap junction",
+        "score": 40
+      },
+      {
+        "name": "Signal transduction",
+        "score": 36
+      },
+      {
+        "name": "Axon",
+        "score": 34
+      }
+    ],
+    "authors": "Jack Butler, Lowell Mott, Amol Bhandare, Angus M. Brown, Nicholas Dale",
+    "title": "Activity-dependent CO2 production in the axon triggers opening of Connexin32 in the Schwann cell paranode",
+    "version": "Version of Record",
+    "versionNumber": 3,
+    "elifeStatus": "vor",
+    "totalVersions": 1,
+    "assessmentSignificance": "Important",
+    "assessmentStrength": "Convincing",
+    "assessmentSummary": "This manuscript describes &lt;b&gt;convincing&lt;/b&gt; and very interesting findings that substantially advance our understanding of a major research question on the role of Cx32 hemichannels in the Schwann cell paranode. It provides an interdisciplinary integration of imaging, in silico approaches, and functional data. This &lt;b&gt;important&lt;/b&gt; study proposes a new mechanism with profound physiological relevance and provides new insights into glial modulation of electrical conduction in sensory/motor myelinated nerves.",
+    "seniorEditor": null,
+    "seniorEditorInstitution": null,
+    "reviewingEditor": null,
+    "reviewingEditorInstitution": null
+  },
+  {
+    "id": "106452",
+    "doi": "10.7554/elife.106452.3",
+    "url": "https://doi.org/10.7554/elife.106452.3",
+    "date": "2026-06-19T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Neuroscience",
+    "subfield": "Cellular and Molecular Neuroscience",
+    "primaryTopic": "Neuroscience and Neural Engineering",
+    "topics": [
+      {
+        "name": "Neuroscience and Neural Engineering",
+        "subfield": "Cellular and Molecular Neuroscience",
+        "score": 1
+      },
+      {
+        "name": "Tactile and Sensory Interactions",
+        "subfield": "Cognitive Neuroscience",
+        "score": 0
+      },
+      {
+        "name": "Neurological disorders and treatments",
+        "subfield": "Neurology",
+        "score": 0
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Electrolyte",
+        "score": 74
+      },
+      {
+        "name": "Electrode",
+        "score": 66
+      },
+      {
+        "name": "Microelectrode",
+        "score": 54
+      },
+      {
+        "name": "Scanning electron microscope",
+        "score": 43
+      },
+      {
+        "name": "Multielectrode array",
+        "score": 38
+      },
+      {
+        "name": "Implant",
+        "score": 36
+      },
+      {
+        "name": "Electrode array",
+        "score": 29
+      },
+      {
+        "name": "Brain tissue",
+        "score": 27
+      },
+      {
+        "name": "Electrophysiology",
+        "score": 26
+      },
+      {
+        "name": "Electrolyte imbalance",
+        "score": 26
+      }
+    ],
+    "authors": "Alice Tor, Stephen E. Clarke, Iliana E. Bray, Paul Nuyujukian",
+    "title": "Material damage to multielectrode arrays after electrolytic lesioning is insignificant",
+    "version": "v1",
+    "versionNumber": 1,
+    "elifeStatus": "reviewed-preprint",
+    "totalVersions": 1,
+    "assessmentSignificance": "Useful",
+    "assessmentStrength": "Solid",
+    "assessmentSummary": "This &lt;b&gt;useful&lt;/b&gt; manuscript addresses a stability issue for long-term chronically implanted array recordings and electrolytic lesioning, which is relevant to both basic science and translational research. The authors provide a systematic scanning electron microscopy (SEM) of explanted arrays, evaluating electrode damage and sharing extensive datasets accessible through interactive plots. The strength of the evidence is &lt;b&gt;solid&lt;/b&gt;, but it can be improved by performing additional analyses on complementary neurophysiology, functional, or histological data.",
+    "seniorEditor": "Timothy E Behrens",
+    "seniorEditorInstitution": "University of Oxford, United Kingdom",
+    "reviewingEditor": "Xiaomo Chen",
+    "reviewingEditorInstitution": "University of California, Davis, United States"
+  },
+  {
+    "id": "108044",
+    "doi": "10.7554/elife.108044.3",
+    "url": "https://doi.org/10.7554/elife.108044.3",
+    "date": "2026-06-08T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Neuroscience",
+    "subfield": "Cellular and Molecular Neuroscience",
+    "primaryTopic": "Neurobiology and Insect Physiology Research",
+    "topics": [
+      {
+        "name": "Neurobiology and Insect Physiology Research",
+        "subfield": "Cellular and Molecular Neuroscience",
+        "score": 1
+      },
+      {
+        "name": "Insect and Arachnid Ecology and Behavior",
+        "subfield": "Genetics",
+        "score": 1
+      },
+      {
+        "name": "Physiological and biochemical adaptations",
+        "subfield": "Ecology",
+        "score": 1
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Stimulus (psychology)",
+        "score": 67
+      },
+      {
+        "name": "Connectome",
+        "score": 63
+      },
+      {
+        "name": "Functional connectivity",
+        "score": 46
+      },
+      {
+        "name": "Architecture",
+        "score": 45
+      }
+    ],
+    "authors": "Steven A. Calle-Schuler, Alexis Santana-Cruz, Lucia Kmecov\u00e1, Stefanie Hampel, Andrew M. Seeds",
+    "title": "A comprehensive mechanosensory connectome reveals a somatotopically organized neural circuit architecture controlling stimulus-aimed grooming of the Drosophila head",
+    "version": "v2",
+    "versionNumber": 2,
+    "elifeStatus": "reviewed-preprint",
+    "totalVersions": 1,
+    "assessmentSignificance": "Important",
+    "assessmentStrength": "Convincing",
+    "assessmentSummary": "This &lt;b&gt;important&lt;/b&gt; study provides a comprehensive map of how touch-sensitive neurons in the fly head connect to downstream circuits, revealing parallel pathways that preserve spatial organization and identifying a developmentally defined circuit linking sensory input to grooming behavior. The evidence is &lt;b&gt;convincing&lt;/b&gt;, with detailed anatomical reconstruction and quantitative analysis supporting the main claims, while the link to behaviour remains based on prior functional work. The study will be of interest to neuroscientists studying sensory processing and motor control, and provides an invaluable resource for future functional investigations.",
+    "seniorEditor": "Claude Desplan",
+    "seniorEditorInstitution": "New York University, United States",
+    "reviewingEditor": "Sonia Q Sen",
+    "reviewingEditorInstitution": "Tata Institute for Genetics and Society, India"
+  },
+  {
+    "id": "108529",
+    "doi": "10.7554/elife.108529.3",
+    "url": "https://doi.org/10.7554/elife.108529.3",
+    "date": "2026-05-26T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Neuroscience",
+    "subfield": "Cellular and Molecular Neuroscience",
+    "primaryTopic": "Neurobiology and Insect Physiology Research",
+    "topics": [
+      {
+        "name": "Neurobiology and Insect Physiology Research",
+        "subfield": "Cellular and Molecular Neuroscience",
+        "score": 1
+      },
+      {
+        "name": "Retinal Development and Disorders",
+        "subfield": "Molecular Biology",
+        "score": 0
+      },
+      {
+        "name": "Visual perception and processing mechanisms",
+        "subfield": "Cognitive Neuroscience",
+        "score": 0
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Inhibitory postsynaptic potential",
+        "score": 76
+      },
+      {
+        "name": "GABAergic",
+        "score": 67
+      },
+      {
+        "name": "Feed forward",
+        "score": 53
+      },
+      {
+        "name": "Visual processing",
+        "score": 52
+      },
+      {
+        "name": "Biological neural network",
+        "score": 49
+      },
+      {
+        "name": "Lateral inhibition",
+        "score": 48
+      },
+      {
+        "name": "Motion perception",
+        "score": 47
+      },
+      {
+        "name": "Neuron",
+        "score": 46
+      },
+      {
+        "name": "Excitatory postsynaptic potential",
+        "score": 41
+      },
+      {
+        "name": "Motion (physics)",
+        "score": 40
+      }
+    ],
+    "authors": "Miriam Henning, Madhura D. Ketkar, Teresa L\u00fcffe, Daryl M. Gohl, Thomas R. Clandinin, Marion Silies",
+    "title": "Inhibitory columnar feedback neurons are involved in motion processing in Drosophila",
+    "version": "Version of Record",
+    "versionNumber": 3,
+    "elifeStatus": "vor",
+    "totalVersions": 1,
+    "assessmentSignificance": "Important",
+    "assessmentStrength": "Convincing",
+    "assessmentSummary": "This &lt;b&gt;important&lt;/b&gt; article reports on the role of specific interneurons in the motion processing circuitry of the fruit fly, and marshals &lt;b&gt;convincing&lt;/b&gt; evidence from neural recording, genetic manipulation, and behavioral analysis. A significant result ties the activity of C2/C3 neurons to the temporal resolution of the motion vision system. It remains unclear whether disrupting this pathway affects the dynamics of vision more generally.",
+    "seniorEditor": "Claude Desplan",
+    "seniorEditorInstitution": "New York University, United States",
+    "reviewingEditor": "Markus Meister",
+    "reviewingEditorInstitution": "California Institute of Technology, United States"
+  },
+  {
+    "id": "108947",
+    "doi": "10.7554/elife.108947.3",
+    "url": "https://doi.org/10.7554/elife.108947.3",
+    "date": "2026-08-11T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Immunology and Microbiology",
+    "subfield": "Immunology",
+    "primaryTopic": "Inflammation biomarkers and pathways",
+    "topics": [
+      {
+        "name": "Inflammation biomarkers and pathways",
+        "subfield": "Immunology",
+        "score": 1
+      },
+      {
+        "name": "Bacterial Infections and Vaccines",
+        "subfield": "Microbiology",
+        "score": 0
+      },
+      {
+        "name": "Complement system in diseases",
+        "subfield": "Immunology",
+        "score": 0
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Immune system",
+        "score": 82
+      },
+      {
+        "name": "Bordetella pertussis",
+        "score": 79
+      },
+      {
+        "name": "Peptidoglycan",
+        "score": 78
+      },
+      {
+        "name": "Neutrophil extracellular traps",
+        "score": 64
+      },
+      {
+        "name": "Innate immune system",
+        "score": 62
+      },
+      {
+        "name": "Pertussis toxin",
+        "score": 53
+      },
+      {
+        "name": "Immunity",
+        "score": 47
+      },
+      {
+        "name": "NOD1",
+        "score": 47
+      },
+      {
+        "name": "Pertussis vaccine",
+        "score": 42
+      },
+      {
+        "name": "Toll-like receptor",
+        "score": 42
+      }
+    ],
+    "authors": "David M. Rickert, Sasha Cardozo, Nicholas Carbonetti, William E. Goldman, Karen M. Scanlon, Ciaran Skerry",
+    "title": "A dual role for PGLYRP1 in host defense and immune regulation during B. pertussis infection",
+    "version": "v1",
+    "versionNumber": 1,
+    "elifeStatus": "reviewed-preprint",
+    "totalVersions": 1,
+    "assessmentSignificance": "Useful",
+    "assessmentStrength": "Solid",
+    "assessmentSummary": "Rickert and colleagues demonstrate that the host peptidoglycan-binding protein PGLYRP1 has both beneficial and detrimental effects on Bordetella pertussis infection in mice. Using a &lt;b&gt;solid&lt;/b&gt; array of techniques, the study provides &lt;b&gt;useful&lt;/b&gt; insights into how the peptidoglycan fragment tracheal cytotoxin alters host immune responses, dampening inflammatory responses later in B. pertussis infection. These studies indicate that release of peptidoglycan fragments with particular structures can be used by bacteria to modulate NOD1 versus NOD2 responses to their advantage.",
+    "seniorEditor": "Wendy S Garrett",
+    "seniorEditorInstitution": "Harvard T.H. Chan School of Public Health, United States",
+    "reviewingEditor": "Joseph P Dillard",
+    "reviewingEditorInstitution": "University of Wisconsin\u2013Madison, United States"
+  },
+  {
+    "id": "107256",
+    "doi": "10.7554/elife.107256.3",
+    "url": "https://doi.org/10.7554/elife.107256.3",
+    "date": "2026-07-13T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Immunology and Microbiology",
+    "subfield": "Immunology",
+    "primaryTopic": "T-cell and B-cell Immunology",
+    "topics": [
+      {
+        "name": "T-cell and B-cell Immunology",
+        "subfield": "Immunology",
+        "score": 1
+      },
+      {
+        "name": "Immune Cell Function and Interaction",
+        "subfield": "Immunology",
+        "score": 1
+      },
+      {
+        "name": "vaccines and immunoinformatics approaches",
+        "subfield": "Molecular Biology",
+        "score": 1
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Heterozygote advantage",
+        "score": 89
+      },
+      {
+        "name": "Diversity (politics)",
+        "score": 65
+      },
+      {
+        "name": "Major histocompatibility complex",
+        "score": 52
+      },
+      {
+        "name": "Compound heterozygosity",
+        "score": 43
+      },
+      {
+        "name": "Allele",
+        "score": 17
+      },
+      {
+        "name": "Gene",
+        "score": 8
+      }
+    ],
+    "authors": "Joshua L. Cherry",
+    "title": "Heterozygote advantage cannot explain MHC diversity, but MHC diversity can explain heterozygote advantage",
+    "version": "v2",
+    "versionNumber": 2,
+    "elifeStatus": "reviewed-preprint",
+    "totalVersions": 1,
+    "assessmentSignificance": "Valuable",
+    "assessmentStrength": "Solid",
+    "assessmentSummary": "This &lt;b&gt;valuable&lt;/b&gt; study re-evaluates a published simulation model on the role of heterozygote advantage in shaping MHC diversity. By modifying key modeling assumptions, the author argues that the original conclusions depend on a narrow and potentially unrealistic parameter range. While the work is in principle &lt;b&gt;solid&lt;/b&gt;, the robustness of this claim is viewed differently by the reviewers. The article further proposes an alternative modeling framework in which expansion of the MHC gene family allows homozygotes to outperform heterozygotes, thereby challenging the idea that heterozygote advantage alone can account for high allelic diversity at MHC loci. The topic is highly relevant for eco-immunology and evolutionary genetics, although it is not clear yet how well the model generalizes to other genes with different patterns of haplotype diversity in the population and different degrees of heterozygous advantage.",
+    "seniorEditor": null,
+    "seniorEditorInstitution": null,
+    "reviewingEditor": null,
+    "reviewingEditorInstitution": null
+  },
+  {
+    "id": "109878",
+    "doi": "10.7554/elife.109878.3",
+    "url": "https://doi.org/10.7554/elife.109878.3",
+    "date": "2026-07-08T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Immunology and Microbiology",
+    "subfield": "Immunology",
+    "primaryTopic": "Reproductive System and Pregnancy",
+    "topics": [
+      {
+        "name": "Reproductive System and Pregnancy",
+        "subfield": "Immunology",
+        "score": 1
+      },
+      {
+        "name": "Immune Cell Function and Interaction",
+        "subfield": "Immunology",
+        "score": 0
+      },
+      {
+        "name": "Preterm Birth and Chorioamnionitis",
+        "subfield": "Epidemiology",
+        "score": 0
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Natural killer cell",
+        "score": 54
+      },
+      {
+        "name": "Uterus",
+        "score": 46
+      },
+      {
+        "name": "Immune system",
+        "score": 45
+      },
+      {
+        "name": "Spiral artery",
+        "score": 43
+      },
+      {
+        "name": "Cellular differentiation",
+        "score": 42
+      },
+      {
+        "name": "Lymphocyte",
+        "score": 41
+      },
+      {
+        "name": "Cell",
+        "score": 39
+      },
+      {
+        "name": "Receptor",
+        "score": 37
+      },
+      {
+        "name": "Janus kinase 3",
+        "score": 36
+      },
+      {
+        "name": "Interleukin 21",
+        "score": 35
+      }
+    ],
+    "authors": "Josselyn D Barahona, Liping Yang, D. Michael Nelson, Wayne M. Yokoyama",
+    "title": "TGF-\u03b2 drives the conversion of conventional NK cells into uterine tissue-resident NK cells to support murine pregnancy",
+    "version": "Version of Record",
+    "versionNumber": 3,
+    "elifeStatus": "vor",
+    "totalVersions": 1,
+    "assessmentSignificance": "Important",
+    "assessmentStrength": "Convincing",
+    "assessmentSummary": "The importance of uterine natural killer (NK) cells in reproductive success has been demonstrated in mice and humans; however, it is still unclear how uterine NK cells are developed. In this &lt;b&gt;important&lt;/b&gt; manuscript, the authors provide &lt;b&gt;convincing&lt;/b&gt; evidence that TGF-b signaling in NK cells supports normal pregnancy in mice by the conversion of conventional NK cells into uterine tissue-resident NK cells. Previous concerns have been addressed in this revised version.",
+    "seniorEditor": "Tadatsugu Taniguchi",
+    "seniorEditorInstitution": "The University of Tokyo, Japan",
+    "reviewingEditor": "Tomohiro Kurosaki",
+    "reviewingEditorInstitution": "The University of Osaka, Japan"
+  },
+  {
+    "id": "107745",
+    "doi": "10.7554/elife.107745.3",
+    "url": "https://doi.org/10.7554/elife.107745.3",
+    "date": "2026-07-08T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Immunology and Microbiology",
+    "subfield": "Immunology",
+    "primaryTopic": "Immune Cell Function and Interaction",
+    "topics": [
+      {
+        "name": "Immune Cell Function and Interaction",
+        "subfield": "Immunology",
+        "score": 1
+      },
+      {
+        "name": "T-cell and B-cell Immunology",
+        "subfield": "Immunology",
+        "score": 1
+      },
+      {
+        "name": "interferon and immune responses",
+        "subfield": "Immunology",
+        "score": 1
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Experimental autoimmune encephalomyelitis",
+        "score": 86
+      },
+      {
+        "name": "Autoimmunity",
+        "score": 61
+      },
+      {
+        "name": "T cell",
+        "score": 59
+      },
+      {
+        "name": "Asparagine",
+        "score": 53
+      },
+      {
+        "name": "Extracellular",
+        "score": 46
+      },
+      {
+        "name": "Multiple sclerosis",
+        "score": 44
+      },
+      {
+        "name": "Myelin",
+        "score": 42
+      },
+      {
+        "name": "Adoptive cell transfer",
+        "score": 42
+      },
+      {
+        "name": "Amino acid",
+        "score": 23
+      },
+      {
+        "name": "Immune system",
+        "score": 21
+      }
+    ],
+    "authors": "Peter Georgiev, Sheila Johnson, Kiran Kurmi, Song-Hua Hu, SeongJun Han, Dillon G. Patterson, Thao H. Nguyen, Linglin Huang, Dan Liang, Naomi Goldman, Thomas S. Conway, Hannah Creasey, Jared H. Rowe, Marcia C. Haigis, Arlene H. Sharpe",
+    "title": "Depletion of extracellular asparagine impairs self-reactive T cells and ameliorates autoimmunity in a murine model of multiple sclerosis",
+    "version": "v1",
+    "versionNumber": 1,
+    "elifeStatus": "reviewed-preprint",
+    "totalVersions": 1,
+    "assessmentSignificance": "Important",
+    "assessmentStrength": "Convincing",
+    "assessmentSummary": "Non-essential amino acids such as glutamine have been known to be required for T cell general activation through sustaining basic biosynthetic processes, including nucleotide biosynthesis, ATP generation, and protein synthesis. In this &lt;b&gt;important&lt;/b&gt; study, the authors found that extracellular asparagine (Asn) is required not only for T cells to generally refuel metabolic reprogramming, but to produce helper T cell lineage-specific cytokine, for instance, IL17. In particular, the importance of Asn in IL17 production was &lt;b&gt;convincingly&lt;/b&gt; demonstrated in the mouse experimental autoimmune encephalomyelitis (EAE) model, mimicking human multiple sclerosis disease.",
+    "seniorEditor": "Tadatsugu Taniguchi",
+    "seniorEditorInstitution": "The University of Tokyo, Japan",
+    "reviewingEditor": "Tomohiro Kurosaki",
+    "reviewingEditorInstitution": "The University of Osaka, Japan"
+  },
+  {
+    "id": "102369",
+    "doi": "10.7554/elife.102369.3",
+    "url": "https://doi.org/10.7554/elife.102369.3",
+    "date": "2026-06-17T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Immunology and Microbiology",
+    "subfield": "Immunology",
+    "primaryTopic": "Invertebrate Immune Response Mechanisms",
+    "topics": [
+      {
+        "name": "Invertebrate Immune Response Mechanisms",
+        "subfield": "Immunology",
+        "score": 1
+      },
+      {
+        "name": "Developmental Biology and Gene Regulation",
+        "subfield": "Molecular Biology",
+        "score": 0
+      },
+      {
+        "name": "Neurobiology and Insect Physiology Research",
+        "subfield": "Cellular and Molecular Neuroscience",
+        "score": 0
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Immune system",
+        "score": 77
+      },
+      {
+        "name": "Innate immune system",
+        "score": 59
+      },
+      {
+        "name": "Transcription factor",
+        "score": 53
+      },
+      {
+        "name": "Phenotype",
+        "score": 49
+      },
+      {
+        "name": "Ectopic expression",
+        "score": 49
+      },
+      {
+        "name": "Inflammation",
+        "score": 48
+      },
+      {
+        "name": "Acquired immune system",
+        "score": 46
+      },
+      {
+        "name": "Innate lymphoid cell",
+        "score": 42
+      },
+      {
+        "name": "Immunity",
+        "score": 39
+      },
+      {
+        "name": "Signal transduction",
+        "score": 36
+      }
+    ],
+    "authors": "Judith Bossen, Larissa Fritz, Reshmi Raveendran, Leizhi Shi, Jingjing He, Thomas Roeder",
+    "title": "Tracheal terminal cells of Drosophila are immune privileged to maintain their Foxo-dependent structural plasticity",
+    "version": "v2",
+    "versionNumber": 2,
+    "elifeStatus": "reviewed-preprint",
+    "totalVersions": 1,
+    "assessmentSignificance": "Valuable",
+    "assessmentStrength": "Convincing",
+    "assessmentSummary": "This is a &lt;b&gt;valuable&lt;/b&gt; report describing tracheal terminal cells (TTCs) in &lt;i&gt;Drosophila&lt;/i&gt; as an immune-privileged organ. The authors demonstrated that TTCs lack expression of the membrane-associated peptidoglycan recognition receptor PGRP-LC, which protects these cells from immune pathway activation and JNK-mediated cell death to maintain TTC homeostasis. While the genetic experiments using RNAi and overexpression are &lt;b&gt;convincing&lt;/b&gt; and &lt;b&gt;solid&lt;/b&gt;, the broader biological significance of this phenomenon requires further investigation. This work will be of interest to researchers in innate immunity across various model systems.",
+    "seniorEditor": "Satyajit Rath",
+    "seniorEditorInstitution": "National Institute of Immunology, India",
+    "reviewingEditor": "Jiwon Shim",
+    "reviewingEditorInstitution": "Seoul National University, Republic of Korea"
+  },
+  {
+    "id": "107339",
+    "doi": "10.7554/elife.107339.3",
+    "url": "https://doi.org/10.7554/elife.107339.3",
+    "date": "2026-06-01T00:00:00Z",
+    "domain": "Life Sciences",
+    "field": "Immunology and Microbiology",
+    "subfield": "Immunology",
+    "primaryTopic": "Immune responses and vaccinations",
+    "topics": [
+      {
+        "name": "Immune responses and vaccinations",
+        "subfield": "Immunology",
+        "score": 1
+      },
+      {
+        "name": "Inflammatory Bowel Disease",
+        "subfield": "Genetics",
+        "score": 1
+      },
+      {
+        "name": "IL-33, ST2, and ILC Pathways",
+        "subfield": "Immunology",
+        "score": 1
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Beta-glucan",
+        "score": 82
+      },
+      {
+        "name": "Monocyte",
+        "score": 69
+      },
+      {
+        "name": "Colitis",
+        "score": 59
+      },
+      {
+        "name": "BETA (programming language)",
+        "score": 59
+      },
+      {
+        "name": "Plasticity",
+        "score": 55
+      },
+      {
+        "name": "Glucan",
+        "score": 51
+      }
+    ],
+    "authors": "Yinyin Lv, Yanyun Fan, Qingxiang Gao, Qiongyun Chen, Yiqun Hu, Lin Wang, Huaxiu Shi, Ermei Chen, Qiang Xu, Ying Cai, Qingqi Fan, Linying Li, Dan Du, Jianlin Ren, Shih\u2010Chin Cheng, Hongzhi Xu",
+    "title": "Beta-Glucan modulates monocyte plasticity and differentiation capacity to mitigate DSS-induced colitis",
+    "version": "Version of Record",
+    "versionNumber": 3,
+    "elifeStatus": "vor",
+    "totalVersions": 1,
+    "assessmentSignificance": "Important",
+    "assessmentStrength": "Compelling",
+    "assessmentSummary": "This study presents &lt;b&gt;compelling&lt;/b&gt; evidence supporting the therapeutic potential of trained immunity in Colitis. The study is &lt;b&gt;important&lt;/b&gt; for the field of trained immunity and is a welcome addition to the focus issue on trained immunity.",
+    "seniorEditor": "Satyajit Rath",
+    "seniorEditorInstitution": "National Institute of Immunology, India",
+    "reviewingEditor": "Boris Novakovic",
+    "reviewingEditorInstitution": "Murdoch Children's Research Institute, Australia"
+  },
+  {
+    "id": "104944",
+    "doi": "10.7554/elife.104944.4",
+    "url": "https://doi.org/10.7554/elife.104944.4",
+    "date": "2026-07-21T00:00:00Z",
+    "domain": "Health Sciences",
+    "field": "Medicine",
+    "subfield": "Epidemiology",
+    "primaryTopic": "Mycobacterium research and diagnosis",
+    "topics": [
+      {
+        "name": "Mycobacterium research and diagnosis",
+        "subfield": "Epidemiology",
+        "score": 1
+      },
+      {
+        "name": "Tuberculosis Research and Epidemiology",
+        "subfield": "Infectious Diseases",
+        "score": 1
+      },
+      {
+        "name": "Infectious Diseases and Mycology",
+        "subfield": "Small Animals",
+        "score": 1
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Detoxification (alternative medicine)",
+        "score": 88
+      },
+      {
+        "name": "Mycobacterium abscessus",
+        "score": 81
+      },
+      {
+        "name": "Antibiotics",
+        "score": 63
+      },
+      {
+        "name": "Reactive oxygen species",
+        "score": 46
+      },
+      {
+        "name": "Mycobacterium",
+        "score": 39
+      },
+      {
+        "name": "Tuberculosis",
+        "score": 8
+      },
+      {
+        "name": "Alternative medicine",
+        "score": 0
+      }
+    ],
+    "authors": "Nicholas A Bates, Ronald Rodriguez, Rama Drwich, A. P. Ray, Sarah A. Stanley, Bennett H. Penn",
+    "title": "Reactive oxygen detoxification contributes to Mycobacterium abscessus antibiotic survival",
+    "version": "v1",
+    "versionNumber": 1,
+    "elifeStatus": "reviewed-preprint",
+    "totalVersions": 1,
+    "assessmentSignificance": "Valuable",
+    "assessmentStrength": "Solid",
+    "assessmentSummary": "Using a transposon sequencing (TN-seq) approach, the authors identified key genetic determinants of drug tolerance in Mycobacterium abscessus. Given that M. abscessus is inherently resistant to multiple antibiotics, this &lt;b&gt;valuable&lt;/b&gt; study makes a significant contribution by uncovering how antibiotic tolerance is linked to reactive oxygen species (ROS) in this non-tuberculous mycobacterial (NTM) species. The &lt;b&gt;solid&lt;/b&gt; findings further strengthen the growing evidence that ROS play a central role in the mechanism of antibiotic action and tolerance in mycobacteria. However, the use of words persistence or tolerance should follow the consensus definition given in the Balaban 2019 Nat Rev Micro paper.",
+    "seniorEditor": "Wendy S Garrett",
+    "seniorEditorInstitution": "Harvard T.H. Chan School of Public Health, United States",
+    "reviewingEditor": "Amit Singh",
+    "reviewingEditorInstitution": "Indian Institute of Science, India"
+  },
+  {
+    "id": "110309",
+    "doi": "10.7554/elife.110309.4",
+    "url": "https://doi.org/10.7554/elife.110309.4",
+    "date": "2026-07-09T00:00:00Z",
+    "domain": "Health Sciences",
+    "field": "Medicine",
+    "subfield": "Epidemiology",
+    "primaryTopic": "Herpesvirus Infections and Treatments",
+    "topics": [
+      {
+        "name": "Herpesvirus Infections and Treatments",
+        "subfield": "Epidemiology",
+        "score": 1
+      },
+      {
+        "name": "Viral-associated cancers and disorders",
+        "subfield": "Oncology",
+        "score": 0
+      },
+      {
+        "name": "Histone Deacetylase Inhibitors Research",
+        "subfield": "Molecular Biology",
+        "score": 0
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Histone",
+        "score": 71
+      },
+      {
+        "name": "Chromatin",
+        "score": 65
+      },
+      {
+        "name": "Viral replication",
+        "score": 61
+      },
+      {
+        "name": "Histone H2A",
+        "score": 56
+      },
+      {
+        "name": "Pseudorabies",
+        "score": 55
+      },
+      {
+        "name": "Ubiquitin",
+        "score": 50
+      },
+      {
+        "name": "Epigenetics",
+        "score": 49
+      },
+      {
+        "name": "Herpes simplex virus",
+        "score": 49
+      },
+      {
+        "name": "Histone Acetyltransferases",
+        "score": 48
+      },
+      {
+        "name": "Virus",
+        "score": 40
+      }
+    ],
+    "authors": "Sheng\u2010Li Ming, Meng-Hua Du, Jia-Ming Yang, Ya-di Guo, Jia-Jia Pan, Weifei Lu, Yi-Xiang Wang, Lei Zeng, Bei\u2010Bei Chu",
+    "title": "The targeted cytosolic degradation of class I histone deacetylases is essential for efficient alphaherpesvirus replication",
+    "version": "v2",
+    "versionNumber": 2,
+    "elifeStatus": "reviewed-preprint",
+    "totalVersions": 2,
+    "assessmentSignificance": "Valuable",
+    "assessmentStrength": "Convincing",
+    "assessmentSummary": "This &lt;b&gt;valuable&lt;/b&gt; study presents &lt;b&gt;convincing&lt;/b&gt; data demonstrating that alpha herpesvirus triggers nuclear export of HDACs, which are then degraded in an MDM2-dependent manner. This virus-driven process leads to histone hyperacetylation and activation of the DNA damage response, which promotes viral replication.",
+    "seniorEditor": null,
+    "seniorEditorInstitution": null,
+    "reviewingEditor": null,
+    "reviewingEditorInstitution": null
+  },
+  {
+    "id": "108921",
+    "doi": "10.7554/elife.108921.3",
+    "url": "https://doi.org/10.7554/elife.108921.3",
+    "date": "2026-08-05T00:00:00Z",
+    "domain": "Health Sciences",
+    "field": "Medicine",
+    "subfield": "Epidemiology",
+    "primaryTopic": "Cytomegalovirus and herpesvirus research",
+    "topics": [
+      {
+        "name": "Cytomegalovirus and herpesvirus research",
+        "subfield": "Epidemiology",
+        "score": 1
+      },
+      {
+        "name": "Herpesvirus Infections and Treatments",
+        "subfield": "Epidemiology",
+        "score": 1
+      },
+      {
+        "name": "Parvovirus B19 Infection Studies",
+        "subfield": "Infectious Diseases",
+        "score": 1
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Multiplicity (mathematics)",
+        "score": 89
+      },
+      {
+        "name": "Cooperativity",
+        "score": 71
+      },
+      {
+        "name": "Multiplicity of infection",
+        "score": 66
+      },
+      {
+        "name": "Virus",
+        "score": 15
+      }
+    ],
+    "authors": "Christopher Peterson, Joshua Miller, Brent J. Ryckman, Vitaly V. Ganusov",
+    "title": "Apparent cooperativity between human CMV virions introduces errors in conventional methods of calculating multiplicity of infection",
+    "version": "Version of Record",
+    "versionNumber": 3,
+    "elifeStatus": "vor",
+    "totalVersions": 1,
+    "assessmentSignificance": "Valuable",
+    "assessmentStrength": "Solid",
+    "assessmentSummary": "The authors combine experiments and mathematical modeling to determine how the infectivity of human cytomegalovirus scales with the viral concentration in the inoculum, i.e., considering the multiplicity of infection (MOI). They propose and test different model assumptions to explain a mechanism termed &quot;apparent cooperativity&quot; of virions based on an observed super-linear increase of the number of infected cells with increasing inocula. The authors present a &lt;b&gt;solid&lt;/b&gt; study showing &lt;b&gt;valuable&lt;/b&gt; findings for virologists and quantitative scientists working on the analysis and interpretation of viral infection dynamics for which quantitative knowledge of MOI is needed.",
+    "seniorEditor": "John W Schoggins",
+    "seniorEditorInstitution": "The University of Texas Southwestern Medical Center, United States",
+    "reviewingEditor": "Frederik Graw",
+    "reviewingEditorInstitution": "Friedrich-Alexander-University Erlangen-N\u00fcrnberg, Germany"
+  },
+  {
+    "id": "105105",
+    "doi": "10.7554/elife.105105.3",
+    "url": "https://doi.org/10.7554/elife.105105.3",
+    "date": "2026-05-29T00:00:00Z",
+    "domain": "Health Sciences",
+    "field": "Medicine",
+    "subfield": "Epidemiology",
+    "primaryTopic": "Autophagy in Disease and Therapy",
+    "topics": [
+      {
+        "name": "Autophagy in Disease and Therapy",
+        "subfield": "Epidemiology",
+        "score": 1
+      },
+      {
+        "name": "Mosquito-borne diseases and control",
+        "subfield": "Public Health, Environmental and Occupational Health",
+        "score": 1
+      },
+      {
+        "name": "interferon and immune responses",
+        "subfield": "Immunology",
+        "score": 1
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Ubiquitin ligase",
+        "score": 75
+      },
+      {
+        "name": "Ubiquitin",
+        "score": 75
+      },
+      {
+        "name": "Viral replication",
+        "score": 62
+      },
+      {
+        "name": "Cathepsin L",
+        "score": 53
+      },
+      {
+        "name": "Virus",
+        "score": 44
+      },
+      {
+        "name": "Viral life cycle",
+        "score": 43
+      },
+      {
+        "name": "Regulator",
+        "score": 43
+      },
+      {
+        "name": "Viral envelope",
+        "score": 42
+      },
+      {
+        "name": "Cathepsin",
+        "score": 27
+      },
+      {
+        "name": "Enzyme",
+        "score": 10
+      }
+    ],
+    "authors": "Qiwang Xiang, Camille Wouters, Peixi Chang, Yuning Lu, Mingming Liu, Haocheng Wang, Haley Heine, Sunning Qian, Junqin Yang, Andrew Pekosz, Yan\u2010Jin Zhang, Jiou Wang",
+    "title": "Ubiquitin ligase ITCH regulates life cycle of SARS-CoV-2 virus",
+    "version": "v1",
+    "versionNumber": 1,
+    "elifeStatus": "reviewed-preprint",
+    "totalVersions": 1,
+    "assessmentSignificance": "Valuable",
+    "assessmentStrength": "Solid",
+    "assessmentSummary": "This &lt;b&gt;valuable&lt;/b&gt; study demonstrates that the E3 ligase ITCH regulates several steps of the SARS-CoV-2 replication cycle by enhancing ubiquitination of viral envelope and membrane proteins. The phenotypic data are based on &lt;b&gt;solid&lt;/b&gt; evidence showing a role for ITCH in distinct phases of viral replication and host processes. The findings lay the ground work for future studies to decipher detailed molecular mechanisms that explain how ITCH regulates SARS-CoV-2.",
+    "seniorEditor": null,
+    "seniorEditorInstitution": null,
+    "reviewingEditor": null,
+    "reviewingEditorInstitution": null
+  }
+]
