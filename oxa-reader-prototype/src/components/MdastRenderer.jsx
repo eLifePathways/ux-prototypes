@@ -227,10 +227,11 @@ const BADGE_LABELS = {
 }
 
 // Prototype image overrides keyed by figure enumerator
+const BASE = import.meta.env.BASE_URL
 const FIGURE_IMAGE_OVERRIDES = {
-  1: '/assets/transit-2020.png',
-  2: '/assets/figure2.png',
-  3: '/assets/figure3.png',
+  1: `${BASE}assets/transit-2020.png`,
+  2: `${BASE}assets/figure2.png`,
+  3: `${BASE}assets/figure3.png`,
 }
 
 // ── New figure card ──────────────────────────────────────────
