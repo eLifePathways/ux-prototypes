@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 import ArticlePage from './components/ArticlePage.jsx'
 
-const ARTICLE_URL = '/2024.12.16.628638v2.json'
+const ARTICLE_URL = `${import.meta.env.BASE_URL}2024.12.16.628638v2.json`
 const ELIFE_DOI = '10.7554/eLife.105126'
 const OPENALEX_URL = `https://api.openalex.org/works/https://doi.org/${ELIFE_DOI}?select=concepts,keywords,topics&mailto=c.huggins@elifesciences.org`
 
