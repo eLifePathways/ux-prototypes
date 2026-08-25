@@ -78,10 +78,11 @@ function getFigureType(enumerator) {
 }
 
 // Prototype image overrides keyed by figure enumerator
+const BASE = import.meta.env.BASE_URL
 const FIGURE_IMAGE_OVERRIDES = {
-  1: '/assets/transit-2020.png',
-  2: '/assets/figure2.png',
-  3: '/assets/figure3.png',
+  1: `${BASE}assets/transit-2020.png`,
+  2: `${BASE}assets/figure2.png`,
+  3: `${BASE}assets/figure3.png`,
 }
 
 export default function ArticlePage({ article, concepts = [] }) {
@@ -714,7 +715,7 @@ function InteractiveLightbox({ figure, figures, mdast, onNavigate, onAllFigures,
   const imageNode = figure.children?.find(c => c.type === 'image')
   const captionNode = figure.children?.find(c => c.type === 'caption')
   const defaultSrc = imageNode?.url?.startsWith('/') ? `${IMAGE_BASE}${imageNode.url}` : imageNode?.url
-  const src = '/assets/transit-2020.png' || defaultSrc
+  const src = FIGURE_IMAGE_OVERRIDES[figure.enumerator] || defaultSrc
 
   const [condition, setCondition] = useState(INTERACTIVE_CONDITIONS[0].id)
   const [activeHotspot, setActiveHotspot] = useState(null)
