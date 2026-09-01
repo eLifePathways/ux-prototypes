@@ -423,9 +423,9 @@ export default function ArticlePage({ article, concepts = [], versionConfig = {}
             >
               <span className="sidebar-version-warning-icon">
                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                  <path fillRule="evenodd" clipRule="evenodd" d="M5 17V6H7V17H18V19H7C5.89543 19 5 18.1046 5 17Z" fill="white"/>
-                  <path fillRule="evenodd" clipRule="evenodd" d="M1 21V10H3V21H14V23H3C1.89543 23 1 22.1046 1 21Z" fill="white"/>
-                  <path d="M21 2H11C10.4477 2 10 2.44772 10 3V13C10 13.5523 10.4477 14 11 14H21C21.5523 14 22 13.5523 22 13V3C22 2.44772 21.5523 2 21 2Z" stroke="white" strokeWidth="2"/>
+                  <path fillRule="evenodd" clipRule="evenodd" d="M5 17V6H7V17H18V19H7C5.89543 19 5 18.1046 5 17Z" fill="currentColor"/>
+                  <path fillRule="evenodd" clipRule="evenodd" d="M1 21V10H3V21H14V23H3C1.89543 23 1 22.1046 1 21Z" fill="currentColor"/>
+                  <path d="M21 2H11C10.4477 2 10 2.44772 10 3V13C10 13.5523 10.4477 14 11 14H21C21.5523 14 22 13.5523 22 13V3C22 2.44772 21.5523 2 21 2Z" stroke="currentColor" strokeWidth="2"/>
                 </svg>
               </span>
               <span className="sidebar-version-warning-text">
