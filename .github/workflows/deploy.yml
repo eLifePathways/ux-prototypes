@@ -44,6 +44,12 @@ jobs:
           npm ci
           npm run build
 
+      - name: Build elife-model-reviews
+        working-directory: elife-model-reviews
+        run: |
+          npm ci
+          npm run build
+
       - name: Assemble site
         run: |
           mkdir -p _site
@@ -51,6 +57,7 @@ jobs:
           cp -r elife-terms-prototype/dist _site/elife-terms-prototype
           cp -r keyword-filter-prototype/dist _site/keyword-filter-prototype
           cp -r oxa-reader-prototype/dist _site/oxa-reader-prototype
+          cp -r elife-model-reviews/dist _site/elife-model-reviews
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
