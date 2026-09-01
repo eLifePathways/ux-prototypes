@@ -50,6 +50,12 @@ jobs:
           npm ci
           npm run build
 
+      - name: Build claims-extraction
+        working-directory: claims-extraction
+        run: |
+          npm ci
+          npm run build
+
       - name: Assemble site
         run: |
           mkdir -p _site
@@ -58,6 +64,7 @@ jobs:
           cp -r keyword-filter-prototype/dist _site/keyword-filter-prototype
           cp -r oxa-reader-prototype/dist _site/oxa-reader-prototype
           cp -r elife-model-reviews/dist _site/elife-model-reviews
+          cp -r claims-extraction/dist _site/claims-extraction
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
