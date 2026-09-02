@@ -24,7 +24,8 @@ export default function Nav({ scrolled = false, onLogoClick, back, noBorder = fa
         {children}
 
         <div className="nav-links">
-          <a href="#">About</a>
+          <a href="https://elifepathways.github.io/ux-prototypes/">Home</a>
+            <a href="#">About</a>
         </div>
       </div>
     </nav>

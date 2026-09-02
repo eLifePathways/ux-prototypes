@@ -54,6 +54,7 @@ export default function Nav({ scrolled = false, onLogoClick, noBorder = false, c
             <button className="nav-theme-toggle" onClick={toggleTheme} title={dark ? 'Switch to light mode' : 'Switch to dark mode'} aria-label={dark ? 'Switch to light mode' : 'Switch to dark mode'}>
               {dark ? <SunIcon /> : <MoonIcon />}
             </button>
+            <a href="https://elifepathways.github.io/ux-prototypes/">Home</a>
             <a href="#">About</a>
           </div>
         </div>
