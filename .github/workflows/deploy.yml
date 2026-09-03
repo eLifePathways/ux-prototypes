@@ -59,6 +59,7 @@ jobs:
           cp -r keyword-filter-prototype/dist _site/keyword-filter-prototype
           cp -r oxa-reader-prototype/dist _site/oxa-reader-prototype
           cp -r elife-model-reviews/dist _site/elife-model-reviews
+          cp -r claims-extraction _site/claims-extraction
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
