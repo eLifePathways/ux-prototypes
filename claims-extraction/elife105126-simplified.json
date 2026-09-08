@@ -1,0 +1,223 @@
+{
+  "questions": [
+    {
+      "id": "q1",
+      "text": "How do neural representations of cues and contexts change across fear acquisition, reversal, and test phases?",
+      "description": "The paper investigates how representational geometry of conditioned stimuli and contexts evolves during fear learning, reversal, and extinction test phases.",
+      "anchor": "Here, we used functional magnetic resonance imaging and a novel fear learning paradigm to track the neural representations of stimuli across fear acquisition, reversal, and test phases.",
+      "claims": [
+        {
+          "id": "c1",
+          "text": "Initial fear learning creates generalized neural representations for all threatening cues in the brain's fear network.",
+          "description": "During acquisition, cue generalization was higher for CS+ than CS- cues in regions including dACC, superior frontal gyrus, caudate nucleus, and insula.",
+          "anchor": "We found that initial fear learning creates generalized neural representations for all threatening cues in the brain's fear network.",
+          "figures": [],
+          "evidence": [
+            {
+              "id": "e1",
+              "text": "During acquisition, cue generalization was significantly higher for CS+ vs CS- cues in dACC, superior frontal gyrus, caudate nucleus, and insula (searchlight RSA, FWER-corrected p<0.025).",
+              "anchor": "We found that item stability did not differ between CS+ and CS- cues. Importantly, however, cue generalization was significantly higher for CS+ compared to CS- cues in several clusters across the fear network, with a pattern reminiscent of the results duri",
+              "studyId": "s1"
+            }
+          ]
+        },
+        {
+          "id": "c2",
+          "text": "During reversal learning, the brain uses both generalized patterns for currently threatening cues and stable item-specific representations that change valence, particularly in precuneus and prefrontal cortex.",
+          "description": "Reversal showed higher cue generalization for threatening vs non-threatening cues in fear network regions, and higher item stability for changing vs consistent cues in precuneus and IFG.",
+          "anchor": "During reversal learning, when threat contingencies switched for some of the cues, two distinct representational strategies were observed. On the one hand, we still identified generalized patterns for currently threatening cues, whereas on the other hand,",
+          "figures": [],
+          "evidence": [
+            {
+              "id": "e2",
+              "text": "During reversal, cue generalization was higher for CS++ vs CS-- in dACC, and for currently threatening (CS++/CS-+) vs non-threatening (CS+-/CS--) cues in dACC, SFG, MTG, IFG (FWER-corrected p<0.0125).",
+              "anchor": "Comparing the cue generalization of all CS cues that are threatening in reversal (CS++ and CS-+) to the ones that are not (CS+- and CS--) revealed similar results to fear acquisition, with increased cue generalization across fear learning network regions,",
+              "studyId": "s1"
+            },
+            {
+              "id": "e3",
+              "text": "During reversal, item stability was higher for changing (CS+- and CS-+) vs consistent (CS++ and CS--) cues in precuneus and IFG (FWER-corrected p<0.0125).",
+              "anchor": "Item stability was significantly higher for changing than consistent cues in the precuneus and IFG, i.e., in regions that overlapped with those showing higher cue generalization for threatening cues.",
+              "studyId": "s1"
+            }
+          ]
+        },
+        {
+          "id": "c3",
+          "text": "The brain represents contexts more distinctly during reversal learning than during acquisition.",
+          "description": "Context specificity (within-context vs between-context similarity difference) was significantly higher in reversal than acquisition in a cluster including dorsomedial PFC and superior frontal gyrus.",
+          "anchor": "Furthermore, we observed that the brain represents contexts more distinctly during reversal learning.",
+          "figures": [],
+          "evidence": [
+            {
+              "id": "e4",
+              "text": "Context specificity was significantly higher during reversal than acquisition in a cluster including dorsomedial PFC and superior frontal gyrus (paired t-test, Bonferroni-corrected p<0.00714).",
+              "anchor": "As hypothesized, we found that context specificity during reversal was significantly higher than it was during acquisition, an effect that occurred in a cluster, including both dorsomedial PFC and lateral PFC (i.e. superior frontal gyrus).",
+              "studyId": "s1"
+            }
+          ]
+        },
+        {
+          "id": "c4",
+          "text": "During test phases without US, cue generalization differences between cue types disappear, but some item stability differences persist.",
+          "description": "Testnew and testold showed no cue generalization differences, but testnew had higher item stability for CS+- vs CS++ in MTG, and testold had higher item stability for CS++ vs CS-- in inferior temporal cortex.",
+          "anchor": "During the test phases, we did not observe any differences in cue generalization between cue types. However, some differences in item stability remained during testnew and testold.",
+          "figures": [],
+          "evidence": [
+            {
+              "id": "e5",
+              "text": "During testnew, item stability was higher for CS+- vs CS++ in a middle temporal cluster (FWER-corrected p<0.0125).",
+              "anchor": "Item stability was higher for CS+- vs. CS++ cues in a middle temporal cluster during testnew.",
+              "studyId": "s1"
+            },
+            {
+              "id": "e6",
+              "text": "During testold, item stability was higher for CS++ vs CS-- in an inferior temporal cluster (FWER-corrected p<0.0125).",
+              "anchor": "Item stability was higher for CS++ compared to CS-- cues in an inferior temporal cluster during testold.",
+              "studyId": "s1"
+            }
+          ]
+        },
+        {
+          "id": "c5",
+          "text": "Memory traces from acquisition and reversal compete for reinstatement during testold in different representational formats and brain regions.",
+          "description": "Reversal memory traces reinstated as item-specific in IFG; acquisition memory traces reinstated as generalized in dmPFC.",
+          "anchor": "During the testold, we observed prominent reinstatement of item-specific reversal memory traces in IFG and of generalized acquisition memory traces in dmPFC, suggesting that memories from these two phases tend to come back in different representational for",
+          "figures": [],
+          "evidence": [
+            {
+              "id": "e7",
+              "text": "In IFG, reversal-testold item reinstatement was significantly higher than acquisition-testold (t(253)=-3.01, p<0.01) and testnew-testold (t(253)=-2.7, p<0.05).",
+              "anchor": "Post-hoc Wilcoxon t-tests showed that reversal-testold item reinstatement was significantly higher than acquisition-testold item reinstatement (t(253)=-3.01, p <0.01) and testnew-testold item reinstatement (t(253)=-2.7, p <0.05).",
+              "studyId": "s1"
+            },
+            {
+              "id": "e8",
+              "text": "In dmPFC, acquisition-testold generalized reinstatement was higher than testnew-testold (t(259)=2.96, p<0.05).",
+              "anchor": "In addition, we observed a significant effect of experimental phases on generalized reinstatement in dmPFC (F(2,259)=4.01, p <0.05), where acquisition-testold generalized reinstatement was higher than testnew-testold generalized reinstatement (t(259)=2.96,",
+              "studyId": "s1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "What are the distinct representational properties of cue generalization and item stability during fear learning and reversal?",
+      "description": "The paper examines whether cue generalization (between-cue similarity) and item stability (within-cue similarity) play complementary roles in threat learning.",
+      "anchor": "We hypothesized that the representational geometry of CS cues changes across learning phases, reflecting the inhibition of fear memories during reversal, as well as the formation of novel memories of cues with updated contingencies.",
+      "claims": [
+        {
+          "id": "c6",
+          "text": "Cue generalization and item stability play complementary roles: cue generalization tracks threatening vs safe cues, while item stability tracks changing vs consistent contingencies.",
+          "description": "Acquisition and reversal both showed cue generalization for threatening cues; only reversal showed item stability for cues that changed valence.",
+          "anchor": "Cue generalization and item stability play complementary roles during initial fear learning and reversal, by being associated with threatening- vs- safe cues and changing- vs- consistent cues, respectively.",
+          "figures": [],
+          "evidence": [
+            {
+              "id": "e1",
+              "text": "During acquisition, cue generalization was significantly higher for CS+ vs CS- cues in dACC, superior frontal gyrus, caudate nucleus, and insula (searchlight RSA, FWER-corrected p<0.025).",
+              "anchor": "We found that item stability did not differ between CS+ and CS- cues. Importantly, however, cue generalization was significantly higher for CS+ compared to CS- cues in several clusters across the fear network, with a pattern reminiscent of the results duri",
+              "studyId": "s1"
+            },
+            {
+              "id": "e3",
+              "text": "During reversal, item stability was higher for changing (CS+- and CS-+) vs consistent (CS++ and CS--) cues in precuneus and IFG (FWER-corrected p<0.0125).",
+              "anchor": "Item stability was significantly higher for changing than consistent cues in the precuneus and IFG, i.e., in regions that overlapped with those showing higher cue generalization for threatening cues.",
+              "studyId": "s1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "How does context specificity change during reversal learning and predict fear renewal?",
+      "description": "The paper tests whether increased context specificity during reversal predicts reinstatement of fear memories during subsequent test phases.",
+      "anchor": "We hypothesized that increased context specificity during reversal would influence the reinstatement of fear memory traces during the test phases.",
+      "claims": [
+        {
+          "id": "c7",
+          "text": "Increased context specificity during reversal favors reinstatement of threat memory traces in fear network regions (ACC, dmPFC), providing a mechanism for fear renewal.",
+          "description": "Higher context specificity predicted stronger generalized reinstatement of CS+- (acquisition threat) in ACC/SFG and stronger item reinstatement of CS-+ (reversal threat) in dmPFC.",
+          "anchor": "Higher levels of context specificity during reversal favored the reinstatement of threat memory traces in areas of the fear network (ACC and dmPFC), suggesting a possible mechanism for the previously observed impact of extinction contexts on fear renewal.",
+          "figures": [],
+          "evidence": [
+            {
+              "id": "e9",
+              "text": "Higher reversal context specificity predicted stronger generalized reinstatement of CS+- vs CS-+ acquisition traces in ACC/SFG (t(22)=6.25, p<0.05) and stronger generalized reinstatement of CS-+ vs CS+- in precuneus (t(22)=4.89, p<0.01).",
+              "anchor": "In the precuneus, higher context specificity during reversal predicted more generalized reinstatement of the initially non-threatening cues (CS-+), i.e., a cue type that is safe during both acquisition and test, as compared to initially threatening cues (C",
+              "studyId": "s1"
+            },
+            {
+              "id": "e10",
+              "text": "Higher reversal context specificity predicted stronger item reinstatement of CS-+ vs CS+- reversal traces in dmPFC (t(22)=5.56, p<0.05).",
+              "anchor": "In addition, higher context specificity during reversal predicted higher item reinstatement of reversal memory traces for CS-+ than CS+- cues in the dmPFC (t(22)=5.56, p <0.05).",
+              "studyId": "s1"
+            }
+          ]
+        },
+        {
+          "id": "c8",
+          "text": "Context specificity in the prefrontal cortex during reversal predicts subsequent return of fear (fear renewal).",
+          "description": "Higher reversal context specificity predicted stronger generalized reinstatement of acquisition threat memories in ACC/SFG and stronger item reinstatement of reversal threat memories in dmPFC during testold.",
+          "anchor": "Furthermore, additional exploratory analyses showed that the degree of this context specificity in the prefrontal cortex predicted the subsequent return of fear, providing a potential neural mechanism for fear renewal.",
+          "figures": [],
+          "evidence": [
+            {
+              "id": "e9",
+              "text": "Higher reversal context specificity predicted stronger generalized reinstatement of CS+- vs CS-+ acquisition traces in ACC/SFG (t(22)=6.25, p<0.05) and stronger generalized reinstatement of CS-+ vs CS+- in precuneus (t(22)=4.89, p<0.01).",
+              "anchor": "In the precuneus, higher context specificity during reversal predicted more generalized reinstatement of the initially non-threatening cues (CS-+), i.e., a cue type that is safe during both acquisition and test, as compared to initially threatening cues (C",
+              "studyId": "s1"
+            },
+            {
+              "id": "e10",
+              "text": "Higher reversal context specificity predicted stronger item reinstatement of CS-+ vs CS+- reversal traces in dmPFC (t(22)=5.56, p<0.05).",
+              "anchor": "In addition, higher context specificity during reversal predicted higher item reinstatement of reversal memory traces for CS-+ than CS+- cues in the dmPFC (t(22)=5.56, p <0.05).",
+              "studyId": "s1"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "studies": [
+    {
+      "id": "s1",
+      "label": "Multi-day fMRI fear learning paradigm with acquisition, reversal, testnew, and testold phases using trace conditioning and representational similarity analysis.",
+      "text": "Multi-day fMRI fear learning paradigm with acquisition, reversal, testnew, and testold phases using trace conditioning and representational similarity analysis.",
+      "description": "32 participants (final N=24) completed a 2-day paradigm: Day 1 acquisition (CS+/CS-) and reversal (CS++, CS+-, CS-+, CS--); Day 2 testnew (novel contexts) and testold (original contexts), all under extinction. 128 trials per phase. Trace conditioning with 2s context video, 1s CS, 2.5s US expectancy rating, 50% reinforcement. RSA with LSS beta-series modeling, searchlight (5mm radius), FWER cluster correction (10k permutations).",
+      "anchor": "The experiment was divided into four phases across two days to capture the evolution of memory traces. Day 1 (Acquisition and Reversal): We first established fear associations (Acquisition) and subsequently altered them (Reversal). Day 2 (Test phases). To",
+      "protocols": [
+        {
+          "id": "g27",
+          "number": 1,
+          "text": "Multi-day fMRI fear learning paradigm: Day 1 acquisition (4 CS+ 50% reinforced, 4 CS- never reinforced, each paired with 4 context videos from set A); Day 1 reversal (same CSs, half switch valence: CS++ remain reinforced, CS+- become safe, CS-+ become reinforced, CS-- remain safe, context set B); Day 2 testnew (all CSs extinguished, novel context set C); Day 2 testold (all CSs extinguished, context sets A and B). 128 trials per phase, trace conditioning with 2s context video, 1s CS, 2.5s US expectancy rating, 50% reinforcement rate for reinforced CSs.",
+          "description": "Narrative 'Nina the Unlucky Backpacker' framework. CSs: household appliance images. Contexts: natural scene videos. US: electric shock calibrated individually. Stimulus presentation via Presentation software. Electrical stimulation via STM200 constant voltage stimulator on non-dominant hand fingers. Jittered ITI 7-9s. Counterbalanced CS-type and context-set assignments.",
+          "anchor": "The paradigm was administered to participants in the MRI scanner and consisted of four experimental phases spanning two days. To make the experiment more engaging for participants, they were presented with the narrative of 'Nina the unlucky backpaper' and"
+        },
+        {
+          "id": "g28",
+          "number": 2,
+          "text": "Representational similarity analysis with searchlight approach: LSS beta-series modeling (one GLM per trial) for CS and context separately; Fisher r-to-z transformed pattern correlations; item stability (within-cue/context similarity) and cue generalization (between-cue/context similarity) computed per searchlight (5mm radius, 50% voxel inclusion); context specificity = within-context similarity minus between-context similarity; non-parametric permutation testing (10,000 permutations) for cluster-level FWER correction; Bonferroni-adjusted alpha per phase (acquisition: 0.025; others: 0.0125).",
+          "description": "Two separate LSS model sets per phase: one for CS, one for contexts. Only unreinforced trials used for pattern similarity. US onsets as regressors of no interest. Motion parameters and WM/CSF signals as nuisance regressors. Implemented with Nilearn and brainIAK. Gray matter mask constraint.",
+          "anchor": "We applied RSA to investigate the representational geometries of cues and contexts throughout the experiment. Since this involved studying the neural representations during a relatively rapid event-related design, we chose to base the estimation of neural"
+        },
+        {
+          "id": "g29",
+          "number": 3,
+          "text": "Linear mixed effects models for behavioral and ROI analyses: Satterthwaite's approximation for degrees of freedom (lme4, lmerTest in R); FDR correction for ROI-based exploratory analyses; LME with context specificity and cue type as predictors for reinstatement measures.",
+          "description": "Behavioral: LME with CS type, phase, interaction as fixed effects, participant as random effect. Reinstatement: LME with experimental phase, CS type, interaction predicting item/generalized reinstatement. Context specificity prediction: LME with context specificity and cue type predicting reinstatement, FDR correction within each ROI.",
+          "anchor": "We used Satterthwaite's approximation of degrees of freedom, as implemented in the R packages lme4 and lmerTest, using the restricted maximum likelihood method."
+        },
+        {
+          "id": "g30",
+          "number": 4,
+          "text": "MRI acquisition: Philips 3T Achieva scanner; T1w structural (TR=817ms, TE=3.73ms, 1mm isotropic); BOLD EPI (TR=2.53s, TE=30ms, 2.5mm isotropic, 96x96x46 matrix); phase-opposite scans for distortion correction; simultaneous EEG and SCR recording (not reported).",
+          "description": "fMRIPrep preprocessing: N4 bias correction, ANTs skull-stripping, FSL FAST segmentation, FreeSurfer recon-all, ANTs nonlinear registration to MNI152NLin2009cAsym. Functional: mcflirt motion correction, 3dTshift slice-timing, fMRIPrep fieldmap-less distortion correction, bbregister boundary-based registration to T1w, resampling to fsnative and MNI space. Confounds: framewise displacement (Power and Jenkinson formulations), DVARS, three global signals (CSF, WM, whole-brain).",
+          "anchor": "All MRI data were acquired on a Philips 3T Achieva scanner 3T MRI scanner. MRI data were acquired with simultaneous recording of electroencephalographic data and skin conductance recording in the scanner, which are not presented here."
+        }
+      ]
+    }
+  ]
+}
