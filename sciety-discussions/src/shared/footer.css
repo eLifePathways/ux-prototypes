@@ -1,0 +1,33 @@
+/* Footer shared by both apps (same as sciety.org). Always Ubuntu. */
+.site-footer {
+  background: #374349;
+  color: #ffffff;
+  font-family: 'Ubuntu', system-ui, sans-serif;
+  padding: var(--space-6) var(--gutter);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-6);
+}
+.site-footer__links {
+  display: flex;
+  align-items: center;
+  gap: var(--space-6);
+}
+.site-footer__link {
+  font: var(--weight-bold) 16px / 24px 'Ubuntu', system-ui, sans-serif;
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 6px;
+}
+.site-footer__icon {
+  display: inline-flex;
+}
+.site-footer__legal {
+  font: var(--weight-medium) 12px / 20px 'Ubuntu', system-ui, sans-serif;
+}
+.site-footer__legal a {
+  color: inherit;
+}
+

@@ -1,0 +1,39 @@
+/* discussions.sciety theme tokens (dark). Shares spacing/radius/layout from foundation.css. */
+@import '@fontsource/inter/400.css';
+@import '@fontsource/inter/400-italic.css';
+@import '@fontsource/inter/600.css';
+@import '@fontsource/inter/700.css';
+
+:root {
+  --font-family: 'Inter', system-ui, sans-serif;
+  --weight-semibold: 600;
+
+  /* Colour */
+  --color-background: #21272e;
+  --color-stroke: #3e4651;        /* header rule, dividers, inputs, disabled buttons */
+  --color-text: #ffffff;
+  --color-text-muted: #909396;    /* dates, DOIs, placeholders, helper text */
+  --color-accent: #ce481a;        /* primary buttons */
+  --color-on-accent: #ffffff;
+  --color-link: #ff642e;          /* orange text on dark: Read more, ORCID, "You replied to" */
+  --color-card-border: #3e4651;   /* article cards on Profile and Explore (all borders use #3e4651) */
+  --color-avatar: #d9d9d9;
+  --color-error: #ff8a65;
+  --color-focus: #ff642e;
+
+  /* Type styles: size / line-height */
+  --type-article-title: 42px / 50px;  /* bold */
+  --type-h1: 42px / 46px;             /* bold: Profile, Explore, Welcome */
+  --type-h2: 24px / 32px;             /* semibold: Discussion */
+  --type-card-title: 20px / 28px;     /* semibold */
+  --type-body: 16px / 26px;           /* posts */
+  --type-body-loose: 16px / 28px;     /* authors, meta */
+  --type-nav: 16px / 32px;
+  --type-button: 14px / 32px;         /* semibold */
+
+  /* Layout */
+  --page-width: 1160px;
+  --column-wide: 864px;   /* discussion page */
+  --column: 768px;        /* profile, explore */
+  --header-height: 100px;
+}

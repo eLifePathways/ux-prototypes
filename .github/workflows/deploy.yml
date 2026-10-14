@@ -50,6 +50,12 @@ jobs:
           npm ci
           npm run build
 
+      - name: Build sciety-discussions
+        working-directory: sciety-discussions
+        run: |
+          npm ci
+          npm run build
+
 
       - name: Assemble site
         run: |
@@ -61,6 +67,7 @@ jobs:
           cp -r elife-model-reviews/dist _site/elife-model-reviews
           cp -r claims-extraction _site/claims-extraction
           cp -r OXA-MIRA-UX _site/OXA-MIRA-UX
+          cp -r sciety-discussions/dist _site/sciety-discussions
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

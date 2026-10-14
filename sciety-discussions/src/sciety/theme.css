@@ -1,0 +1,27 @@
+/* Sciety theme tokens */
+:root {
+  /* Colour */
+  --color-text: #242a33;
+  --color-text-muted: #4b606a;
+  --color-accent: #ce481a;      /* links/labels, primary buttons */
+  --color-on-accent: #ffffff;
+  --color-surface: #f0f2f7;     /* search, secondary buttons, discussion bar */
+  --color-divider: #dbdbe7;
+  --color-background: #ffffff;
+  --color-focus: #ce481a;
+
+  /* Type styles: size / line-height */
+  --type-page-title: 40px / 48px;   /* article title */
+  --type-h1: 36px / 48px;           /* Browse Sciety */
+  --type-h2: 26px / 32px;           /* listing titles */
+  --type-section: 24px / 32px;      /* Abstract, Discussion, Related */
+  --type-card-title: 20px / 24px;   /* related article titles */
+  --type-body-lg: 18px / 32px;      /* abstract */
+  --type-authors: 18px / 28px;      /* article authors (medium) */
+  --type-body: 16px / 28px;         /* comment text */
+  --type-body-sm: 16px / 24px;      /* listing authors, meta, labels */
+  --type-small: 14px / 24px;        /* listing meta, search */
+
+  /* Header */
+  --header-padding: var(--space-7);
+}

@@ -1,0 +1,109 @@
+/*
+  Shared foundation for both apps (Sciety and Discussions).
+  Theme files (src/sciety/theme.css, src/discussions/theme.css) set colours
+  and any app-specific type; everything here is common to both.
+*/
+@import '@fontsource/ubuntu/400.css';
+@import '@fontsource/ubuntu/500.css';
+@import '@fontsource/ubuntu/700.css';
+@import '@fontsource/ubuntu/700-italic.css';
+@import '@fontsource/ubuntu/400-italic.css';
+@import './footer.css';
+
+:root {
+  /* Spacing scale */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-7: 40px;
+  --space-8: 48px;
+  --space-9: 64px;
+  --space-10: 80px;
+  --space-11: 96px;
+  --space-12: 128px;
+
+  /* Corner radius: only two sizes */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+
+  /* Layout */
+  --page-width: 1200px;
+  --content-width: 1000px;
+  --gutter: 24px;
+
+  /* Type: family and weights */
+  --font-family: 'Ubuntu', system-ui, sans-serif;
+  --weight-regular: 400;
+  --weight-medium: 500;
+  --weight-bold: 700;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-family);
+  font-weight: var(--weight-regular);
+  -webkit-font-smoothing: antialiased;
+  color: var(--color-text);
+  background: var(--color-background);
+}
+
+h1, h2, h3, h4, p, ul, ol {
+  margin: 0;
+}
+
+ul, ol {
+  padding: 0;
+  list-style: none;
+}
+
+a {
+  color: inherit;
+}
+
+button {
+  font: inherit;
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-focus);
+  outline-offset: 2px;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+/* Prototype label (fixed, unobtrusive) */
+.prototype-label {
+  position: fixed;
+  left: var(--space-4);
+  bottom: var(--space-4);
+  z-index: 100;
+  padding: var(--space-1) var(--space-3);
+  border-radius: var(--radius-sm);
+  background: rgba(0, 0, 0, 0.72);
+  color: #fff;
+  font-size: 12px;
+  line-height: 20px;
+  font-weight: var(--weight-medium);
+  pointer-events: none;
+}

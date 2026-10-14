@@ -1,0 +1,348 @@
+{
+  "users": [
+    {
+      "id": "u-mkhan",
+      "name": "Maya Khan",
+      "handle": "maya_khan"
+    },
+    {
+      "id": "u-jlind",
+      "name": "Johan Lindqvist",
+      "handle": "jlindqvist"
+    },
+    {
+      "id": "u-aokafor",
+      "name": "Ada Okafor",
+      "handle": "ada_okafor"
+    },
+    {
+      "id": "u-rtanaka",
+      "name": "Ren Tanaka",
+      "handle": "rtanaka_lab"
+    },
+    {
+      "id": "u-sbecker",
+      "name": "Sofia Becker",
+      "handle": "sofia.becker"
+    },
+    {
+      "id": "u-dmensah",
+      "name": "Daniel Mensah",
+      "handle": "dmensah"
+    },
+    {
+      "id": "u-lgarcia",
+      "name": "Lucía García",
+      "handle": "lucia_garcia"
+    },
+    {
+      "id": "u-pnair",
+      "name": "Priya Nair",
+      "handle": "priyanair"
+    },
+    {
+      "id": "u-tobrien",
+      "name": "Tom O'Brien",
+      "handle": "tobrien_bio"
+    },
+    {
+      "id": "u-hcheng",
+      "name": "Hui Cheng",
+      "handle": "huicheng"
+    },
+    {
+      "id": "u-ewalsh",
+      "name": "Emma Walsh",
+      "handle": "emmawalsh"
+    },
+    {
+      "id": "u-kfischer",
+      "name": "Kai Fischer",
+      "handle": "kfischer"
+    }
+  ],
+  "comments": [
+    {
+      "id": "seed-1",
+      "articleId": "110151",
+      "parentId": null,
+      "userId": "u-pnair",
+      "createdAt": "2026-10-13T09:10:00Z",
+      "body": "Lovely combination of anatomy and force measurements. I hadn't appreciated that the labellum teeth do so much of the work.\n\nDid you see any difference in probing behaviour between teneral and older flies? That seems relevant for transmission, since young flies are thought to be more susceptible to trypanosome infection."
+    },
+    {
+      "id": "seed-2",
+      "articleId": "110151",
+      "parentId": "seed-1",
+      "userId": "u-tobrien",
+      "createdAt": "2026-10-13T11:42:00Z",
+      "body": "Good question. From the methods it looks like all the force recordings were from flies of a single age, so that would be a nice follow-up."
+    },
+    {
+      "id": "seed-3",
+      "articleId": "108234",
+      "parentId": null,
+      "userId": "u-rtanaka",
+      "createdAt": "2026-10-12T08:25:00Z",
+      "body": "The low dimensionality of the head-wide activity is striking. I'd be curious how much of it is driven by locomotion state rather than the odour stimulus itself. Were the animals immobilised for all recordings?"
+    },
+    {
+      "id": "seed-4",
+      "articleId": "108234",
+      "parentId": null,
+      "userId": "u-kfischer",
+      "createdAt": "2026-10-12T10:03:00Z",
+      "body": "Really useful framework. Is the analysis code available? I couldn't find a link in the data availability statement."
+    },
+    {
+      "id": "seed-5",
+      "articleId": "110329",
+      "parentId": null,
+      "userId": "u-jlind",
+      "createdAt": "2026-10-10T14:20:00Z",
+      "body": "This is a neat alternative to the depletion model for low-frequency depression. The undocking idea fits our own observations at hippocampal mossy fibre synapses, where we also see depression at 1–2 Hz that's hard to explain by RRP depletion alone.\n\nOne thing I'd like to see discussed more: how does the proposed undocking rate compare with published estimates of vesicle docking time constants? If those are much slower, the model would need an additional step."
+    },
+    {
+      "id": "seed-6",
+      "articleId": "110329",
+      "parentId": "seed-5",
+      "userId": "u-aokafor",
+      "createdAt": "2026-10-10T16:45:00Z",
+      "body": "Agree this deserves more discussion. The supplementary modelling section touches on it, but only briefly."
+    },
+    {
+      "id": "seed-7",
+      "articleId": "110329",
+      "parentId": null,
+      "userId": "u-ewalsh",
+      "createdAt": "2026-10-10T17:30:00Z",
+      "body": "Clear figures and a well-argued paper. Recommending it to our journal club."
+    },
+    {
+      "id": "seed-8",
+      "articleId": "111124",
+      "parentId": null,
+      "userId": "u-hcheng",
+      "createdAt": "2026-10-07T07:55:00Z",
+      "body": "Explicitly modelling desolvation is a welcome step. How sensitive are the phase diagrams to the choice of solvation parameters? A short sensitivity analysis would make it easier to adopt the model."
+    },
+    {
+      "id": "seed-9",
+      "articleId": "109219",
+      "parentId": null,
+      "userId": "u-sbecker",
+      "createdAt": "2026-10-04T12:00:00Z",
+      "body": "Interesting to see two distinct thymic macrophage populations with different origins. The Csf1r result is the most surprising part for me. Could the effect on early T cell development be indirect, through changes in the thymic epithelium?"
+    },
+    {
+      "id": "seed-10",
+      "articleId": "109219",
+      "parentId": "seed-9",
+      "userId": "u-pnair",
+      "createdAt": "2026-10-04T15:22:00Z",
+      "body": "That was my first thought too. The epithelial markers in the scRNA-seq data look unchanged, which argues against it, but a direct test would be more convincing."
+    },
+    {
+      "id": "seed-11",
+      "articleId": "110428",
+      "parentId": null,
+      "userId": "u-dmensah",
+      "createdAt": "2026-10-01T09:30:00Z",
+      "body": "A spheroid-based screen like this is badly needed. We've struggled with variability in spheroid size, so the uniform sizing method alone is valuable. How many plates could you run per day with this setup?"
+    },
+    {
+      "id": "seed-12",
+      "articleId": "110428",
+      "parentId": null,
+      "userId": "u-lgarcia",
+      "createdAt": "2026-10-01T13:12:00Z",
+      "body": "Would be great to see this validated with primary human islets at some point, although I appreciate the access issues."
+    },
+    {
+      "id": "seed-13",
+      "articleId": "108588",
+      "parentId": null,
+      "userId": "u-tobrien",
+      "createdAt": "2026-09-26T10:40:00Z",
+      "body": "Beautiful imaging of the actomyosin redistribution. The bidirectional model is elegant. Do you think a similar mechanism operates in other tube-forming epithelia, for example in the vertebrate neural tube?"
+    },
+    {
+      "id": "seed-14",
+      "articleId": "110011",
+      "parentId": null,
+      "userId": "u-ewalsh",
+      "createdAt": "2026-09-29T08:50:00Z",
+      "body": "This is a nice mechanistic link between hyperphosphorylation and transport defects. I wondered whether the phosphomimetic constructs fully reproduce the behaviour of tau phosphorylated in vivo, since phosphomimetics often don't capture everything."
+    },
+    {
+      "id": "seed-15",
+      "articleId": "110011",
+      "parentId": "seed-14",
+      "userId": "u-kfischer",
+      "createdAt": "2026-09-29T11:15:00Z",
+      "body": "Fair point. The authors do include some in vitro phosphorylated tau in the supplement, and it behaves similarly, which is reassuring."
+    },
+    {
+      "id": "seed-16",
+      "articleId": "110011",
+      "parentId": null,
+      "userId": "u-mkhan",
+      "createdAt": "2026-09-30T09:05:00Z",
+      "body": "Does the loss of cooperative binding change which motor proteins are affected most? Kinesin-1 and dynein might respond differently to the tau envelope."
+    },
+    {
+      "id": "seed-17",
+      "articleId": "102810",
+      "parentId": null,
+      "userId": "u-lgarcia",
+      "createdAt": "2026-09-23T14:30:00Z",
+      "body": "The speed of this entry pathway is remarkable. Does it depend on the strain? Clinical isolates can vary a lot in how they interact with host cells, so it would be good to know if this is a general feature."
+    },
+    {
+      "id": "seed-18",
+      "articleId": "105212",
+      "parentId": null,
+      "userId": "u-sbecker",
+      "createdAt": "2026-09-17T10:20:00Z",
+      "body": "An important paper for anyone working on DGK inhibitors in cancer immunotherapy. If DGKα/ζ loss destabilises Tregs this strongly, it's a safety signal worth watching in the clinic."
+    },
+    {
+      "id": "seed-19",
+      "articleId": "105212",
+      "parentId": "seed-18",
+      "userId": "u-dmensah",
+      "createdAt": "2026-09-18T08:35:00Z",
+      "body": "Agreed. Although the inhibitors in development are mostly given short-term, which might avoid the autoimmunity seen with genetic deletion."
+    },
+    {
+      "id": "seed-20",
+      "articleId": "108950",
+      "parentId": null,
+      "userId": "u-hcheng",
+      "createdAt": "2026-09-13T16:00:00Z",
+      "body": "Modelling transcription and regulation together, not just splicing, makes a lot of sense. How does TSvelo perform on datasets with very few unspliced reads, such as some 3′ protocols?"
+    },
+    {
+      "id": "seed-21",
+      "articleId": "108950",
+      "parentId": null,
+      "userId": "u-rtanaka",
+      "createdAt": "2026-09-14T09:45:00Z",
+      "body": "I tried it on one of our datasets this morning. It installed easily and the results looked more coherent than scVelo for our differentiation trajectory. I'll report back after more testing."
+    },
+    {
+      "id": "seed-22",
+      "articleId": "105741",
+      "parentId": null,
+      "userId": "u-aokafor",
+      "createdAt": "2026-09-06T11:25:00Z",
+      "body": "Junction detection in serum as a recurrence marker is promising. The cohort is fairly small, though. Are there plans for a prospective validation study?"
+    },
+    {
+      "id": "seed-23",
+      "articleId": "110251",
+      "parentId": null,
+      "userId": "u-ewalsh",
+      "createdAt": "2026-08-31T13:40:00Z",
+      "body": "Useful work for anyone interpreting soil eDNA surveys. The variation in degradation rates between sequences is a bit worrying for community comparisons. Could you suggest practical corrections that survey studies could apply?"
+    },
+    {
+      "id": "seed-24",
+      "articleId": "110251",
+      "parentId": "seed-23",
+      "userId": "u-jlind",
+      "createdAt": "2026-09-01T08:15:00Z",
+      "body": "Seconding this. Even a simple rule of thumb for which taxa are likely over- or under-represented would help."
+    },
+    {
+      "id": "seed-25",
+      "articleId": "110015",
+      "parentId": null,
+      "userId": "u-mkhan",
+      "createdAt": "2026-08-22T15:10:00Z",
+      "body": "Such a fun question, and the phylogenetic analysis is convincing. I'd love to know more about the biomechanics: is sideways walking actually faster or more stable for a crab-shaped body?"
+    },
+    {
+      "id": "seed-26",
+      "articleId": "110015",
+      "parentId": "seed-25",
+      "userId": "u-tobrien",
+      "createdAt": "2026-08-23T10:00:00Z",
+      "body": "There's some older work on leg kinematics in ghost crabs that might help here. Sideways gaits let the legs avoid interfering with each other at high speed."
+    },
+    {
+      "id": "seed-27",
+      "articleId": "110015",
+      "parentId": null,
+      "userId": "u-pnair",
+      "createdAt": "2026-08-24T19:20:00Z",
+      "body": "Shared this with my undergraduate evolution class. They loved it."
+    },
+    {
+      "id": "seed-28",
+      "articleId": "110148",
+      "parentId": null,
+      "userId": "u-kfischer",
+      "createdAt": "2026-08-19T09:00:00Z",
+      "body": "Fascinating example of a latent developmental network being redeployed. How did you rule out gene flow or hybridisation as an explanation for the re-evolved trait?"
+    },
+    {
+      "id": "seed-29",
+      "articleId": "94480",
+      "parentId": null,
+      "userId": "u-lgarcia",
+      "createdAt": "2026-08-10T12:30:00Z",
+      "body": "A simple score based on routine serum markers could be useful clinically. I'd want to see external validation in an independent cohort before relying on it, since retrospective single-centre data can overestimate performance."
+    },
+    {
+      "id": "seed-30",
+      "articleId": "106492",
+      "parentId": null,
+      "userId": "u-hcheng",
+      "createdAt": "2026-08-04T10:10:00Z",
+      "body": "The link between arginine restriction and lipid synthesis is unexpected. Does dietary arginine restriction in mice reproduce the sensitivity to polyunsaturated fatty acids?"
+    },
+    {
+      "id": "seed-31",
+      "articleId": "106492",
+      "parentId": null,
+      "userId": "u-sbecker",
+      "createdAt": "2026-08-05T14:55:00Z",
+      "body": "Also curious whether this extends to other poorly perfused tumours, not just pancreatic cancer."
+    },
+    {
+      "id": "seed-32",
+      "articleId": "109174",
+      "parentId": null,
+      "userId": "u-dmensah",
+      "createdAt": "2026-07-26T09:40:00Z",
+      "body": "Good to see a mechanism proposed for a drug that's already used clinically. The docking data are suggestive, but direct binding measurements between MgIG and HSD11B1 would strengthen the conclusion."
+    },
+    {
+      "id": "seed-33",
+      "articleId": "108224",
+      "parentId": null,
+      "userId": "u-rtanaka",
+      "createdAt": "2026-07-04T11:05:00Z",
+      "body": "Arrayed perturbations in organoids at this scale is impressive. How reproducible were the closure phenotypes between independent differentiations?"
+    },
+    {
+      "id": "seed-34",
+      "articleId": "108224",
+      "parentId": "seed-33",
+      "userId": "u-ewalsh",
+      "createdAt": "2026-07-05T08:20:00Z",
+      "body": "The reproducibility figures in the supplement look solid to me, with replicates from three separate differentiations."
+    },
+    {
+      "id": "seed-35",
+      "articleId": "88132",
+      "parentId": null,
+      "userId": "u-pnair",
+      "createdAt": "2026-01-03T10:30:00Z",
+      "body": "A nice example of a vector salivary protein directly helping a virus. Could blocking the LssaCA–NP interaction be a route to reducing transmission in the field?"
+    }
+  ],
+  "datesAdjusted": true,
+  "allDatesAdjusted": true
+}
